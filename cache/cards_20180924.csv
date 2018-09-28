@@ -1,0 +1,3404 @@
+card_name,set,set_name,modern,usd,eur
+Assassin's Trophy,grn,Guilds of Ravnica,not_legal,24.42,19.94
+"Aurelia, Exemplar of Justice",grn,Guilds of Ravnica,not_legal,9.33,7.35
+Divine Visitation,grn,Guilds of Ravnica,not_legal,8.93,5.39
+Doom Whisperer,grn,Guilds of Ravnica,not_legal,15.80,7.50
+Dream Eater,grn,Guilds of Ravnica,not_legal,3.16,3.27
+Knight of Autumn,grn,Guilds of Ravnica,not_legal,4.55,4.01
+"Lazav, the Multifarious",grn,Guilds of Ravnica,not_legal,6.96,3.64
+Legion Warboss,grn,Guilds of Ravnica,not_legal,3.23,2.81
+March of the Multitudes,grn,Guilds of Ravnica,not_legal,5.49,3.89
+Mission Briefing,grn,Guilds of Ravnica,not_legal,8.51,7.04
+Mnemonic Betrayal,grn,Guilds of Ravnica,not_legal,4.99,2.08
+Nullhide Ferox,grn,Guilds of Ravnica,not_legal,7.92,5.20
+Overgrown Tomb,grn,Guilds of Ravnica,legal,6.90,4.91
+"Ral, Izzet Viceroy",grn,Guilds of Ravnica,not_legal,10.85,7.71
+Sacred Foundry,grn,Guilds of Ravnica,legal,7.88,5.26
+Steam Vents,grn,Guilds of Ravnica,legal,8.19,6.08
+Temple Garden,grn,Guilds of Ravnica,legal,6.04,4.56
+Underrealm Lich,grn,Guilds of Ravnica,not_legal,4.41,3.46
+Unmoored Ego,grn,Guilds of Ravnica,not_legal,2.51,2.10
+"Vraska, Golgari Queen",grn,Guilds of Ravnica,not_legal,13.72,9.72
+Watery Grave,grn,Guilds of Ravnica,legal,8.32,6.01
+"Arixmethes, Slumbering Isle",c18,Commander 2018,not_legal,4.56,5.80
+Estrid's Invocation,c18,Commander 2018,not_legal,3.99,2.07
+Lord Windgrace,c18,Commander 2018,not_legal,5.99,5.23
+"Saheeli, the Gifted",c18,Commander 2018,not_legal,4.77,5.09
+Terminus,c18,Commander 2018,legal,2.79,2.03
+Treasure Nabber,c18,Commander 2018,not_legal,6.36,5.11
+Turntimber Sower,c18,Commander 2018,not_legal,0.79,2.16
+Tuvasa the Sunlit,c18,Commander 2018,not_legal,2.82,2.17
+Unwinding Clock,c18,Commander 2018,legal,1.99,2.05
+"Varina, Lich Queen",c18,Commander 2018,not_legal,2.29,2.80
+Windgrace's Judgment,c18,Commander 2018,not_legal,6.77,5.01
+"Xantcha, Sleeper Agent",c18,Commander 2018,not_legal,4.42,2.04
+"Yuriko, the Tiger's Shadow",c18,Commander 2018,not_legal,13.98,11.91
+Aggressive Mammoth,m19,Core Set 2019,legal,2.88,2.67
+"Ajani, Adversary of Tyrants",m19,Core Set 2019,legal,7.78,8.36
+"Ajani, Wise Counselor",m19,Core Set 2019,legal,6.06,7.09
+"Arcades, the Strategist",m19,Core Set 2019,legal,3.42,4.05
+"Chromium, the Mutable",m19,Core Set 2019,legal,1.96,3.06
+Crucible of Worlds,m19,Core Set 2019,legal,14.57,11.13
+Death Baron,m19,Core Set 2019,legal,2.75,2.85
+"Liliana, the Necromancer",m19,Core Set 2019,legal,7.13,8.97
+"Liliana, Untouched by Death",m19,Core Set 2019,legal,4.27,5.41
+Mist-Cloaked Herald,m19,Core Set 2019,legal,1.29,2.81
+"Nicol Bolas, the Ravager // Nicol Bolas, the Arisen",m19,Core Set 2019,legal,22.68,19.76
+Omniscience,m19,Core Set 2019,legal,4.17,3.95
+Resplendent Angel,m19,Core Set 2019,legal,8.89,9.12
+"Sai, Master Thopterist",m19,Core Set 2019,legal,2.99,3.34
+"Sarkhan, Dragonsoul",m19,Core Set 2019,legal,9.31,9.51
+"Sarkhan, Fireblood",m19,Core Set 2019,legal,12.43,12.93
+Scapeshift,m19,Core Set 2019,legal,7.88,8.28
+Supreme Phantom,m19,Core Set 2019,legal,2.03,3.26
+"Tezzeret, Artifice Master",m19,Core Set 2019,legal,5.99,6.95
+"Tezzeret, Cruel Machinist",m19,Core Set 2019,legal,4.78,5.26
+Vivien of the Arkbow,m19,Core Set 2019,legal,6.99,4.95
+Vivien Reid,m19,Core Set 2019,legal,6.66,7.87
+Ancestor Dragon,gs1,Global Series Jiang Yanggu & Mu Yanling,not_legal,0.39,2.50
+Jiang Yanggu,gs1,Global Series Jiang Yanggu & Mu Yanling,not_legal,6.10,6.43
+Mu Yanling,gs1,Global Series Jiang Yanggu & Mu Yanling,not_legal,6.74,7.75
+Gifts Ungiven,ss1,Signature Spellbook: Jace,legal,3.49,2.65
+Mystical Tutor,ss1,Signature Spellbook: Jace,not_legal,5.66,2.39
+Arcane Artisan,bbd,Battlebond,not_legal,7.72,6.03
+Archfiend of Despair,bbd,Battlebond,not_legal,5.99,2.76
+Arena Rector,bbd,Battlebond,not_legal,13.48,11.71
+Bountiful Promenade,bbd,Battlebond,not_legal,6.82,4.25
+Bramble Sovereign,bbd,Battlebond,not_legal,7.74,6.03
+Brightling,bbd,Battlebond,not_legal,10.61,9.13
+Diabolic Intent,bbd,Battlebond,not_legal,4.91,3.47
+Doubling Season,bbd,Battlebond,legal,33.20,25.29
+Land Tax,bbd,Battlebond,not_legal,17.15,12.81
+Luxury Suite,bbd,Battlebond,not_legal,6.39,4.15
+Morphic Pool,bbd,Battlebond,not_legal,9.75,5.18
+Mycosynth Lattice,bbd,Battlebond,legal,8.02,3.73
+Mystic Confluence,bbd,Battlebond,not_legal,2.64,2.75
+"Najeela, the Blade-Blossom",bbd,Battlebond,not_legal,7.04,5.27
+Nirkana Revenant,bbd,Battlebond,legal,4.91,3.21
+Rowan Kenrith,bbd,Battlebond,not_legal,3.49,2.76
+Sea of Clouds,bbd,Battlebond,not_legal,7.55,4.57
+Seedborn Muse,bbd,Battlebond,legal,5.94,3.20
+Spellseeker,bbd,Battlebond,not_legal,5.43,4.75
+Spire Garden,bbd,Battlebond,not_legal,5.16,3.46
+True-Name Nemesis,bbd,Battlebond,not_legal,10.40,11.35
+Will Kenrith,bbd,Battlebond,not_legal,5.99,5.73
+Ash Barrens,cm2,Commander Anthology Volume II,not_legal,2.03,2.21
+"Atraxa, Praetors' Voice",cm2,Commander Anthology Volume II,not_legal,16.29,11.45
+Blade of Selves,cm2,Commander Anthology Volume II,not_legal,5.11,3.24
+Blasphemous Act,cm2,Commander Anthology Volume II,legal,2.44,2.11
+Caged Sun,cm2,Commander Anthology Volume II,legal,6.91,3.76
+"Damia, Sage of Stone",cm2,Commander Anthology Volume II,not_legal,6.46,2.79
+"Daretti, Scrap Savant",cm2,Commander Anthology Volume II,not_legal,4.56,2.05
+Deepglow Skate,cm2,Commander Anthology Volume II,not_legal,6.64,3.03
+Eternal Witness,cm2,Commander Anthology Volume II,legal,6.99,3.96
+Fiery Confluence,cm2,Commander Anthology Volume II,not_legal,13.89,13.45
+"Gisela, Blade of Goldnight",cm2,Commander Anthology Volume II,legal,4.47,2.54
+Grave Pact,cm2,Commander Anthology Volume II,legal,11.03,6.43
+Hardened Scales,cm2,Commander Anthology Volume II,legal,5.11,3.13
+Kalonian Hydra,cm2,Commander Anthology Volume II,legal,4.85,2.54
+Lightning Greaves,cm2,Commander Anthology Volume II,legal,4.48,2.04
+Oblivion Stone,cm2,Commander Anthology Volume II,legal,6.01,3.81
+"Reyhan, Last of the Abzan",cm2,Commander Anthology Volume II,not_legal,3.82,2.69
+Ruby Medallion,cm2,Commander Anthology Volume II,not_legal,5.16,3.13
+Scavenging Ooze,cm2,Commander Anthology Volume II,legal,3.15,2.92
+"Skullbriar, the Walking Grave",cm2,Commander Anthology Volume II,not_legal,3.16,2.03
+The Mimeoplasm,cm2,Commander Anthology Volume II,not_legal,4.90,2.79
+Thought Vessel,cm2,Commander Anthology Volume II,not_legal,6.91,3.63
+Urza's Incubator,cm2,Commander Anthology Volume II,not_legal,9.98,5.95
+Wurmcoil Engine,cm2,Commander Anthology Volume II,legal,20.78,13.71
+"Chandra, Bold Pyromancer",dom,Dominaria,legal,3.99,4.42
+Goblin Chainwhirler,dom,Dominaria,legal,3.49,3.09
+Hinterland Harbor,dom,Dominaria,legal,2.62,2.21
+History of Benalia,dom,Dominaria,legal,10.76,10.07
+Isolated Chapel,dom,Dominaria,legal,3.01,2.56
+Jaya Ballard,dom,Dominaria,legal,3.66,2.72
+"Karn, Scion of Urza",dom,Dominaria,legal,26.90,25.67
+Lyra Dawnbringer,dom,Dominaria,legal,11.79,10.58
+Mox Amber,dom,Dominaria,legal,10.05,8.92
+"Muldrotha, the Gravetide",dom,Dominaria,legal,3.49,2.27
+"Shalai, Voice of Plenty",dom,Dominaria,legal,2.63,2.60
+Steel Leaf Champion,dom,Dominaria,legal,3.53,2.60
+Sulfur Falls,dom,Dominaria,legal,4.77,3.78
+"Teferi, Hero of Dominaria",dom,Dominaria,legal,44.57,44.21
+"Teferi, Timebender",dom,Dominaria,legal,2.79,5.29
+Woodland Cemetery,dom,Dominaria,legal,4.12,3.36
+Darksteel Plate,ddu,Duel Decks: Elves vs. Inventors,legal,4.18,2.67
+Elvish Archdruid,ddu,Duel Decks: Elves vs. Inventors,legal,2.67,2.30
+"Ezuri, Renegade Leader",ddu,Duel Decks: Elves vs. Inventors,legal,3.95,2.68
+Goblin Welder,ddu,Duel Decks: Elves vs. Inventors,not_legal,1.03,2.40
+Solemn Simulacrum,ddu,Duel Decks: Elves vs. Inventors,legal,4.87,2.14
+Ancient Stirrings,a25,Masters 25,legal,1.99,2.18
+"Animar, Soul of Elements",a25,Masters 25,not_legal,7.40,7.05
+Armageddon,a25,Masters 25,not_legal,2.99,2.48
+Ash Barrens,a25,Masters 25,not_legal,2.02,2.01
+"Azusa, Lost but Seeking",a25,Masters 25,legal,17.21,13.38
+Blood Moon,a25,Masters 25,legal,17.46,18.35
+Cascade Bluffs,a25,Masters 25,legal,5.97,6.14
+Chalice of the Void,a25,Masters 25,legal,39.81,33.57
+Coalition Relic,a25,Masters 25,legal,4.49,2.98
+Courser of Kruphix,a25,Masters 25,legal,3.49,3.60
+Eidolon of the Great Revel,a25,Masters 25,legal,3.88,5.42
+Eladamri's Call,a25,Masters 25,not_legal,2.99,2.98
+Ensnaring Bridge,a25,Masters 25,legal,39.80,37.06
+Fetid Heath,a25,Masters 25,legal,6.32,6.54
+Flooded Grove,a25,Masters 25,legal,5.02,5.23
+"Gisela, Blade of Goldnight",a25,Masters 25,legal,3.97,2.88
+Imperial Recruiter,a25,Masters 25,not_legal,26.40,26.30
+"Jace, the Mind Sculptor",a25,Masters 25,legal,81.75,76.86
+Lightning Bolt,a25,Masters 25,legal,2.88,2.63
+Master of the Wild Hunt,a25,Masters 25,legal,2.85,3.12
+Pact of Negation,a25,Masters 25,legal,9.45,7.92
+Pendelhaven,a25,Masters 25,legal,1.99,2.84
+Pernicious Deed,a25,Masters 25,not_legal,2.99,2.24
+Phyrexian Obliterator,a25,Masters 25,legal,17.38,17.29
+Rest in Peace,a25,Masters 25,legal,5.41,5.65
+Rishadan Port,a25,Masters 25,not_legal,17.44,22.43
+Rugged Prairie,a25,Masters 25,legal,4.07,3.83
+Street Wraith,a25,Masters 25,legal,1.99,2.79
+Summoner's Pact,a25,Masters 25,legal,4.99,5.81
+"Thalia, Guardian of Thraben",a25,Masters 25,legal,9.48,10.78
+Twilight Mire,a25,Masters 25,legal,5.63,6.97
+Utopia Sprawl,a25,Masters 25,legal,2.99,2.10
+Vendilion Clique,a25,Masters 25,legal,18.76,18.30
+Vindicate,a25,Masters 25,not_legal,2.67,2.69
+"Angrath, the Flame-Chained",rix,Rivals of Ixalan,legal,5.75,4.67
+Azor's Gateway // Sanctum of the Sun,rix,Rivals of Ixalan,legal,2.99,3.74
+Dire Fleet Daredevil,rix,Rivals of Ixalan,legal,1.99,2.79
+"Elenda, the Dusk Rose",rix,Rivals of Ixalan,legal,6.99,4.22
+"Ghalta, Primal Hunger",rix,Rivals of Ixalan,legal,8.43,6.67
+"Huatli, Radiant Champion",rix,Rivals of Ixalan,legal,5.11,3.76
+Jadelight Ranger,rix,Rivals of Ixalan,legal,4.99,5.06
+"Journey to Eternity // Atzal, Cave of Eternity",rix,Rivals of Ixalan,legal,2.06,2.05
+"Kumena, Tyrant of Orazca",rix,Rivals of Ixalan,legal,5.33,5.55
+Polyraptor,rix,Rivals of Ixalan,legal,1.99,2.34
+Radiant Destiny,rix,Rivals of Ixalan,legal,3.38,2.35
+Rekindling Phoenix,rix,Rivals of Ixalan,legal,20.54,18.98
+Tendershoot Dryad,rix,Rivals of Ixalan,legal,3.85,4.07
+The Immortal Sun,rix,Rivals of Ixalan,legal,10.38,7.74
+Twilight Prophet,rix,Rivals of Ixalan,legal,8.32,6.87
+"Vraska, Scheming Gorgon",rix,Rivals of Ixalan,legal,4.30,5.08
+Wayward Swordtooth,rix,Rivals of Ixalan,legal,5.12,2.70
+"Zacama, Primal Calamity",rix,Rivals of Ixalan,legal,9.47,5.27
+Island,ust,Unstable,legal,4.04,2.46
+Swamp,ust,Unstable,legal,3.52,2.13
+Adaptive Automaton,e02,Explorers of Ixalan,legal,2.91,3.22
+Aggravated Assault,e02,Explorers of Ixalan,not_legal,5.24,5.10
+Path to Exile,e02,Explorers of Ixalan,legal,6.99,5.97
+Quicksilver Amulet,e02,Explorers of Ixalan,legal,4.40,4.93
+Shared Animosity,e02,Explorers of Ixalan,legal,5.03,5.40
+Time Warp,e02,Explorers of Ixalan,legal,9.99,10.50
+"Archangel Avacyn // Avacyn, the Purifier",v17,From the Vault: Transform,legal,4.99,3.85
+"Arlinn Kord // Arlinn, Embraced by the Moon",v17,From the Vault: Transform,legal,3.47,2.24
+Bloodline Keeper // Lord of Lineage,v17,From the Vault: Transform,legal,9.82,7.54
+Delver of Secrets // Insectile Aberration,v17,From the Vault: Transform,legal,9.71,8.06
+"Garruk Relentless // Garruk, the Veil-Cursed",v17,From the Vault: Transform,legal,4.24,3.38
+Huntmaster of the Fells // Ravager of the Fells,v17,From the Vault: Transform,legal,10.99,9.28
+"Jace, Vryn's Prodigy // Jace, Telepath Unbound",v17,From the Vault: Transform,legal,16.46,16.19
+"Kytheon, Hero of Akros // Gideon, Battle-Forged",v17,From the Vault: Transform,legal,3.99,3.89
+"Liliana, Heretical Healer // Liliana, Defiant Necromancer",v17,From the Vault: Transform,legal,9.54,6.30
+"Nissa, Vastwood Seer // Nissa, Sage Animist",v17,From the Vault: Transform,legal,6.81,5.03
+Aether Vial,ima,Iconic Masters,legal,33.22,24.06
+Ancestral Vision,ima,Iconic Masters,legal,9.73,10.33
+Archangel of Thune,ima,Iconic Masters,legal,12.05,10.45
+Auriok Champion,ima,Iconic Masters,legal,3.75,3.91
+Austere Command,ima,Iconic Masters,legal,4.72,2.79
+"Avacyn, Angel of Hope",ima,Iconic Masters,legal,17.15,10.53
+Bloodghast,ima,Iconic Masters,legal,11.94,11.37
+Consecrated Sphinx,ima,Iconic Masters,legal,12.89,8.78
+Cryptic Command,ima,Iconic Masters,legal,22.00,20.42
+"Elesh Norn, Grand Cenobite",ima,Iconic Masters,legal,13.03,10.40
+Flusterstorm,ima,Iconic Masters,not_legal,12.22,13.08
+Glimpse the Unthinkable,ima,Iconic Masters,legal,5.24,4.66
+Grove of the Burnwillows,ima,Iconic Masters,legal,11.87,12.34
+Horizon Canopy,ima,Iconic Masters,legal,53.98,49.26
+"Jin-Gitaxias, Core Augur",ima,Iconic Masters,legal,6.26,4.53
+"Kiki-Jiki, Mirror Breaker",ima,Iconic Masters,legal,7.54,5.64
+Knight of the Reliquary,ima,Iconic Masters,legal,3.20,3.25
+"Kokusho, the Evening Star",ima,Iconic Masters,legal,4.69,3.58
+Lotus Cobra,ima,Iconic Masters,legal,5.80,4.11
+Magus of the Moon,ima,Iconic Masters,legal,5.40,5.22
+Mana Drain,ima,Iconic Masters,not_legal,50.54,39.63
+Mishra's Bauble,ima,Iconic Masters,legal,3.53,4.08
+Necropotence,ima,Iconic Masters,not_legal,5.49,3.12
+Oblivion Stone,ima,Iconic Masters,legal,5.54,3.92
+"Ob Nixilis, the Fallen",ima,Iconic Masters,legal,6.49,2.42
+Primeval Titan,ima,Iconic Masters,legal,7.57,7.33
+Restoration Angel,ima,Iconic Masters,legal,2.08,2.33
+Serra Ascendant,ima,Iconic Masters,legal,5.72,5.25
+"Sheoldred, Whispering One",ima,Iconic Masters,legal,12.22,7.31
+Supreme Verdict,ima,Iconic Masters,legal,4.25,3.93
+Thoughtseize,ima,Iconic Masters,legal,13.81,15.05
+Thundermaw Hellkite,ima,Iconic Masters,legal,3.43,3.60
+Urabrask the Hidden,ima,Iconic Masters,legal,3.47,2.64
+"Vorinclex, Voice of Hunger",ima,Iconic Masters,legal,12.27,7.43
+Goblin Chieftain,ddt,Duel Decks: Merfolk vs. Goblins,legal,2.86,2.55
+Goblin Rabblemaster,ddt,Duel Decks: Merfolk vs. Goblins,legal,3.72,2.94
+Master of the Pearl Trident,ddt,Duel Decks: Merfolk vs. Goblins,legal,4.08,4.91
+Master of Waves,ddt,Duel Decks: Merfolk vs. Goblins,legal,1.69,2.29
+Warren Instigator,ddt,Duel Decks: Merfolk vs. Goblins,legal,2.65,2.69
+Carnage Tyrant,xln,Ixalan,legal,19.03,13.70
+Dragonskull Summit,xln,Ixalan,legal,3.38,2.45
+Drowned Catacomb,xln,Ixalan,legal,5.03,3.56
+Field of Ruin,xln,Ixalan,legal,3.69,3.09
+"Gishath, Sun's Avatar",xln,Ixalan,legal,2.65,2.12
+Glacial Fortress,xln,Ixalan,legal,4.94,3.38
+"Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",xln,Ixalan,legal,5.82,3.55
+Hostage Taker,xln,Ixalan,legal,2.66,2.45
+"Huatli, Dinosaur Knight",xln,Ixalan,legal,4.42,5.42
+"Jace, Ingenious Mind-Mage",xln,Ixalan,legal,3.87,5.33
+"Legion's Landing // Adanto, the First Fort",xln,Ixalan,legal,3.18,3.23
+Ripjaw Raptor,xln,Ixalan,legal,2.97,2.90
+Rootbound Crag,xln,Ixalan,legal,3.22,2.45
+"Search for Azcanta // Azcanta, the Sunken Ruin",xln,Ixalan,legal,20.68,18.02
+Settle the Wreckage,xln,Ixalan,legal,6.39,5.56
+Sorcerous Spyglass,xln,Ixalan,legal,2.99,2.74
+Sunpetal Grove,xln,Ixalan,legal,4.27,2.44
+Treasure Map // Treasure Cove,xln,Ixalan,legal,2.49,2.66
+"Vraska, Relic Seeker",xln,Ixalan,legal,8.52,6.53
+Vraska's Contempt,xln,Ixalan,legal,13.32,9.67
+"Arahbo, Roar of the World",c17,Commander 2017,not_legal,0.48,3.30
+Bloodforged Battle-Axe,c17,Commander 2017,not_legal,4.42,2.25
+Captivating Vampire,c17,Commander 2017,legal,3.75,4.13
+Disrupt Decorum,c17,Commander 2017,not_legal,9.06,6.00
+Door of Destinies,c17,Commander 2017,legal,5.26,3.80
+Hammer of Nazahn,c17,Commander 2017,not_legal,9.72,5.43
+Herald's Horn,c17,Commander 2017,not_legal,12.18,8.86
+"Kess, Dissident Mage",c17,Commander 2017,not_legal,6.40,9.69
+Kindred Discovery,c17,Commander 2017,not_legal,8.82,7.39
+Kindred Dominance,c17,Commander 2017,not_legal,7.24,4.55
+Leonin Arbiter,c17,Commander 2017,legal,2.84,2.68
+"Mathas, Fiend Seeker",c17,Commander 2017,not_legal,0.75,2.24
+Mirari's Wake,c17,Commander 2017,not_legal,11.35,6.51
+"Mirri, Weatherlight Duelist",c17,Commander 2017,not_legal,7.22,2.99
+Path of Ancestry,c17,Commander 2017,not_legal,5.49,2.76
+Teferi's Protection,c17,Commander 2017,not_legal,27.99,21.69
+The Ur-Dragon,c17,Commander 2017,not_legal,4.84,2.98
+Traverse the Outlands,c17,Commander 2017,not_legal,6.99,4.94
+Vindictive Lich,c17,Commander 2017,not_legal,2.36,2.11
+Crested Sunmare,hou,Hour of Devastation,legal,3.99,2.71
+"Nicol Bolas, God-Pharaoh",hou,Hour of Devastation,legal,6.09,4.75
+"Nicol Bolas, the Deceiver",hou,Hour of Devastation,legal,4.84,6.32
+"Nissa, Genesis Mage",hou,Hour of Devastation,legal,3.54,4.50
+Ramunap Excavator,hou,Hour of Devastation,legal,3.58,2.04
+"Razaketh, the Foulblooded",hou,Hour of Devastation,legal,6.49,3.37
+The Locust God,hou,Hour of Devastation,legal,6.03,4.45
+The Scarab God,hou,Hour of Devastation,legal,11.99,7.79
+Torment of Hailfire,hou,Hour of Devastation,legal,5.06,2.85
+Ramunap Excavator,phou,Hour of Devastation Promos,legal,4.30,3.91
+Baleful Strix,e01,Archenemy: Nicol Bolas,not_legal,2.95,2.35
+Dragonskull Summit,e01,Archenemy: Nicol Bolas,legal,3.32,2.17
+Dreadbore,e01,Archenemy: Nicol Bolas,legal,3.49,2.71
+Drowned Catacomb,e01,Archenemy: Nicol Bolas,legal,4.49,3.58
+Gideon Jura,e01,Archenemy: Nicol Bolas,legal,3.36,2.60
+Grand Abolisher,e01,Archenemy: Nicol Bolas,legal,5.66,3.07
+Grim Lavamancer,e01,Archenemy: Nicol Bolas,legal,13.11,8.45
+Lightning Bolt,e01,Archenemy: Nicol Bolas,legal,3.19,2.80
+"Nicol Bolas, Planeswalker",e01,Archenemy: Nicol Bolas,legal,4.58,3.17
+"Nissa, Worldwaker",e01,Archenemy: Nicol Bolas,legal,3.82,2.20
+Sun Titan,e01,Archenemy: Nicol Bolas,legal,3.28,2.28
+Bane of Progress,cma,Commander Anthology,not_legal,4.59,2.05
+Eldrazi Monument,cma,Commander Anthology,legal,6.75,3.22
+Eternal Witness,cma,Commander Anthology,legal,7.35,4.72
+"Ezuri, Renegade Leader",cma,Commander Anthology,legal,4.49,3.44
+"Freyalise, Llanowar's Fury",cma,Commander Anthology,not_legal,8.99,7.03
+Joraga Warcaller,cma,Commander Anthology,legal,3.72,2.72
+Kaalia of the Vast,cma,Commander Anthology,not_legal,16.26,11.64
+Lightning Greaves,cma,Commander Anthology,legal,3.99,2.19
+"Mazirek, Kraul Death Priest",cma,Commander Anthology,not_legal,4.15,2.31
+Meren of Clan Nel Toth,cma,Commander Anthology,not_legal,8.99,7.24
+Path to Exile,cma,Commander Anthology,legal,7.44,5.78
+Priest of Titania,cma,Commander Anthology,not_legal,4.49,2.42
+Song of the Dryads,cma,Commander Anthology,not_legal,6.40,4.02
+Stranglehold,cma,Commander Anthology,not_legal,7.62,4.64
+Sylvan Safekeeper,cma,Commander Anthology,not_legal,6.82,4.81
+Thought Vessel,cma,Commander Anthology,not_legal,6.31,4.17
+Thousand-Year Elixir,cma,Commander Anthology,legal,5.06,2.62
+"Titania, Protector of Argoth",cma,Commander Anthology,not_legal,16.99,8.30
+Anointed Procession,akh,Amonkhet,legal,5.47,3.45
+As Foretold,akh,Amonkhet,legal,5.71,5.52
+Combat Celebrant,akh,Amonkhet,legal,1.99,2.08
+"Gideon, Martial Paragon",akh,Amonkhet,legal,2.50,3.22
+Gideon of the Trials,akh,Amonkhet,legal,4.49,4.86
+Hazoret the Fervent,akh,Amonkhet,legal,3.32,3.21
+"Liliana, Death's Majesty",akh,Amonkhet,legal,6.99,5.49
+"Liliana, Death Wielder",akh,Amonkhet,legal,4.65,4.23
+"Nissa, Steward of Elements",akh,Amonkhet,legal,3.23,3.34
+Rhonas the Indomitable,akh,Amonkhet,legal,8.19,5.30
+Vizier of the Menagerie,akh,Amonkhet,legal,2.98,2.02
+Glorybringer,pakh,Amonkhet Promos,legal,3.99,3.37
+Aggravated Assault,mp2,Amonkhet Invocations,not_legal,31.87,24.64
+Armageddon,mp2,Amonkhet Invocations,not_legal,31.85,26.25
+Attrition,mp2,Amonkhet Invocations,not_legal,28.11,21.63
+Austere Command,mp2,Amonkhet Invocations,legal,32.48,25.23
+Avatar of Woe,mp2,Amonkhet Invocations,legal,20.76,19.05
+Aven Mindcensor,mp2,Amonkhet Invocations,legal,25.95,21.67
+Blood Moon,mp2,Amonkhet Invocations,legal,156.68,110.23
+Boil,mp2,Amonkhet Invocations,legal,19.21,19.78
+Bontu the Glorified,mp2,Amonkhet Invocations,legal,24.52,19.16
+Capsize,mp2,Amonkhet Invocations,not_legal,39.25,31.63
+Chain Lightning,mp2,Amonkhet Invocations,not_legal,31.24,29.00
+Choke,mp2,Amonkhet Invocations,legal,40.04,35.25
+Consecrated Sphinx,mp2,Amonkhet Invocations,legal,66.34,45.54
+Containment Priest,mp2,Amonkhet Invocations,not_legal,56.54,45.04
+Counterbalance,mp2,Amonkhet Invocations,legal,38.76,36.17
+Counterspell,mp2,Amonkhet Invocations,not_legal,60.49,70.75
+Cryptic Command,mp2,Amonkhet Invocations,legal,80.91,64.82
+Damnation,mp2,Amonkhet Invocations,legal,104.95,79.89
+Dark Ritual,mp2,Amonkhet Invocations,not_legal,51.66,33.20
+Daze,mp2,Amonkhet Invocations,not_legal,73.76,93.22
+Desolation Angel,mp2,Amonkhet Invocations,not_legal,19.71,21.37
+Diabolic Edict,mp2,Amonkhet Invocations,not_legal,32.31,23.95
+Diabolic Intent,mp2,Amonkhet Invocations,not_legal,40.84,36.37
+Divert,mp2,Amonkhet Invocations,not_legal,18.96,15.07
+Doomsday,mp2,Amonkhet Invocations,not_legal,26.34,19.81
+Entomb,mp2,Amonkhet Invocations,not_legal,53.72,37.05
+Forbid,mp2,Amonkhet Invocations,not_legal,28.31,21.78
+Force of Will,mp2,Amonkhet Invocations,not_legal,214.75,171.45
+Hazoret the Fervent,mp2,Amonkhet Invocations,legal,84.24,50.44
+Kefnet the Mindful,mp2,Amonkhet Invocations,legal,23.94,20.27
+Lord of Extinction,mp2,Amonkhet Invocations,legal,35.47,22.92
+Loyal Retainers,mp2,Amonkhet Invocations,not_legal,29.39,25.14
+Maelstrom Pulse,mp2,Amonkhet Invocations,legal,67.44,45.86
+Mind Twist,mp2,Amonkhet Invocations,not_legal,29.90,27.61
+No Mercy,mp2,Amonkhet Invocations,not_legal,43.70,31.80
+Oketra the True,mp2,Amonkhet Invocations,legal,24.03,16.86
+Omniscience,mp2,Amonkhet Invocations,legal,111.35,80.65
+Opposition,mp2,Amonkhet Invocations,not_legal,22.70,21.74
+Pact of Negation,mp2,Amonkhet Invocations,legal,48.85,37.64
+Rhonas the Indomitable,mp2,Amonkhet Invocations,legal,53.41,39.82
+Shatterstorm,mp2,Amonkhet Invocations,legal,23.00,19.99
+Slaughter Pact,mp2,Amonkhet Invocations,legal,24.88,19.89
+Spell Pierce,mp2,Amonkhet Invocations,legal,51.57,43.49
+Stifle,mp2,Amonkhet Invocations,not_legal,44.88,39.00
+Sunder,mp2,Amonkhet Invocations,not_legal,19.61,15.48
+The Locust God,mp2,Amonkhet Invocations,legal,49.68,30.09
+The Scarab God,mp2,Amonkhet Invocations,legal,94.21,60.79
+The Scorpion God,mp2,Amonkhet Invocations,legal,28.19,22.17
+Thoughtseize,mp2,Amonkhet Invocations,legal,162.56,113.50
+Threads of Disloyalty,mp2,Amonkhet Invocations,legal,17.99,14.48
+Through the Breach,mp2,Amonkhet Invocations,legal,89.44,82.50
+Vindicate,mp2,Amonkhet Invocations,not_legal,29.28,24.47
+Worship,mp2,Amonkhet Invocations,legal,35.78,33.93
+Wrath of God,mp2,Amonkhet Invocations,legal,49.89,44.87
+Coat of Arms,dds,Duel Decks: Mind vs. Might,legal,6.77,4.67
+Abrupt Decay,mm3,Modern Masters 2017,legal,3.71,3.56
+Arid Mesa,mm3,Modern Masters 2017,legal,37.95,27.61
+Basilisk Collar,mm3,Modern Masters 2017,legal,4.10,3.37
+Blood Moon,mm3,Modern Masters 2017,legal,17.39,17.98
+Bonfire of the Damned,mm3,Modern Masters 2017,legal,2.99,2.59
+Cavern of Souls,mm3,Modern Masters 2017,legal,77.00,71.41
+Craterhoof Behemoth,mm3,Modern Masters 2017,legal,20.43,13.77
+Cyclonic Rift,mm3,Modern Masters 2017,legal,16.82,11.17
+Damnation,mm3,Modern Masters 2017,legal,26.97,17.01
+Death's Shadow,mm3,Modern Masters 2017,legal,8.45,8.83
+Domri Rade,mm3,Modern Masters 2017,legal,3.39,2.84
+Entreat the Angels,mm3,Modern Masters 2017,legal,2.29,3.64
+Gifts Ungiven,mm3,Modern Masters 2017,legal,3.63,3.85
+Goblin Guide,mm3,Modern Masters 2017,legal,18.60,15.01
+Grafdigger's Cage,mm3,Modern Masters 2017,legal,5.91,4.92
+Griselbrand,mm3,Modern Masters 2017,legal,8.24,7.71
+Inquisition of Kozilek,mm3,Modern Masters 2017,legal,4.37,4.21
+Liliana of the Veil,mm3,Modern Masters 2017,legal,81.73,83.50
+"Linvala, Keeper of Silence",mm3,Modern Masters 2017,legal,14.87,10.77
+Marsh Flats,mm3,Modern Masters 2017,legal,39.24,28.53
+Misty Rainforest,mm3,Modern Masters 2017,legal,41.98,31.21
+Olivia Voldaren,mm3,Modern Masters 2017,legal,4.78,3.55
+Past in Flames,mm3,Modern Masters 2017,legal,4.34,3.49
+Path to Exile,mm3,Modern Masters 2017,legal,7.38,5.57
+Phantasmal Image,mm3,Modern Masters 2017,legal,15.76,14.02
+Restoration Angel,mm3,Modern Masters 2017,legal,2.24,2.61
+Scalding Tarn,mm3,Modern Masters 2017,legal,70.91,54.03
+Scavenging Ooze,mm3,Modern Masters 2017,legal,3.17,3.09
+Snapcaster Mage,mm3,Modern Masters 2017,legal,71.73,63.21
+Sphinx's Revelation,mm3,Modern Masters 2017,legal,3.11,3.06
+Stony Silence,mm3,Modern Masters 2017,legal,7.29,5.98
+Tarmogoyf,mm3,Modern Masters 2017,legal,64.67,56.74
+Temporal Mastery,mm3,Modern Masters 2017,legal,13.70,9.62
+Terminus,mm3,Modern Masters 2017,legal,2.99,2.56
+"Venser, Shaper Savant",mm3,Modern Masters 2017,legal,3.90,2.74
+Verdant Catacombs,mm3,Modern Masters 2017,legal,49.65,37.59
+Voice of Resurgence,mm3,Modern Masters 2017,legal,9.93,11.06
+"Baral, Chief of Compliance",aer,Aether Revolt,legal,5.30,4.27
+Fatal Push,aer,Aether Revolt,legal,3.92,3.68
+Heroic Intervention,aer,Aether Revolt,legal,4.87,3.84
+Metallic Mimic,aer,Aether Revolt,legal,4.49,3.56
+Paradox Engine,aer,Aether Revolt,legal,15.99,8.41
+"Tezzeret, Master of Metal",aer,Aether Revolt,legal,2.52,3.58
+Walking Ballista,aer,Aether Revolt,legal,12.99,11.39
+"Avacyn, Angel of Hope",j17,Judge Gift Cards 2017,legal,41.76,28.82
+Capture of Jingzhou,j17,Judge Gift Cards 2017,not_legal,97.20,83.50
+"Doran, the Siege Tower",j17,Judge Gift Cards 2017,legal,13.13,14.83
+Gaddock Teeg,j17,Judge Gift Cards 2017,legal,54.94,33.75
+Homeward Path,j17,Judge Gift Cards 2017,not_legal,15.77,8.09
+Pendelhaven,j17,Judge Gift Cards 2017,legal,10.09,7.23
+Rules Lawyer,j17,Judge Gift Cards 2017,not_legal,45.95,19.36
+Spellskite,j17,Judge Gift Cards 2017,legal,30.86,20.98
+Awakening Zone,pca,Planechase Anthology,legal,2.59,2.65
+Baleful Strix,pca,Planechase Anthology,not_legal,2.99,2.43
+Bloodbraid Elf,pca,Planechase Anthology,legal,4.45,4.51
+Ghostly Prison,pca,Planechase Anthology,legal,4.52,2.09
+"Ink-Eyes, Servant of Oni",pca,Planechase Anthology,legal,6.49,2.23
+Kor Spiritdancer,pca,Planechase Anthology,legal,3.49,4.71
+Maelstrom Wanderer,pca,Planechase Anthology,not_legal,5.89,5.05
+Sakashima's Student,pca,Planechase Anthology,not_legal,15.99,13.22
+Ash Barrens,c16,Commander 2016,not_legal,1.86,2.41
+"Atraxa, Praetors' Voice",c16,Commander 2016,not_legal,17.32,11.91
+Baleful Strix,c16,Commander 2016,not_legal,2.84,2.61
+Bloodbraid Elf,c16,Commander 2016,legal,3.55,4.17
+Boros Charm,c16,Commander 2016,legal,1.80,2.25
+"Breya, Etherium Shaper",c16,Commander 2016,not_legal,7.99,6.46
+Burgeoning,c16,Commander 2016,not_legal,7.38,2.96
+Chasm Skulker,c16,Commander 2016,legal,4.37,3.73
+Chromatic Lantern,c16,Commander 2016,legal,11.99,5.42
+Conqueror's Flail,c16,Commander 2016,not_legal,6.68,4.46
+Crystalline Crawler,c16,Commander 2016,not_legal,2.99,2.30
+Deepglow Skate,c16,Commander 2016,not_legal,7.99,4.04
+Dragonskull Summit,c16,Commander 2016,legal,3.11,2.50
+Faerie Artisans,c16,Commander 2016,not_legal,8.21,3.02
+Forbidden Orchard,c16,Commander 2016,legal,6.99,2.71
+Hardened Scales,c16,Commander 2016,legal,5.28,2.86
+Hellkite Tyrant,c16,Commander 2016,legal,6.59,4.19
+Homeward Path,c16,Commander 2016,not_legal,6.49,3.22
+"Iroas, God of Victory",c16,Commander 2016,legal,5.99,2.43
+Kalonian Hydra,c16,Commander 2016,legal,4.41,3.04
+Karplusan Forest,c16,Commander 2016,legal,3.81,3.52
+Lightning Greaves,c16,Commander 2016,legal,3.99,2.13
+Magus of the Will,c16,Commander 2016,not_legal,1.95,2.11
+Master of Etherium,c16,Commander 2016,legal,4.49,3.27
+Past in Flames,c16,Commander 2016,legal,3.85,2.78
+Propaganda,c16,Commander 2016,not_legal,9.32,5.12
+Reforge the Soul,c16,Commander 2016,legal,3.99,2.04
+"Reyhan, Last of the Abzan",c16,Commander 2016,not_legal,3.49,3.62
+Rootbound Crag,c16,Commander 2016,legal,3.35,2.18
+Scavenging Ooze,c16,Commander 2016,legal,3.00,3.09
+Selfless Squire,c16,Commander 2016,not_legal,3.99,2.38
+Solemn Simulacrum,c16,Commander 2016,legal,4.74,2.84
+Stonehoof Chieftain,c16,Commander 2016,not_legal,11.70,7.22
+Sunpetal Grove,c16,Commander 2016,legal,3.55,2.28
+Swan Song,c16,Commander 2016,legal,3.49,2.20
+Tempt with Discovery,c16,Commander 2016,not_legal,5.97,2.26
+"Thrasios, Triton Hero",c16,Commander 2016,not_legal,3.99,10.78
+Tymna the Weaver,c16,Commander 2016,not_legal,2.75,9.37
+Venser's Journal,c16,Commander 2016,legal,4.63,2.68
+Vial Smasher the Fierce,c16,Commander 2016,not_legal,8.11,7.96
+Waste Not,c16,Commander 2016,legal,4.12,3.60
+Wheel of Fate,c16,Commander 2016,legal,3.22,2.31
+Blooming Marsh,kld,Kaladesh,legal,4.49,4.38
+Botanical Sanctum,kld,Kaladesh,legal,2.66,2.93
+"Chandra, Torch of Defiance",kld,Kaladesh,legal,10.47,10.25
+Concealed Courtyard,kld,Kaladesh,legal,2.00,2.25
+Inspiring Vantage,kld,Kaladesh,legal,2.06,2.31
+"Nissa, Nature's Artisan",kld,Kaladesh,legal,1.99,2.61
+"Nissa, Vital Force",kld,Kaladesh,legal,4.49,2.66
+Saheeli Rai,kld,Kaladesh,legal,4.40,3.82
+Spirebluff Canal,kld,Kaladesh,legal,5.87,6.08
+Torrential Gearhulk,kld,Kaladesh,legal,4.23,4.43
+Aether Vial,mps,Kaladesh Inventions,legal,165.11,173.10
+Arcbound Ravager,mps,Kaladesh Inventions,legal,147.67,158.99
+Black Vise,mps,Kaladesh Inventions,not_legal,29.40,27.75
+Cataclysmic Gearhulk,mps,Kaladesh Inventions,legal,24.95,21.29
+Chalice of the Void,mps,Kaladesh Inventions,legal,189.15,142.78
+Champion's Helm,mps,Kaladesh Inventions,not_legal,44.99,38.53
+Chromatic Lantern,mps,Kaladesh Inventions,legal,102.47,78.12
+Chrome Mox,mps,Kaladesh Inventions,banned,103.61,94.95
+Cloudstone Curio,mps,Kaladesh Inventions,legal,54.45,42.28
+Combustible Gearhulk,mps,Kaladesh Inventions,legal,37.92,29.34
+Crucible of Worlds,mps,Kaladesh Inventions,legal,139.83,117.28
+Defense Grid,mps,Kaladesh Inventions,legal,52.55,50.18
+Duplicant,mps,Kaladesh Inventions,legal,39.99,38.49
+Engineered Explosives,mps,Kaladesh Inventions,legal,152.40,136.08
+Ensnaring Bridge,mps,Kaladesh Inventions,legal,170.21,142.10
+Extraplanar Lens,mps,Kaladesh Inventions,legal,58.31,52.38
+Gauntlet of Power,mps,Kaladesh Inventions,legal,54.46,38.79
+Grindstone,mps,Kaladesh Inventions,not_legal,45.92,41.37
+Hangarback Walker,mps,Kaladesh Inventions,legal,79.63,81.14
+Lightning Greaves,mps,Kaladesh Inventions,legal,90.42,79.31
+Lotus Petal,mps,Kaladesh Inventions,not_legal,131.15,135.08
+Mana Crypt,mps,Kaladesh Inventions,not_legal,300.96,229.91
+Mana Vault,mps,Kaladesh Inventions,not_legal,234.39,194.19
+Meekstone,mps,Kaladesh Inventions,not_legal,53.36,42.52
+Mind's Eye,mps,Kaladesh Inventions,legal,39.68,37.82
+Mox Opal,mps,Kaladesh Inventions,legal,295.93,267.64
+Noxious Gearhulk,mps,Kaladesh Inventions,legal,37.93,32.17
+Oblivion Stone,mps,Kaladesh Inventions,legal,85.32,71.80
+Ornithopter,mps,Kaladesh Inventions,legal,97.84,71.32
+Painter's Servant,mps,Kaladesh Inventions,legal,46.96,39.56
+Paradox Engine,mps,Kaladesh Inventions,legal,93.94,69.61
+Pithing Needle,mps,Kaladesh Inventions,legal,72.36,64.61
+Planar Bridge,mps,Kaladesh Inventions,legal,52.65,43.01
+Platinum Angel,mps,Kaladesh Inventions,legal,98.81,65.20
+Rings of Brighthearth,mps,Kaladesh Inventions,legal,73.70,46.85
+Scroll Rack,mps,Kaladesh Inventions,not_legal,91.13,68.91
+Sculpting Steel,mps,Kaladesh Inventions,legal,43.14,45.23
+Solemn Simulacrum,mps,Kaladesh Inventions,legal,95.86,90.94
+Sol Ring,mps,Kaladesh Inventions,not_legal,363.17,278.74
+Sphere of Resistance,mps,Kaladesh Inventions,not_legal,66.94,76.25
+Staff of Domination,mps,Kaladesh Inventions,legal,76.29,55.77
+Static Orb,mps,Kaladesh Inventions,not_legal,38.55,35.62
+Steel Overseer,mps,Kaladesh Inventions,legal,80.04,93.22
+Sundering Titan,mps,Kaladesh Inventions,legal,32.36,33.66
+Sword of Body and Mind,mps,Kaladesh Inventions,legal,79.97,56.67
+Sword of Feast and Famine,mps,Kaladesh Inventions,legal,132.20,88.96
+Sword of Fire and Ice,mps,Kaladesh Inventions,legal,135.45,101.37
+Sword of Light and Shadow,mps,Kaladesh Inventions,legal,86.15,79.80
+Sword of War and Peace,mps,Kaladesh Inventions,legal,102.04,91.94
+Torrential Gearhulk,mps,Kaladesh Inventions,legal,49.99,39.93
+Trinisphere,mps,Kaladesh Inventions,legal,79.53,70.85
+Vedalken Shackles,mps,Kaladesh Inventions,legal,46.99,39.58
+Verdurous Gearhulk,mps,Kaladesh Inventions,legal,32.50,27.56
+Wurmcoil Engine,mps,Kaladesh Inventions,legal,125.86,99.34
+Crop Rotation,ddr,Duel Decks: Nissa vs. Ob Nixilis,not_legal,4.39,2.97
+"Nissa, Voice of Zendikar",ddr,Duel Decks: Nissa vs. Ob Nixilis,legal,3.97,3.42
+Berserk,cn2,Conspiracy: Take the Crown,not_legal,10.20,9.70
+Birds of Paradise,cn2,Conspiracy: Take the Crown,legal,7.41,4.86
+Burgeoning,cn2,Conspiracy: Take the Crown,not_legal,8.24,3.44
+"Daretti, Ingenious Iconoclast",cn2,Conspiracy: Take the Crown,not_legal,9.35,8.31
+Expropriate,cn2,Conspiracy: Take the Crown,not_legal,21.99,15.60
+Inquisition of Kozilek,cn2,Conspiracy: Take the Crown,legal,4.29,4.54
+"Kaya, Ghost Assassin",cn2,Conspiracy: Take the Crown,not_legal,9.90,8.22
+"Leovold, Emissary of Trest",cn2,Conspiracy: Take the Crown,not_legal,23.79,27.94
+Phyrexian Arena,cn2,Conspiracy: Take the Crown,legal,9.26,5.13
+Platinum Angel,cn2,Conspiracy: Take the Crown,legal,4.22,2.27
+Queen Marchesa,cn2,Conspiracy: Take the Crown,not_legal,7.49,5.33
+Recruiter of the Guard,cn2,Conspiracy: Take the Crown,not_legal,22.11,17.44
+Sanctum Prelate,cn2,Conspiracy: Take the Crown,not_legal,9.28,10.55
+"Selvala, Heart of the Wilds",cn2,Conspiracy: Take the Crown,not_legal,24.99,17.26
+Show and Tell,cn2,Conspiracy: Take the Crown,not_legal,12.92,11.59
+Beseech the Queen,v16,From the Vault: Lore,legal,5.49,2.19
+Dark Depths,v16,From the Vault: Lore,banned,41.18,26.95
+Tolaria West,v16,From the Vault: Lore,legal,8.47,4.17
+Umezawa's Jitte,v16,From the Vault: Lore,banned,14.01,10.76
+Unmask,v16,From the Vault: Lore,not_legal,4.91,4.52
+Bedlam Reveler,emn,Eldritch Moon,legal,4.44,4.06
+Collective Brutality,emn,Eldritch Moon,legal,15.91,18.79
+Eldritch Evolution,emn,Eldritch Moon,legal,2.75,2.24
+"Emrakul, the Promised End",emn,Eldritch Moon,legal,12.19,9.79
+Grim Flayer,emn,Eldritch Moon,legal,7.64,8.35
+"Liliana, the Last Hope",emn,Eldritch Moon,legal,38.05,35.71
+Mausoleum Wanderer,emn,Eldritch Moon,legal,3.79,2.78
+Selfless Spirit,emn,Eldritch Moon,legal,7.15,5.01
+Spell Queller,emn,Eldritch Moon,legal,6.62,6.99
+"Tamiyo, Field Researcher",emn,Eldritch Moon,legal,5.99,4.16
+Tree of Perdition,emn,Eldritch Moon,legal,4.83,2.77
+Assembled Alphas,pemn,Eldritch Moon Promos,legal,0.39,2.34
+Noosegraf Mob,pemn,Eldritch Moon Promos,legal,0.99,2.10
+"Thalia, Heretic Cathar",pemn,Eldritch Moon Promos,legal,1.96,4.50
+Argothian Enchantress,ema,Eternal Masters,not_legal,16.35,6.52
+Ashnod's Altar,ema,Eternal Masters,not_legal,4.99,3.18
+Baleful Strix,ema,Eternal Masters,not_legal,2.99,2.75
+Bloodbraid Elf,ema,Eternal Masters,legal,3.17,4.05
+Chrome Mox,ema,Eternal Masters,banned,31.78,22.80
+Dack Fayden,ema,Eternal Masters,not_legal,14.59,12.22
+Deathrite Shaman,ema,Eternal Masters,banned,3.28,2.77
+Enlightened Tutor,ema,Eternal Masters,not_legal,17.99,9.72
+Entomb,ema,Eternal Masters,not_legal,14.90,10.91
+Force of Will,ema,Eternal Masters,not_legal,88.71,70.35
+Gamble,ema,Eternal Masters,not_legal,8.37,5.28
+Green Sun's Zenith,ema,Eternal Masters,banned,7.61,5.09
+Heritage Druid,ema,Eternal Masters,legal,6.96,4.41
+Isochron Scepter,ema,Eternal Masters,legal,5.49,2.73
+"Jace, the Mind Sculptor",ema,Eternal Masters,legal,79.69,76.77
+Karakas,ema,Eternal Masters,not_legal,60.00,42.53
+Maelstrom Wanderer,ema,Eternal Masters,not_legal,6.39,5.09
+Mana Crypt,ema,Eternal Masters,not_legal,129.11,81.70
+Maze of Ith,ema,Eternal Masters,not_legal,13.89,8.92
+Mystical Tutor,ema,Eternal Masters,not_legal,5.50,3.97
+Natural Order,ema,Eternal Masters,not_legal,14.12,13.13
+Necropotence,ema,Eternal Masters,not_legal,5.83,3.50
+Pyroblast,ema,Eternal Masters,not_legal,2.66,2.30
+Relic of Progenitus,ema,Eternal Masters,legal,3.82,3.63
+Sensei's Divining Top,ema,Eternal Masters,banned,21.44,9.72
+Sinkhole,ema,Eternal Masters,not_legal,3.27,4.25
+Sneak Attack,ema,Eternal Masters,not_legal,20.28,17.00
+Sylvan Library,ema,Eternal Masters,not_legal,24.20,13.53
+Toxic Deluge,ema,Eternal Masters,not_legal,14.26,11.54
+Vampiric Tutor,ema,Eternal Masters,not_legal,47.21,27.95
+Vindicate,ema,Eternal Masters,not_legal,3.53,3.18
+Wasteland,ema,Eternal Masters,not_legal,33.46,25.08
+Winter Orb,ema,Eternal Masters,not_legal,4.13,3.26
+Wrath of God,ema,Eternal Masters,legal,7.37,3.97
+Anguished Unmaking,soi,Shadows over Innistrad,legal,4.47,2.63
+"Archangel Avacyn // Avacyn, the Purifier",soi,Shadows over Innistrad,legal,3.94,3.37
+"Arlinn Kord // Arlinn, Embraced by the Moon",soi,Shadows over Innistrad,legal,2.61,2.12
+"Jace, Unraveler of Secrets",soi,Shadows over Innistrad,legal,4.08,2.69
+"Nahiri, the Harbinger",soi,Shadows over Innistrad,legal,5.90,6.73
+Relentless Dead,soi,Shadows over Innistrad,legal,7.52,6.81
+"Sorin, Grim Nemesis",soi,Shadows over Innistrad,legal,5.80,3.49
+Thalia's Lieutenant,soi,Shadows over Innistrad,legal,2.65,2.52
+The Gitrog Monster,soi,Shadows over Innistrad,legal,7.99,4.48
+Thing in the Ice // Awoken Horror,soi,Shadows over Innistrad,legal,5.13,4.92
+Tireless Tracker,soi,Shadows over Innistrad,legal,8.63,9.00
+Traverse the Ulvenwald,soi,Shadows over Innistrad,legal,2.41,2.43
+"Westvale Abbey // Ormendahl, Profane Prince",soi,Shadows over Innistrad,legal,3.32,2.97
+Anguished Unmaking,psoi,Shadows over Innistrad Promos,legal,11.75,4.30
+Flameblade Angel,psoi,Shadows over Innistrad Promos,legal,0.59,2.62
+Champion of the Parish,ddq,Duel Decks: Blessed vs. Cursed,legal,4.29,4.44
+Geist of Saint Traft,ddq,Duel Decks: Blessed vs. Cursed,legal,8.07,6.73
+Gravecrawler,ddq,Duel Decks: Blessed vs. Cursed,legal,8.13,5.44
+"Chandra, Flamecaller",ogw,Oath of the Gatewatch,legal,2.35,2.69
+Eldrazi Displacer,ogw,Oath of the Gatewatch,legal,2.39,2.13
+"Kalitas, Traitor of Ghet",ogw,Oath of the Gatewatch,legal,6.39,7.13
+Kozilek's Return,ogw,Oath of the Gatewatch,legal,2.04,2.92
+"Kozilek, the Great Distortion",ogw,Oath of the Gatewatch,legal,5.48,3.16
+"Nissa, Voice of Zendikar",ogw,Oath of the Gatewatch,legal,3.53,4.27
+Reality Smasher,ogw,Oath of the Gatewatch,legal,1.79,2.74
+Thought-Knot Seer,ogw,Oath of the Gatewatch,legal,6.43,6.01
+World Breaker,ogw,Oath of the Gatewatch,legal,3.03,2.95
+"Azusa, Lost but Seeking",j16,Judge Gift Cards 2016,legal,44.35,31.12
+Command Beacon,j16,Judge Gift Cards 2016,not_legal,39.15,27.98
+Defense of the Heart,j16,Judge Gift Cards 2016,not_legal,37.69,23.56
+Imperial Seal,j16,Judge Gift Cards 2016,not_legal,195.38,135.33
+Mana Drain,j16,Judge Gift Cards 2016,not_legal,141.74,91.67
+Mystic Confluence,j16,Judge Gift Cards 2016,not_legal,17.61,16.11
+Zur the Enchanter,j16,Judge Gift Cards 2016,legal,34.91,19.95
+Arachnogenesis,c15,Commander 2015,not_legal,7.45,6.03
+Bastion Protector,c15,Commander 2015,not_legal,5.99,4.59
+Blade of Selves,c15,Commander 2015,not_legal,6.49,4.19
+Command Beacon,c15,Commander 2015,not_legal,21.78,15.88
+Eldrazi Monument,c15,Commander 2015,legal,6.72,3.07
+Eternal Witness,c15,Commander 2015,legal,6.79,3.54
+"Ezuri, Claw of Progress",c15,Commander 2015,not_legal,9.99,6.40
+Fiery Confluence,c15,Commander 2015,not_legal,15.38,13.87
+"Gisela, Blade of Goldnight",c15,Commander 2015,legal,4.50,3.64
+Grasp of Fate,c15,Commander 2015,not_legal,13.97,8.94
+Karlov of the Ghost Council,c15,Commander 2015,not_legal,9.74,10.53
+Karmic Justice,c15,Commander 2015,not_legal,8.45,3.69
+Lightning Greaves,c15,Commander 2015,legal,3.99,2.04
+"Mazirek, Kraul Death Priest",c15,Commander 2015,not_legal,6.49,2.18
+Meren of Clan Nel Toth,c15,Commander 2015,not_legal,8.99,9.46
+Mizzix of the Izmagnus,c15,Commander 2015,not_legal,4.99,2.73
+Mizzix's Mastery,c15,Commander 2015,not_legal,10.26,6.50
+Mystic Confluence,c15,Commander 2015,not_legal,4.49,5.15
+Phyrexian Arena,c15,Commander 2015,legal,9.08,4.96
+Preordain,c15,Commander 2015,banned,4.61,3.47
+Rite of Replication,c15,Commander 2015,legal,4.99,2.58
+Solemn Simulacrum,c15,Commander 2015,legal,4.52,2.06
+Thought Vessel,c15,Commander 2015,not_legal,5.85,3.25
+Urza's Incubator,c15,Commander 2015,not_legal,9.25,7.14
+Vandalblast,c15,Commander 2015,legal,2.49,2.68
+"Drana, Liberator of Malakir",bfz,Battle for Zendikar,legal,4.32,4.33
+"Gideon, Ally of Zendikar",bfz,Battle for Zendikar,legal,7.78,8.52
+"Omnath, Locus of Rage",bfz,Battle for Zendikar,legal,6.47,3.26
+"Ulamog, the Ceaseless Hunger",bfz,Battle for Zendikar,legal,19.64,18.09
+Ancient Tomb,exp,Zendikar Expeditions,not_legal,233.06,180.00
+Arid Mesa,exp,Zendikar Expeditions,legal,118.58,84.05
+Blood Crypt,exp,Zendikar Expeditions,legal,88.55,65.62
+Bloodstained Mire,exp,Zendikar Expeditions,legal,167.43,108.14
+Breeding Pool,exp,Zendikar Expeditions,legal,92.52,62.96
+Canopy Vista,exp,Zendikar Expeditions,legal,25.01,19.10
+Cascade Bluffs,exp,Zendikar Expeditions,legal,46.34,34.61
+Cinder Glade,exp,Zendikar Expeditions,legal,30.10,21.32
+Dust Bowl,exp,Zendikar Expeditions,not_legal,39.23,24.38
+Eye of Ugin,exp,Zendikar Expeditions,banned,48.53,37.69
+Fetid Heath,exp,Zendikar Expeditions,legal,53.24,36.07
+Fire-Lit Thicket,exp,Zendikar Expeditions,legal,40.36,28.78
+Flooded Grove,exp,Zendikar Expeditions,legal,48.60,31.66
+Flooded Strand,exp,Zendikar Expeditions,legal,191.18,146.40
+Forbidden Orchard,exp,Zendikar Expeditions,legal,44.33,30.90
+Godless Shrine,exp,Zendikar Expeditions,legal,88.28,62.52
+Graven Cairns,exp,Zendikar Expeditions,legal,26.69,22.52
+Hallowed Fountain,exp,Zendikar Expeditions,legal,111.18,78.53
+Horizon Canopy,exp,Zendikar Expeditions,legal,144.13,126.64
+Kor Haven,exp,Zendikar Expeditions,not_legal,35.43,25.37
+Mana Confluence,exp,Zendikar Expeditions,legal,88.39,65.80
+Marsh Flats,exp,Zendikar Expeditions,legal,115.72,78.60
+Misty Rainforest,exp,Zendikar Expeditions,legal,230.48,164.54
+Mystic Gate,exp,Zendikar Expeditions,legal,61.96,40.99
+Overgrown Tomb,exp,Zendikar Expeditions,legal,93.44,76.52
+Polluted Delta,exp,Zendikar Expeditions,legal,272.42,214.12
+Prairie Stream,exp,Zendikar Expeditions,legal,24.05,18.00
+Rugged Prairie,exp,Zendikar Expeditions,legal,38.87,27.19
+Sacred Foundry,exp,Zendikar Expeditions,legal,87.08,66.31
+Scalding Tarn,exp,Zendikar Expeditions,legal,317.52,231.34
+Smoldering Marsh,exp,Zendikar Expeditions,legal,22.19,16.41
+Steam Vents,exp,Zendikar Expeditions,legal,133.59,97.03
+Stomping Ground,exp,Zendikar Expeditions,legal,97.38,65.42
+Strip Mine,exp,Zendikar Expeditions,not_legal,107.78,78.68
+Sunken Hollow,exp,Zendikar Expeditions,legal,29.00,20.81
+Sunken Ruins,exp,Zendikar Expeditions,legal,54.92,33.12
+Tectonic Edge,exp,Zendikar Expeditions,legal,30.64,25.86
+Temple Garden,exp,Zendikar Expeditions,legal,85.17,57.57
+Twilight Mire,exp,Zendikar Expeditions,legal,49.43,36.68
+Verdant Catacombs,exp,Zendikar Expeditions,legal,220.33,150.52
+Wasteland,exp,Zendikar Expeditions,not_legal,142.71,96.63
+Watery Grave,exp,Zendikar Expeditions,legal,102.99,66.44
+Windswept Heath,exp,Zendikar Expeditions,legal,136.57,83.43
+Wooded Bastion,exp,Zendikar Expeditions,legal,41.12,25.50
+Wooded Foothills,exp,Zendikar Expeditions,legal,142.04,102.33
+Drowner of Hope,pbfz,Battle for Zendikar Promos,legal,0.59,2.21
+Avenger of Zendikar,ddp,Duel Decks: Zendikar vs. Eldrazi,legal,4.99,3.99
+Eldrazi Temple,ddp,Duel Decks: Zendikar vs. Eldrazi,legal,7.30,7.96
+It That Betrays,ddp,Duel Decks: Zendikar vs. Eldrazi,legal,6.42,2.89
+"Akroma, Angel of Fury",v15,From the Vault: Angels,legal,3.49,2.70
+"Akroma, Angel of Wrath",v15,From the Vault: Angels,legal,3.99,3.58
+"Aurelia, the Warleader",v15,From the Vault: Angels,legal,7.99,4.93
+"Avacyn, Angel of Hope",v15,From the Vault: Angels,legal,19.99,12.70
+Baneslayer Angel,v15,From the Vault: Angels,legal,8.49,6.07
+Entreat the Angels,v15,From the Vault: Angels,legal,3.99,4.35
+"Iona, Shield of Emeria",v15,From the Vault: Angels,legal,13.47,7.47
+"Jenara, Asura of War",v15,From the Vault: Angels,legal,2.49,2.09
+Platinum Angel,v15,From the Vault: Angels,legal,4.99,3.17
+Pia and Kiran Nalaar,pori,Magic Origins Promos,legal,5.35,3.96
+Alhammarret's Archive,ori,Magic Origins,legal,11.54,6.85
+Archangel of Tithes,ori,Magic Origins,legal,7.99,4.96
+Day's Undoing,ori,Magic Origins,legal,2.51,2.47
+Goblin Piledriver,ori,Magic Origins,legal,3.24,2.60
+Hangarback Walker,ori,Magic Origins,legal,11.42,8.83
+"Jace, Vryn's Prodigy // Jace, Telepath Unbound",ori,Magic Origins,legal,14.10,13.81
+"Kytheon, Hero of Akros // Gideon, Battle-Forged",ori,Magic Origins,legal,3.41,3.40
+"Liliana, Heretical Healer // Liliana, Defiant Necromancer",ori,Magic Origins,legal,8.92,6.42
+"Nissa, Vastwood Seer // Nissa, Sage Animist",ori,Magic Origins,legal,6.73,5.70
+Pyromancer's Goggles,ori,Magic Origins,legal,4.06,2.65
+Starfield of Nyx,ori,Magic Origins,legal,8.33,5.93
+All Is Dust,mm2,Modern Masters 2015,legal,15.73,15.22
+Bitterblossom,mm2,Modern Masters 2015,legal,40.49,26.91
+Blinkmoth Nexus,mm2,Modern Masters 2015,legal,5.99,4.35
+Cryptic Command,mm2,Modern Masters 2015,legal,22.24,19.89
+Dark Confidant,mm2,Modern Masters 2015,legal,51.83,43.10
+Daybreak Coronet,mm2,Modern Masters 2015,legal,11.16,7.85
+Dismember,mm2,Modern Masters 2015,legal,3.22,2.39
+Eldrazi Temple,mm2,Modern Masters 2015,legal,6.58,7.66
+"Elesh Norn, Grand Cenobite",mm2,Modern Masters 2015,legal,13.01,11.10
+"Emrakul, the Aeons Torn",mm2,Modern Masters 2015,legal,34.38,31.55
+Etched Champion,mm2,Modern Masters 2015,legal,3.12,2.95
+Expedition Map,mm2,Modern Masters 2015,legal,3.42,2.31
+Eye of Ugin,mm2,Modern Masters 2015,banned,4.97,4.93
+Fulminator Mage,mm2,Modern Masters 2015,legal,19.69,18.43
+Hurkyl's Recall,mm2,Modern Masters 2015,legal,3.46,3.32
+"Iona, Shield of Emeria",mm2,Modern Masters 2015,legal,12.32,6.41
+Karn Liberated,mm2,Modern Masters 2015,legal,87.10,68.47
+"Kiki-Jiki, Mirror Breaker",mm2,Modern Masters 2015,legal,7.40,6.62
+"Kozilek, Butcher of Truth",mm2,Modern Masters 2015,legal,38.19,23.47
+Leyline of Sanctity,mm2,Modern Masters 2015,legal,26.90,21.46
+Lightning Bolt,mm2,Modern Masters 2015,legal,2.87,2.51
+Mirran Crusader,mm2,Modern Masters 2015,legal,2.79,2.24
+Mox Opal,mm2,Modern Masters 2015,legal,99.43,74.63
+Necroskitter,mm2,Modern Masters 2015,legal,3.49,2.36
+Noble Hierarch,mm2,Modern Masters 2015,legal,73.74,56.56
+Primeval Titan,mm2,Modern Masters 2015,legal,7.89,7.17
+Remand,mm2,Modern Masters 2015,legal,6.99,4.24
+Spellskite,mm2,Modern Masters 2015,legal,7.79,7.09
+Splinter Twin,mm2,Modern Masters 2015,banned,6.01,4.17
+Surgical Extraction,mm2,Modern Masters 2015,legal,22.26,19.61
+Tarmogoyf,mm2,Modern Masters 2015,legal,61.94,56.19
+Tezzeret the Seeker,mm2,Modern Masters 2015,legal,11.99,6.60
+"Ulamog, the Infinite Gyre",mm2,Modern Masters 2015,legal,26.83,14.87
+Vendilion Clique,mm2,Modern Masters 2015,legal,19.74,18.50
+Wilt-Leaf Liege,mm2,Modern Masters 2015,legal,2.43,2.06
+Atarka's Command,dtk,Dragons of Tarkir,legal,2.51,3.03
+Collected Company,dtk,Dragons of Tarkir,legal,15.73,15.15
+Dragonlord Atarka,dtk,Dragons of Tarkir,legal,6.21,5.55
+Dragonlord Dromoka,dtk,Dragons of Tarkir,legal,13.19,10.04
+Dragonlord Kolaghan,dtk,Dragons of Tarkir,legal,4.67,3.32
+Dragonlord Ojutai,dtk,Dragons of Tarkir,legal,5.87,5.15
+Dragonlord Silumgar,dtk,Dragons of Tarkir,legal,6.47,4.04
+Kolaghan's Command,dtk,Dragons of Tarkir,legal,18.77,19.51
+Narset Transcendent,dtk,Dragons of Tarkir,legal,9.33,7.17
+Sarkhan Unbroken,dtk,Dragons of Tarkir,legal,8.69,5.64
+Secure the Wastes,dtk,Dragons of Tarkir,legal,3.21,3.67
+Shaman of Forgotten Ways,dtk,Dragons of Tarkir,legal,3.94,3.16
+"Sidisi, Undead Vizier",dtk,Dragons of Tarkir,legal,7.11,4.40
+Thunderbreak Regent,dtk,Dragons of Tarkir,legal,3.33,2.40
+Boltwing Marauder,pdtk,Dragons of Tarkir Promos,legal,0.69,2.89
+Harbinger of the Hunt,pdtk,Dragons of Tarkir Promos,legal,0.69,2.22
+Pristine Skywise,pdtk,Dragons of Tarkir Promos,legal,0.49,2.33
+Thunderbreak Regent,pdtk,Dragons of Tarkir Promos,legal,6.99,3.83
+"Elspeth, Sun's Champion",ddo,Duel Decks: Elspeth vs. Kiora,legal,6.99,8.79
+"Kiora, the Crashing Wave",ddo,Duel Decks: Elspeth vs. Kiora,legal,2.67,2.22
+Mother of Runes,ddo,Duel Decks: Elspeth vs. Kiora,not_legal,2.07,2.07
+Monastery Mentor,frf,Fate Reforged,legal,9.22,9.13
+Soulfire Grand Master,frf,Fate Reforged,legal,1.82,2.25
+"Ugin, the Spirit Dragon",frf,Fate Reforged,legal,44.93,38.04
+Archfiend of Depravity,pfrf,Fate Reforged Promos,legal,2.49,3.62
+Dragonscale General,pfrf,Fate Reforged Promos,legal,0.59,2.16
+Soulfire Grand Master,pfrf,Fate Reforged Promos,legal,5.72,4.15
+Temur War Shaman,pfrf,Fate Reforged Promos,legal,0.36,2.25
+Damnation,j15,Judge Gift Cards 2015,legal,39.59,28.53
+Dualcaster Mage,j15,Judge Gift Cards 2015,not_legal,4.67,4.05
+Feldon of the Third Path,j15,Judge Gift Cards 2015,not_legal,11.32,6.45
+Ravages of War,j15,Judge Gift Cards 2015,not_legal,105.06,91.39
+Rishadan Port,j15,Judge Gift Cards 2015,not_legal,113.83,84.09
+Shardless Agent,j15,Judge Gift Cards 2015,not_legal,8.86,8.23
+Temporal Manipulation,j15,Judge Gift Cards 2015,not_legal,71.02,50.74
+Wasteland,j15,Judge Gift Cards 2015,not_legal,81.26,75.29
+Angel of the Dire Hour,c14,Commander 2014,not_legal,4.42,3.11
+Black Sun's Zenith,c14,Commander 2014,legal,3.99,3.37
+Caged Sun,c14,Commander 2014,legal,5.64,3.66
+Comeuppance,c14,Commander 2014,not_legal,5.49,2.15
+Containment Priest,c14,Commander 2014,not_legal,20.05,21.37
+Crypt Ghast,c14,Commander 2014,legal,3.61,2.22
+Cyclonic Rift,c14,Commander 2014,legal,16.26,9.69
+Elvish Archdruid,c14,Commander 2014,legal,2.09,2.20
+"Emeria, the Sky Ruin",c14,Commander 2014,legal,5.86,5.02
+"Ezuri, Renegade Leader",c14,Commander 2014,legal,3.90,3.88
+"Freyalise, Llanowar's Fury",c14,Commander 2014,not_legal,8.99,7.97
+Ghoulcaller Gisa,c14,Commander 2014,not_legal,17.93,12.74
+Grand Abolisher,c14,Commander 2014,legal,5.99,3.47
+Grave Titan,c14,Commander 2014,legal,12.68,9.39
+Jet Medallion,c14,Commander 2014,not_legal,6.46,4.10
+Joraga Warcaller,c14,Commander 2014,legal,3.17,2.77
+"Nahiri, the Lithomancer",c14,Commander 2014,not_legal,6.89,5.34
+Ob Nixilis of the Black Oath,c14,Commander 2014,not_legal,5.62,4.35
+Pearl Medallion,c14,Commander 2014,not_legal,4.64,2.68
+Priest of Titania,c14,Commander 2014,not_legal,4.15,2.74
+Ruby Medallion,c14,Commander 2014,not_legal,5.99,4.80
+Sapphire Medallion,c14,Commander 2014,not_legal,8.42,5.27
+Solemn Simulacrum,c14,Commander 2014,legal,4.54,2.41
+Song of the Dryads,c14,Commander 2014,not_legal,7.99,4.55
+Sun Titan,c14,Commander 2014,legal,3.07,2.29
+Sylvan Safekeeper,c14,Commander 2014,not_legal,6.77,4.93
+"Teferi, Temporal Archmage",c14,Commander 2014,not_legal,17.06,13.10
+Thran Dynamo,c14,Commander 2014,not_legal,4.04,2.86
+"Titania, Protector of Argoth",c14,Commander 2014,not_legal,19.05,7.68
+Wurmcoil Engine,c14,Commander 2014,legal,19.46,12.55
+Bloodstained Mire,ktk,Khans of Tarkir,legal,21.73,16.10
+Clever Impersonator,ktk,Khans of Tarkir,legal,4.69,2.65
+Flooded Strand,ktk,Khans of Tarkir,legal,17.83,13.18
+Hardened Scales,ktk,Khans of Tarkir,legal,5.14,2.86
+Polluted Delta,ktk,Khans of Tarkir,legal,17.70,14.03
+"Sorin, Solemn Visitor",ktk,Khans of Tarkir,legal,4.90,3.87
+Windswept Heath,ktk,Khans of Tarkir,legal,12.52,10.21
+Wooded Foothills,ktk,Khans of Tarkir,legal,20.71,16.06
+Goblin Bombardment,ddn,Duel Decks: Speed vs. Cunning,not_legal,4.18,2.34
+"Krenko, Mob Boss",ddn,Duel Decks: Speed vs. Cunning,legal,2.12,2.11
+Armageddon,v14,From the Vault: Annihilation,not_legal,4.05,3.15
+Cataclysm,v14,From the Vault: Annihilation,not_legal,3.87,3.18
+Fracturing Gust,v14,From the Vault: Annihilation,legal,9.32,5.22
+Living Death,v14,From the Vault: Annihilation,not_legal,2.99,2.82
+Rolling Earthquake,v14,From the Vault: Annihilation,not_legal,7.71,3.97
+Smokestack,v14,From the Vault: Annihilation,not_legal,5.99,2.85
+Terminus,v14,From the Vault: Annihilation,legal,6.25,4.72
+Wrath of God,v14,From the Vault: Annihilation,legal,7.99,4.73
+Ajani Steadfast,m15,Magic 2015,legal,10.99,8.25
+Chasm Skulker,m15,Magic 2015,legal,3.96,2.72
+Chord of Calling,m15,Magic 2015,legal,8.13,8.25
+"Garruk, Apex Predator",m15,Magic 2015,legal,11.26,9.08
+Goblin Rabblemaster,m15,Magic 2015,legal,3.58,2.87
+"Jace, the Living Guildpact",m15,Magic 2015,legal,2.13,2.05
+Liliana Vess,m15,Magic 2015,legal,7.49,4.22
+"Nissa, Worldwaker",m15,Magic 2015,legal,4.35,4.31
+Obelisk of Urd,m15,Magic 2015,legal,3.41,2.72
+"Ob Nixilis, Unshackled",m15,Magic 2015,legal,4.41,2.34
+Sliver Hive,m15,Magic 2015,legal,6.03,6.15
+Sliver Hivelord,m15,Magic 2015,legal,12.38,8.75
+The Chain Veil,m15,Magic 2015,legal,17.38,12.07
+"Urborg, Tomb of Yawgmoth",m15,Magic 2015,legal,21.42,14.22
+Waste Not,m15,Magic 2015,legal,4.20,3.80
+Altar of Dementia,cns,Conspiracy,not_legal,4.99,2.89
+Coercive Portal,cns,Conspiracy,not_legal,3.14,3.37
+Council's Judgment,cns,Conspiracy,not_legal,16.80,12.36
+Dack Fayden,cns,Conspiracy,not_legal,14.95,11.98
+Exploration,cns,Conspiracy,not_legal,25.62,15.15
+Mirari's Wake,cns,Conspiracy,not_legal,11.10,6.23
+"Muzzio, Visionary Architect",cns,Conspiracy,not_legal,3.06,2.20
+Pernicious Deed,cns,Conspiracy,not_legal,2.88,2.99
+Reflecting Pool,cns,Conspiracy,legal,10.82,7.10
+Scourge of the Throne,cns,Conspiracy,not_legal,19.76,14.72
+Stifle,cns,Conspiracy,not_legal,3.61,2.86
+Vedalken Orrery,cns,Conspiracy,legal,20.02,12.14
+City of Brass,md1,Modern Event Deck 2014,legal,6.99,4.74
+Dismember,md1,Modern Event Deck 2014,legal,3.54,2.14
+"Elspeth, Knight-Errant",md1,Modern Event Deck 2014,legal,12.65,7.33
+Inquisition of Kozilek,md1,Modern Event Deck 2014,legal,4.46,4.44
+Isolated Chapel,md1,Modern Event Deck 2014,legal,2.94,2.46
+Path to Exile,md1,Modern Event Deck 2014,legal,7.29,5.72
+Relic of Progenitus,md1,Modern Event Deck 2014,legal,4.30,3.68
+Sword of Feast and Famine,md1,Modern Event Deck 2014,legal,34.18,22.85
+Vault of the Archangel,md1,Modern Event Deck 2014,legal,2.99,2.89
+"Ajani, Mentor of Heroes",jou,Journey into Nyx,legal,12.69,10.09
+"Athreos, God of Passage",jou,Journey into Nyx,legal,12.88,10.99
+Dictate of Erebos,jou,Journey into Nyx,legal,6.69,4.91
+Eidolon of the Great Revel,jou,Journey into Nyx,legal,3.85,5.30
+Godsend,jou,Journey into Nyx,legal,6.65,6.24
+"Iroas, God of Victory",jou,Journey into Nyx,legal,5.73,3.51
+"Keranos, God of Storms",jou,Journey into Nyx,legal,6.73,6.95
+"Kruphix, God of Horizons",jou,Journey into Nyx,legal,8.67,4.79
+Mana Confluence,jou,Journey into Nyx,legal,8.66,7.52
+Sage of Hours,jou,Journey into Nyx,legal,2.25,2.11
+Temple of Epiphany,jou,Journey into Nyx,legal,2.14,2.17
+Temple of Malady,jou,Journey into Nyx,legal,2.76,2.26
+Remand,ddm,Duel Decks: Jace vs. Vraska,legal,6.06,4.41
+"Brimaz, King of Oreskos",bng,Born of the Gods,legal,9.20,9.64
+Courser of Kruphix,bng,Born of the Gods,legal,3.88,3.21
+"Karametra, God of Harvests",bng,Born of the Gods,legal,5.70,4.01
+"Kiora, the Crashing Wave",bng,Born of the Gods,legal,2.81,2.61
+"Mogis, God of Slaughter",bng,Born of the Gods,legal,4.94,4.44
+"Phenax, God of Deception",bng,Born of the Gods,legal,6.32,4.71
+Temple of Enlightenment,bng,Born of the Gods,legal,3.44,2.93
+Temple of Malice,bng,Born of the Gods,legal,3.54,2.28
+"Xenagos, God of Revels",bng,Born of the Gods,legal,9.26,7.36
+Force of Will,j14,Judge Gift Cards 2014,not_legal,335.31,255.24
+Greater Good,j14,Judge Gift Cards 2014,legal,36.02,23.31
+"Hanna, Ship's Navigator",j14,Judge Gift Cards 2014,not_legal,18.82,11.94
+"Karador, Ghost Chieftain",j14,Judge Gift Cards 2014,not_legal,19.96,10.97
+"Nekusar, the Mindrazer",j14,Judge Gift Cards 2014,not_legal,29.46,14.80
+"Oloro, Ageless Ascetic",j14,Judge Gift Cards 2014,not_legal,23.62,13.89
+Riku of Two Reflections,j14,Judge Gift Cards 2014,not_legal,23.50,12.77
+Sword of Feast and Famine,j14,Judge Gift Cards 2014,legal,86.52,57.98
+Avenger of Zendikar,c13,Commander 2013,legal,4.49,3.86
+Baleful Strix,c13,Commander 2013,not_legal,3.16,2.53
+Boros Charm,c13,Commander 2013,legal,2.23,2.13
+Crawlspace,c13,Commander 2013,not_legal,6.78,4.01
+Divinity of Pride,c13,Commander 2013,legal,1.99,2.19
+Goblin Sharpshooter,c13,Commander 2013,not_legal,3.26,2.47
+Homeward Path,c13,Commander 2013,not_legal,5.91,2.86
+Ophiomancer,c13,Commander 2013,not_legal,5.88,4.51
+Primal Vigor,c13,Commander 2013,not_legal,19.25,10.32
+Propaganda,c13,Commander 2013,not_legal,7.99,3.53
+Tempt with Discovery,c13,Commander 2013,not_legal,5.67,2.86
+Tempt with Vengeance,c13,Commander 2013,not_legal,7.29,3.47
+Toxic Deluge,c13,Commander 2013,not_legal,14.49,11.16
+True-Name Nemesis,c13,Commander 2013,not_legal,11.56,13.70
+Wrath of God,c13,Commander 2013,legal,7.05,3.82
+"Ashiok, Nightmare Weaver",ths,Theros,legal,5.97,5.18
+"Elspeth, Sun's Champion",ths,Theros,legal,9.91,8.76
+"Erebos, God of the Dead",ths,Theros,legal,7.50,5.22
+"Heliod, God of the Sun",ths,Theros,legal,4.79,3.00
+Master of Waves,ths,Theros,legal,1.82,2.13
+"Nykthos, Shrine to Nyx",ths,Theros,legal,9.15,6.89
+"Nylea, God of the Hunt",ths,Theros,legal,6.37,4.24
+"Purphoros, God of the Forge",ths,Theros,legal,17.66,13.13
+Stormbreath Dragon,ths,Theros,legal,5.06,4.74
+Sylvan Caryatid,ths,Theros,legal,3.44,2.37
+"Thassa, God of the Sea",ths,Theros,legal,12.13,6.42
+Thoughtseize,ths,Theros,legal,13.01,13.06
+"Xenagos, the Reveler",ths,Theros,legal,3.98,3.47
+Sun Titan,ddl,Duel Decks: Heroes vs. Monsters,legal,3.25,2.57
+Chainer's Edict,v13,From the Vault: Twenty,not_legal,8.58,4.75
+Fyndhorn Elves,v13,From the Vault: Twenty,not_legal,8.33,4.42
+Gilded Lotus,v13,From the Vault: Twenty,legal,8.99,4.36
+Green Sun's Zenith,v13,From the Vault: Twenty,banned,8.49,5.58
+"Jace, the Mind Sculptor",v13,From the Vault: Twenty,legal,76.24,77.63
+Kessig Wolf Run,v13,From the Vault: Twenty,legal,4.49,2.68
+Swords to Plowshares,v13,From the Vault: Twenty,not_legal,2.94,2.35
+Tangle Wire,v13,From the Vault: Twenty,not_legal,4.49,2.76
+Thran Dynamo,v13,From the Vault: Twenty,not_legal,5.54,3.56
+"Venser, Shaper Savant",v13,From the Vault: Twenty,legal,4.41,3.47
+"Ajani, Caller of the Pride",m14,Magic 2014,legal,5.49,4.53
+Archangel of Thune,m14,Magic 2014,legal,12.21,11.53
+Darksteel Forge,m14,Magic 2014,legal,14.30,6.36
+Door of Destinies,m14,Magic 2014,legal,4.97,2.95
+Galerider Sliver,m14,Magic 2014,legal,4.88,5.06
+"Garruk, Caller of Beasts",m14,Magic 2014,legal,5.99,4.63
+"Jace, Memory Adept",m14,Magic 2014,legal,4.83,3.70
+Kalonian Hydra,m14,Magic 2014,legal,5.20,4.38
+Liliana of the Dark Realms,m14,Magic 2014,legal,8.05,6.58
+Mutavault,m14,Magic 2014,legal,9.99,8.62
+Primeval Bounty,m14,Magic 2014,legal,4.95,3.50
+Rise of the Dark Realms,m14,Magic 2014,legal,12.54,11.39
+Scavenging Ooze,m14,Magic 2014,legal,3.10,2.95
+Shadowborn Apostle,m14,Magic 2014,legal,3.60,2.42
+Strionic Resonator,m14,Magic 2014,legal,2.20,2.07
+Academy Ruins,mma,Modern Masters,legal,23.21,14.46
+Aether Vial,mma,Modern Masters,legal,34.28,24.67
+Angel's Grace,mma,Modern Masters,legal,5.55,3.99
+Arcbound Ravager,mma,Modern Masters,legal,43.28,32.38
+Blinkmoth Nexus,mma,Modern Masters,legal,5.59,4.56
+Blood Moon,mma,Modern Masters,legal,19.69,19.09
+Bridge from Below,mma,Modern Masters,legal,22.99,12.72
+Chalice of the Void,mma,Modern Masters,legal,44.62,36.76
+City of Brass,mma,Modern Masters,legal,8.97,5.96
+Cryptic Command,mma,Modern Masters,legal,23.96,20.35
+Dark Confidant,mma,Modern Masters,legal,53.77,46.81
+Divinity of Pride,mma,Modern Masters,legal,1.99,2.43
+Doubling Season,mma,Modern Masters,legal,44.51,25.97
+"Elspeth, Knight-Errant",mma,Modern Masters,legal,11.99,8.52
+Engineered Explosives,mma,Modern Masters,legal,84.99,53.27
+Eternal Witness,mma,Modern Masters,legal,6.72,3.97
+Ethersworn Canonist,mma,Modern Masters,legal,8.99,6.87
+Extirpate,mma,Modern Masters,legal,5.99,3.21
+Gifts Ungiven,mma,Modern Masters,legal,4.99,4.26
+Glen Elendra Archmage,mma,Modern Masters,legal,21.99,12.86
+Glimmervoid,mma,Modern Masters,legal,11.99,9.23
+Grand Arbiter Augustin IV,mma,Modern Masters,legal,8.99,5.17
+Greater Gargadon,mma,Modern Masters,legal,3.82,3.12
+"Kataki, War's Wage",mma,Modern Masters,legal,4.49,2.31
+"Keiga, the Tide Star",mma,Modern Masters,legal,1.99,2.61
+"Kiki-Jiki, Mirror Breaker",mma,Modern Masters,legal,8.63,6.96
+"Kira, Great Glass-Spinner",mma,Modern Masters,legal,14.49,11.47
+Kitchen Finks,mma,Modern Masters,legal,6.99,6.22
+Knight of the Reliquary,mma,Modern Masters,legal,3.95,4.15
+"Kokusho, the Evening Star",mma,Modern Masters,legal,6.99,6.33
+Lava Spike,mma,Modern Masters,legal,4.70,2.95
+Life from the Loam,mma,Modern Masters,legal,16.78,12.52
+Lotus Bloom,mma,Modern Masters,legal,6.68,5.94
+Maelstrom Pulse,mma,Modern Masters,legal,21.58,15.52
+Manamorphose,mma,Modern Masters,legal,9.52,7.86
+Mind Funeral,mma,Modern Masters,legal,3.99,2.65
+"Oona, Queen of the Fae",mma,Modern Masters,legal,4.99,2.37
+Pact of Negation,mma,Modern Masters,legal,10.24,8.95
+Path to Exile,mma,Modern Masters,legal,6.94,5.85
+Progenitus,mma,Modern Masters,legal,6.99,5.41
+Relic of Progenitus,mma,Modern Masters,legal,3.59,3.76
+Sarkhan Vol,mma,Modern Masters,legal,9.29,7.44
+Scion of Oona,mma,Modern Masters,legal,2.91,2.25
+Slaughter Pact,mma,Modern Masters,legal,2.85,2.80
+Spell Snare,mma,Modern Masters,legal,1.29,2.14
+"Squee, Goblin Nabob",mma,Modern Masters,legal,4.28,2.73
+Stonehewer Giant,mma,Modern Masters,legal,6.99,4.20
+Street Wraith,mma,Modern Masters,legal,1.99,2.73
+Summoner's Pact,mma,Modern Masters,legal,5.49,6.79
+Sword of Fire and Ice,mma,Modern Masters,legal,57.91,39.53
+Sword of Light and Shadow,mma,Modern Masters,legal,30.97,22.81
+Tarmogoyf,mma,Modern Masters,legal,64.48,59.11
+Tooth and Nail,mma,Modern Masters,legal,16.50,10.91
+Vedalken Shackles,mma,Modern Masters,legal,8.63,7.96
+Vendilion Clique,mma,Modern Masters,legal,19.99,18.60
+Woodfall Primus,mma,Modern Masters,legal,8.49,7.16
+"Yosei, the Morning Star",mma,Modern Masters,legal,1.99,2.17
+Deadbridge Chant,dgm,Dragon's Maze,legal,2.99,2.09
+Master of Cruelties,dgm,Dragon's Maze,legal,7.13,5.48
+Ral Zarek,dgm,Dragon's Maze,legal,7.28,4.77
+Voice of Resurgence,dgm,Dragon's Maze,legal,10.07,10.75
+"Sorin, Lord of Innistrad",ddk,Duel Decks: Sorin vs. Tibalt,legal,6.99,7.31
+Wall of Omens,ddk,Duel Decks: Sorin vs. Tibalt,legal,2.40,2.11
+"Aurelia, the Warleader",gtc,Gatecrash,legal,5.69,3.76
+Breeding Pool,gtc,Gatecrash,legal,11.21,9.07
+Crypt Ghast,gtc,Gatecrash,legal,3.41,2.38
+Domri Rade,gtc,Gatecrash,legal,3.57,3.05
+"Gideon, Champion of Justice",gtc,Gatecrash,legal,2.62,2.23
+Godless Shrine,gtc,Gatecrash,legal,9.49,7.63
+Hellkite Tyrant,gtc,Gatecrash,legal,6.49,4.38
+Illusionist's Bracers,gtc,Gatecrash,legal,2.49,2.18
+"Lazav, Dimir Mastermind",gtc,Gatecrash,legal,2.79,2.10
+Legion Loyalist,gtc,Gatecrash,legal,7.20,6.45
+Lord of the Void,gtc,Gatecrash,legal,4.40,3.94
+Sacred Foundry,gtc,Gatecrash,legal,11.74,9.09
+Stomping Ground,gtc,Gatecrash,legal,13.65,10.28
+Thespian's Stage,gtc,Gatecrash,legal,3.49,3.49
+Watery Grave,gtc,Gatecrash,legal,14.25,8.47
+Bribery,j13,Judge Gift Cards 2013,legal,32.30,22.38
+Crucible of Worlds,j13,Judge Gift Cards 2013,legal,97.67,64.69
+Genesis,j13,Judge Gift Cards 2013,not_legal,7.77,6.23
+Imperial Recruiter,j13,Judge Gift Cards 2013,not_legal,102.99,70.29
+Overwhelming Forces,j13,Judge Gift Cards 2013,not_legal,13.37,11.29
+Show and Tell,j13,Judge Gift Cards 2013,not_legal,39.36,29.48
+Swords to Plowshares,j13,Judge Gift Cards 2013,not_legal,38.05,25.57
+Vindicate,j13,Judge Gift Cards 2013,not_legal,10.55,10.47
+Chaos Warp,cm1,Commander's Arsenal,not_legal,12.27,6.75
+Command Tower,cm1,Commander's Arsenal,not_legal,65.45,34.03
+Decree of Pain,cm1,Commander's Arsenal,not_legal,4.49,3.87
+Desertion,cm1,Commander's Arsenal,not_legal,3.49,2.70
+"Diaochan, Artful Beauty",cm1,Commander's Arsenal,not_legal,6.99,4.37
+Duplicant,cm1,Commander's Arsenal,legal,3.89,3.11
+"Edric, Spymaster of Trest",cm1,Commander's Arsenal,not_legal,4.60,3.47
+Kaalia of the Vast,cm1,Commander's Arsenal,not_legal,19.99,16.00
+Loyal Retainers,cm1,Commander's Arsenal,not_legal,19.08,18.62
+Maelstrom Wanderer,cm1,Commander's Arsenal,not_legal,13.06,11.64
+Mind's Eye,cm1,Commander's Arsenal,legal,13.99,9.04
+Mirari's Wake,cm1,Commander's Arsenal,not_legal,16.37,10.11
+Rhystic Study,cm1,Commander's Arsenal,not_legal,39.89,28.14
+Scroll Rack,cm1,Commander's Arsenal,not_legal,52.94,30.24
+Sylvan Library,cm1,Commander's Arsenal,not_legal,35.23,24.77
+The Mimeoplasm,cm1,Commander's Arsenal,not_legal,9.99,7.15
+Vela the Night-Clad,cm1,Commander's Arsenal,not_legal,4.99,3.69
+Abrupt Decay,rtr,Return to Ravnica,legal,3.60,3.43
+Blood Crypt,rtr,Return to Ravnica,legal,9.79,7.76
+Chromatic Lantern,rtr,Return to Ravnica,legal,9.99,4.83
+Cyclonic Rift,rtr,Return to Ravnica,legal,14.39,9.28
+Deathrite Shaman,rtr,Return to Ravnica,banned,3.21,2.67
+Dreadbore,rtr,Return to Ravnica,legal,2.85,2.45
+Hallowed Fountain,rtr,Return to Ravnica,legal,7.32,6.09
+"Jace, Architect of Thought",rtr,Return to Ravnica,legal,2.19,2.04
+Overgrown Tomb,rtr,Return to Ravnica,legal,8.46,5.94
+"Rakdos, Lord of Riots",rtr,Return to Ravnica,legal,2.49,2.13
+Rest in Peace,rtr,Return to Ravnica,legal,5.49,5.49
+Sphinx's Revelation,rtr,Return to Ravnica,legal,3.15,2.87
+Steam Vents,rtr,Return to Ravnica,legal,13.17,7.93
+Supreme Verdict,rtr,Return to Ravnica,legal,4.25,3.59
+Temple Garden,rtr,Return to Ravnica,legal,8.10,6.31
+"Trostani, Selesnya's Voice",rtr,Return to Ravnica,legal,3.12,2.60
+Vraska the Unseen,rtr,Return to Ravnica,legal,3.19,2.94
+Worldspine Wurm,rtr,Return to Ravnica,legal,5.95,4.90
+Eternal Witness,ddj,Duel Decks: Izzet vs. Golgari,legal,6.52,3.63
+Golgari Thug,ddj,Duel Decks: Izzet vs. Golgari,legal,4.33,3.41
+Life from the Loam,ddj,Duel Decks: Izzet vs. Golgari,legal,16.06,11.91
+Sadistic Hypnotist,ddj,Duel Decks: Izzet vs. Golgari,not_legal,2.79,2.59
+Ancient Tomb,v12,From the Vault: Realms,not_legal,47.99,34.21
+"Boseiju, Who Shelters All",v12,From the Vault: Realms,legal,17.42,9.13
+Dryad Arbor,v12,From the Vault: Realms,legal,24.00,13.11
+Forbidden Orchard,v12,From the Vault: Realms,legal,6.99,3.51
+Glacial Chasm,v12,From the Vault: Realms,not_legal,8.93,5.13
+Grove of the Burnwillows,v12,From the Vault: Realms,legal,19.82,16.38
+Maze of Ith,v12,From the Vault: Realms,not_legal,16.86,9.52
+"Urborg, Tomb of Yawgmoth",v12,From the Vault: Realms,legal,28.36,16.54
+Vesuva,v12,From the Vault: Realms,legal,17.76,8.88
+"Ajani, Caller of the Pride",m13,Magic 2013,legal,5.23,4.42
+Akroma's Memorial,m13,Magic 2013,legal,20.08,7.29
+Boundless Realms,m13,Magic 2013,legal,3.65,3.25
+"Chandra, the Firebrand",m13,Magic 2013,legal,1.99,2.13
+Dragonskull Summit,m13,Magic 2013,legal,3.25,2.09
+Drowned Catacomb,m13,Magic 2013,legal,4.49,3.04
+"Garruk, Primal Hunter",m13,Magic 2013,legal,5.93,5.11
+Glacial Fortress,m13,Magic 2013,legal,4.72,2.67
+"Jace, Memory Adept",m13,Magic 2013,legal,5.06,3.88
+"Krenko, Mob Boss",m13,Magic 2013,legal,2.42,2.43
+Liliana of the Dark Realms,m13,Magic 2013,legal,8.60,7.01
+Master of the Pearl Trident,m13,Magic 2013,legal,3.86,4.55
+"Nicol Bolas, Planeswalker",m13,Magic 2013,legal,4.78,3.65
+Omniscience,m13,Magic 2013,legal,7.99,6.12
+Primordial Hydra,m13,Magic 2013,legal,6.82,5.54
+Rhox Faithmender,m13,Magic 2013,legal,4.78,3.49
+Slumbering Dragon,m13,Magic 2013,legal,1.99,2.51
+Sublime Archangel,m13,Magic 2013,legal,7.54,6.32
+Thundermaw Hellkite,m13,Magic 2013,legal,3.78,4.20
+Vampire Nocturnus,m13,Magic 2013,legal,7.30,5.98
+Awakening Zone,pc2,Planechase 2012,legal,2.96,2.72
+Baleful Strix,pc2,Planechase 2012,not_legal,3.23,3.12
+Bloodbraid Elf,pc2,Planechase 2012,legal,5.99,4.59
+Ghostly Prison,pc2,Planechase 2012,legal,4.36,2.38
+"Ink-Eyes, Servant of Oni",pc2,Planechase 2012,legal,5.90,2.18
+Kor Spiritdancer,pc2,Planechase 2012,legal,3.49,3.81
+Maelstrom Wanderer,pc2,Planechase 2012,not_legal,6.89,5.36
+Shardless Agent,pc2,Planechase 2012,not_legal,1.37,2.16
+Silent-Blade Oni,pc2,Planechase 2012,not_legal,3.49,2.53
+Alchemist's Refuge,avr,Avacyn Restored,legal,2.74,2.06
+Angel of Jubilation,avr,Avacyn Restored,legal,3.75,2.79
+"Avacyn, Angel of Hope",avr,Avacyn Restored,legal,19.59,12.92
+Bonfire of the Damned,avr,Avacyn Restored,legal,2.99,2.51
+Cavern of Souls,avr,Avacyn Restored,legal,71.81,66.80
+Descendants' Path,avr,Avacyn Restored,legal,3.49,3.18
+Entreat the Angels,avr,Avacyn Restored,legal,3.49,3.38
+Exquisite Blood,avr,Avacyn Restored,legal,16.94,11.87
+"Gisela, Blade of Goldnight",avr,Avacyn Restored,legal,4.21,3.97
+Griselbrand,avr,Avacyn Restored,legal,8.90,8.54
+Malignus,avr,Avacyn Restored,legal,2.83,2.01
+Reforge the Soul,avr,Avacyn Restored,legal,3.99,2.55
+Restoration Angel,avr,Avacyn Restored,legal,2.48,2.29
+"Sigarda, Host of Herons",avr,Avacyn Restored,legal,16.34,12.25
+Somberwald Sage,avr,Avacyn Restored,legal,2.82,2.25
+"Tamiyo, the Moon Sage",avr,Avacyn Restored,legal,19.69,13.62
+Temporal Mastery,avr,Avacyn Restored,legal,12.18,9.36
+Terminus,avr,Avacyn Restored,legal,3.49,3.08
+Vexing Devil,avr,Avacyn Restored,legal,7.13,6.99
+Anger,ddi,Duel Decks: Venser vs. Koth,not_legal,3.99,2.27
+Koth of the Hammer,ddi,Duel Decks: Venser vs. Koth,legal,6.75,6.50
+Path to Exile,ddi,Duel Decks: Venser vs. Koth,legal,7.82,5.68
+Preordain,ddi,Duel Decks: Venser vs. Koth,banned,3.89,2.89
+"Venser, the Sojourner",ddi,Duel Decks: Venser vs. Koth,legal,8.99,8.60
+Drogskol Captain,dka,Dark Ascension,legal,2.49,2.50
+Drogskol Reaver,dka,Dark Ascension,legal,3.89,3.29
+Geralf's Messenger,dka,Dark Ascension,legal,5.16,4.79
+Grafdigger's Cage,dka,Dark Ascension,legal,5.25,4.86
+Gravecrawler,dka,Dark Ascension,legal,8.42,5.27
+"Mikaeus, the Unhallowed",dka,Dark Ascension,legal,27.14,20.06
+"Sorin, Lord of Innistrad",dka,Dark Ascension,legal,8.59,7.71
+"Thalia, Guardian of Thraben",dka,Dark Ascension,legal,9.53,10.52
+Vault of the Archangel,dka,Dark Ascension,legal,2.86,2.33
+Command Tower,j12,Judge Gift Cards 2012,not_legal,79.31,48.17
+Flusterstorm,j12,Judge Gift Cards 2012,not_legal,93.05,60.02
+Karakas,j12,Judge Gift Cards 2012,not_legal,79.81,63.48
+Karmic Guide,j12,Judge Gift Cards 2012,not_legal,14.71,10.97
+Noble Hierarch,j12,Judge Gift Cards 2012,legal,182.95,143.45
+Sneak Attack,j12,Judge Gift Cards 2012,not_legal,34.80,24.72
+Sword of Light and Shadow,j12,Judge Gift Cards 2012,legal,46.03,29.41
+"Xiahou Dun, the One-Eyed",j12,Judge Gift Cards 2012,not_legal,60.88,30.43
+Balefire Dragon,isd,Innistrad,legal,14.18,11.05
+Bloodline Keeper // Lord of Lineage,isd,Innistrad,legal,7.98,6.15
+Champion of the Parish,isd,Innistrad,legal,4.51,4.08
+Clifftop Retreat,isd,Innistrad,legal,1.98,2.45
+Endless Ranks of the Dead,isd,Innistrad,legal,5.50,3.32
+"Garruk Relentless // Garruk, the Veil-Cursed",isd,Innistrad,legal,4.01,3.01
+Gavony Township,isd,Innistrad,legal,4.65,4.33
+Geist of Saint Traft,isd,Innistrad,legal,10.90,8.35
+"Grimgrin, Corpse-Born",isd,Innistrad,legal,4.99,3.29
+Hinterland Harbor,isd,Innistrad,legal,2.61,2.36
+Isolated Chapel,isd,Innistrad,legal,3.27,2.71
+Kessig Wolf Run,isd,Innistrad,legal,3.64,2.30
+Laboratory Maniac,isd,Innistrad,legal,8.85,4.53
+Liliana of the Veil,isd,Innistrad,legal,81.92,80.10
+Mayor of Avabruck // Howlpack Alpha,isd,Innistrad,legal,2.21,2.07
+"Mikaeus, the Lunarch",isd,Innistrad,legal,4.62,3.33
+Olivia Voldaren,isd,Innistrad,legal,4.87,3.38
+Parallel Lives,isd,Innistrad,legal,12.06,7.73
+Past in Flames,isd,Innistrad,legal,3.99,2.90
+Snapcaster Mage,isd,Innistrad,legal,65.96,53.41
+Stony Silence,isd,Innistrad,legal,7.99,5.41
+Sulfur Falls,isd,Innistrad,legal,4.68,3.90
+Woodland Cemetery,isd,Innistrad,legal,4.17,3.29
+Ajani Vengeant,ddh,Duel Decks: Ajani vs. Nicol Bolas,legal,4.49,3.52
+"Nicol Bolas, Planeswalker",ddh,Duel Decks: Ajani vs. Nicol Bolas,legal,5.88,3.93
+Captain Sisay,v11,From the Vault: Legends,not_legal,22.99,17.22
+"Doran, the Siege Tower",v11,From the Vault: Legends,legal,8.49,4.89
+"Kiki-Jiki, Mirror Breaker",v11,From the Vault: Legends,legal,9.94,7.03
+"Mikaeus, the Lunarch",v11,From the Vault: Legends,legal,5.75,4.52
+"Omnath, Locus of Mana",v11,From the Vault: Legends,legal,17.99,9.26
+"Oona, Queen of the Fae",v11,From the Vault: Legends,legal,5.99,3.27
+Progenitus,v11,From the Vault: Legends,legal,10.79,7.25
+Rafiq of the Many,v11,From the Vault: Legends,legal,8.12,3.77
+"Sun Quan, Lord of Wu",v11,From the Vault: Legends,not_legal,5.99,3.80
+"Teferi, Mage of Zhalfir",v11,From the Vault: Legends,legal,5.99,4.35
+"Ulamog, the Infinite Gyre",v11,From the Vault: Legends,legal,30.47,15.83
+Visara the Dreadful,v11,From the Vault: Legends,not_legal,2.99,2.79
+Adaptive Automaton,m12,Magic 2012,legal,2.70,3.33
+Angelic Destiny,m12,Magic 2012,legal,8.57,6.67
+Birds of Paradise,m12,Magic 2012,legal,7.59,4.30
+Dragonskull Summit,m12,Magic 2012,legal,2.99,2.10
+Drowned Catacomb,m12,Magic 2012,legal,4.34,3.12
+Dungrove Elder,m12,Magic 2012,legal,3.99,4.09
+"Garruk, Primal Hunter",m12,Magic 2012,legal,6.62,4.95
+Gideon Jura,m12,Magic 2012,legal,4.63,4.11
+Glacial Fortress,m12,Magic 2012,legal,4.63,2.39
+Goblin Chieftain,m12,Magic 2012,legal,2.75,2.23
+Grand Abolisher,m12,Magic 2012,legal,5.99,3.29
+Grave Titan,m12,Magic 2012,legal,13.64,8.25
+Grim Lavamancer,m12,Magic 2012,legal,12.36,7.00
+"Jace, Memory Adept",m12,Magic 2012,legal,5.32,3.89
+Phantasmal Image,m12,Magic 2012,legal,16.11,12.64
+Primeval Titan,m12,Magic 2012,legal,7.15,7.21
+Primordial Hydra,m12,Magic 2012,legal,6.97,4.92
+Quicksilver Amulet,m12,Magic 2012,legal,4.46,3.71
+Rootbound Crag,m12,Magic 2012,legal,3.20,2.06
+Solemn Simulacrum,m12,Magic 2012,legal,4.52,2.13
+Sorin Markov,m12,Magic 2012,legal,16.46,10.01
+Sun Titan,m12,Magic 2012,legal,3.48,2.45
+Visions of Beyond,m12,Magic 2012,legal,5.14,5.60
+Alliance of Arms,cmd,Commander 2011,not_legal,2.67,2.09
+"Animar, Soul of Elements",cmd,Commander 2011,not_legal,9.99,8.16
+Attrition,cmd,Commander 2011,not_legal,5.99,3.92
+Aura Shards,cmd,Commander 2011,not_legal,14.99,8.63
+Austere Command,cmd,Commander 2011,legal,4.96,3.18
+Awakening Zone,cmd,Commander 2011,legal,2.99,2.24
+Champion's Helm,cmd,Commander 2011,not_legal,13.66,8.65
+"Damia, Sage of Stone",cmd,Commander 2011,not_legal,6.49,3.15
+Eternal Witness,cmd,Commander 2011,legal,7.41,4.08
+Flusterstorm,cmd,Commander 2011,not_legal,20.15,16.77
+Garruk Wildspeaker,cmd,Commander 2011,legal,8.31,5.06
+Ghostly Prison,cmd,Commander 2011,legal,4.19,2.05
+Grave Pact,cmd,Commander 2011,legal,11.99,7.32
+Homeward Path,cmd,Commander 2011,not_legal,6.55,2.61
+Insurrection,cmd,Commander 2011,not_legal,7.38,2.12
+Kaalia of the Vast,cmd,Commander 2011,not_legal,17.42,12.66
+"Karador, Ghost Chieftain",cmd,Commander 2011,not_legal,8.31,4.60
+Living Death,cmd,Commander 2011,not_legal,2.79,2.14
+Martyr's Bond,cmd,Commander 2011,not_legal,7.40,5.31
+Mother of Runes,cmd,Commander 2011,not_legal,2.41,2.17
+Oblivion Stone,cmd,Commander 2011,legal,6.24,5.41
+Path to Exile,cmd,Commander 2011,legal,7.10,5.31
+Propaganda,cmd,Commander 2011,not_legal,7.53,3.11
+Riddlekeeper,cmd,Commander 2011,not_legal,2.99,2.58
+Riku of Two Reflections,cmd,Commander 2011,not_legal,12.17,4.08
+Ruination,cmd,Commander 2011,not_legal,3.86,2.33
+Scavenging Ooze,cmd,Commander 2011,legal,3.71,3.86
+Sewer Nemesis,cmd,Commander 2011,not_legal,2.99,2.39
+"Skullbriar, the Walking Grave",cmd,Commander 2011,not_legal,4.49,3.28
+Solemn Simulacrum,cmd,Commander 2011,legal,5.10,2.38
+Stranglehold,cmd,Commander 2011,not_legal,7.99,4.21
+The Mimeoplasm,cmd,Commander 2011,not_legal,5.99,3.99
+"Vish Kal, Blood Arbiter",cmd,Commander 2011,not_legal,6.99,5.25
+Batterskull,nph,New Phyrexia,legal,19.97,13.44
+Birthing Pod,nph,New Phyrexia,banned,10.06,6.34
+Caged Sun,nph,New Phyrexia,legal,6.58,3.25
+Chancellor of the Annex,nph,New Phyrexia,legal,4.49,4.96
+Dismember,nph,New Phyrexia,legal,3.62,2.02
+"Elesh Norn, Grand Cenobite",nph,New Phyrexia,legal,14.07,12.93
+"Jin-Gitaxias, Core Augur",nph,New Phyrexia,legal,7.62,5.79
+Karn Liberated,nph,New Phyrexia,legal,86.93,67.71
+Norn's Annex,nph,New Phyrexia,legal,4.70,2.43
+Noxious Revival,nph,New Phyrexia,legal,4.99,4.30
+Phyrexian Metamorph,nph,New Phyrexia,legal,8.64,4.75
+Phyrexian Obliterator,nph,New Phyrexia,legal,19.51,17.76
+Phyrexian Unlife,nph,New Phyrexia,legal,3.34,3.62
+Puresteel Paladin,nph,New Phyrexia,legal,7.30,6.11
+"Sheoldred, Whispering One",nph,New Phyrexia,legal,13.48,8.10
+Spellskite,nph,New Phyrexia,legal,7.23,6.82
+Surgical Extraction,nph,New Phyrexia,legal,23.65,18.36
+Sword of War and Peace,nph,New Phyrexia,legal,17.99,11.05
+Triumph of the Hordes,nph,New Phyrexia,legal,6.99,4.41
+Unwinding Clock,nph,New Phyrexia,legal,4.99,2.54
+Urabrask the Hidden,nph,New Phyrexia,legal,4.19,3.22
+"Vorinclex, Voice of Hunger",nph,New Phyrexia,legal,12.68,8.35
+Knight Exemplar,ddg,Duel Decks: Knights vs. Dragons,legal,4.98,2.56
+Knight of the Reliquary,ddg,Duel Decks: Knights vs. Dragons,legal,3.99,3.74
+Spidersilk Armor,ddg,Duel Decks: Knights vs. Dragons,not_legal,2.99,2.35
+Black Sun's Zenith,mbs,Mirrodin Besieged,legal,3.99,2.71
+Blightsteel Colossus,mbs,Mirrodin Besieged,legal,43.40,21.29
+Consecrated Sphinx,mbs,Mirrodin Besieged,legal,14.12,9.98
+Darksteel Plate,mbs,Mirrodin Besieged,legal,5.80,4.17
+Green Sun's Zenith,mbs,Mirrodin Besieged,banned,6.97,4.79
+Hero of Bladehold,mbs,Mirrodin Besieged,legal,6.26,4.68
+Inkmoth Nexus,mbs,Mirrodin Besieged,legal,18.36,11.90
+Massacre Wurm,mbs,Mirrodin Besieged,legal,12.06,9.39
+Mirran Crusader,mbs,Mirrodin Besieged,legal,2.71,2.07
+Phyrexian Crusader,mbs,Mirrodin Besieged,legal,5.26,4.13
+Sword of Feast and Famine,mbs,Mirrodin Besieged,legal,34.13,21.77
+"Tezzeret, Agent of Bolas",mbs,Mirrodin Besieged,legal,15.99,15.43
+"Thrun, the Last Troll",mbs,Mirrodin Besieged,legal,14.99,11.25
+Dark Confidant,g11,Judge Gift Cards 2011,legal,210.45,159.67
+Doubling Season,g11,Judge Gift Cards 2011,legal,76.52,45.79
+Goblin Welder,g11,Judge Gift Cards 2011,not_legal,23.91,12.25
+Mana Crypt,g11,Judge Gift Cards 2011,not_legal,164.73,128.96
+Sword of Fire and Ice,g11,Judge Gift Cards 2011,legal,105.83,63.12
+Vendilion Clique,g11,Judge Gift Cards 2011,legal,92.88,73.37
+Chain Lightning,pd2,Premium Deck Series: Fire and Lightning,not_legal,3.99,3.44
+Grim Lavamancer,pd2,Premium Deck Series: Fire and Lightning,legal,12.04,7.99
+Lightning Bolt,pd2,Premium Deck Series: Fire and Lightning,legal,3.99,3.14
+Asceticism,som,Scars of Mirrodin,legal,13.39,6.94
+Blackcleave Cliffs,som,Scars of Mirrodin,legal,45.79,36.08
+Contagion Engine,som,Scars of Mirrodin,legal,8.99,5.41
+Copperline Gorge,som,Scars of Mirrodin,legal,7.76,6.61
+Darkslick Shores,som,Scars of Mirrodin,legal,9.52,9.85
+Elspeth Tirel,som,Scars of Mirrodin,legal,8.82,6.08
+Etched Champion,som,Scars of Mirrodin,legal,3.22,2.85
+Exsanguinate,som,Scars of Mirrodin,legal,2.99,2.23
+"Ezuri, Renegade Leader",som,Scars of Mirrodin,legal,3.99,3.46
+Genesis Wave,som,Scars of Mirrodin,legal,3.46,2.12
+"Geth, Lord of the Vault",som,Scars of Mirrodin,legal,9.63,6.11
+Koth of the Hammer,som,Scars of Mirrodin,legal,8.49,6.88
+Kuldotha Forgemaster,som,Scars of Mirrodin,legal,4.26,2.33
+Leonin Arbiter,som,Scars of Mirrodin,legal,2.97,2.47
+Liege of the Tangle,som,Scars of Mirrodin,legal,2.90,2.29
+Lux Cannon,som,Scars of Mirrodin,legal,3.99,3.03
+Mindslaver,som,Scars of Mirrodin,legal,3.99,2.26
+Mox Opal,som,Scars of Mirrodin,legal,97.28,70.33
+Nim Deathmantle,som,Scars of Mirrodin,legal,4.99,3.63
+Painful Quandary,som,Scars of Mirrodin,legal,6.01,2.49
+Platinum Emperion,som,Scars of Mirrodin,legal,16.27,14.53
+Razorverge Thicket,som,Scars of Mirrodin,legal,8.49,6.82
+Seachrome Coast,som,Scars of Mirrodin,legal,17.19,14.06
+"Skithiryx, the Blight Dragon",som,Scars of Mirrodin,legal,23.07,15.35
+Sword of Body and Mind,som,Scars of Mirrodin,legal,12.59,6.75
+Throne of Geth,som,Scars of Mirrodin,legal,3.49,2.16
+True Conviction,som,Scars of Mirrodin,legal,3.49,2.10
+Venser's Journal,som,Scars of Mirrodin,legal,4.84,2.17
+"Venser, the Sojourner",som,Scars of Mirrodin,legal,11.99,8.38
+Wurmcoil Engine,som,Scars of Mirrodin,legal,22.94,14.65
+"Elspeth, Knight-Errant",ddf,Duel Decks: Elspeth vs. Tezzeret,legal,11.07,5.19
+Master of Etherium,ddf,Duel Decks: Elspeth vs. Tezzeret,legal,4.40,2.33
+Steel Overseer,ddf,Duel Decks: Elspeth vs. Tezzeret,legal,17.14,10.42
+Tezzeret the Seeker,ddf,Duel Decks: Elspeth vs. Tezzeret,legal,9.23,4.10
+Aether Vial,v10,From the Vault: Relics,legal,38.87,26.88
+Black Vise,v10,From the Vault: Relics,not_legal,2.61,2.30
+Memory Jar,v10,From the Vault: Relics,not_legal,34.99,24.57
+Mox Diamond,v10,From the Vault: Relics,not_legal,239.99,152.72
+Nevinyrral's Disk,v10,From the Vault: Relics,not_legal,3.45,2.45
+Sol Ring,v10,From the Vault: Relics,not_legal,27.99,24.63
+Sundering Titan,v10,From the Vault: Relics,legal,2.78,2.68
+Sword of Body and Mind,v10,From the Vault: Relics,legal,14.49,7.96
+Zuran Orb,v10,From the Vault: Relics,not_legal,10.12,8.59
+Ajani Goldmane,m11,Magic 2011,legal,6.45,4.33
+Baneslayer Angel,m11,Magic 2011,legal,9.16,5.48
+Birds of Paradise,m11,Magic 2011,legal,7.80,4.15
+Captivating Vampire,m11,Magic 2011,legal,3.87,3.93
+Demon of Death's Gate,m11,Magic 2011,legal,4.80,3.16
+Dragonskull Summit,m11,Magic 2011,legal,3.18,2.20
+Drowned Catacomb,m11,Magic 2011,legal,4.49,3.11
+Elvish Archdruid,m11,Magic 2011,legal,2.07,2.10
+Fauna Shaman,m11,Magic 2011,legal,13.46,8.35
+Garruk Wildspeaker,m11,Magic 2011,legal,8.49,5.12
+Glacial Fortress,m11,Magic 2011,legal,4.45,2.70
+Goblin Chieftain,m11,Magic 2011,legal,2.93,2.25
+Grave Titan,m11,Magic 2011,legal,12.43,8.39
+Jace Beleren,m11,Magic 2011,legal,4.99,2.96
+Knight Exemplar,m11,Magic 2011,legal,5.07,3.93
+Leyline of Anticipation,m11,Magic 2011,legal,14.70,8.67
+Leyline of Sanctity,m11,Magic 2011,legal,24.04,21.06
+Leyline of the Void,m11,Magic 2011,legal,40.90,25.14
+Lightning Bolt,m11,Magic 2011,legal,2.75,2.37
+Liliana's Caress,m11,Magic 2011,legal,3.38,2.63
+Liliana Vess,m11,Magic 2011,legal,7.29,3.91
+Platinum Angel,m11,Magic 2011,legal,4.39,2.17
+Preordain,m11,Magic 2011,banned,3.37,2.24
+Primeval Titan,m11,Magic 2011,legal,8.10,7.44
+Pyretic Ritual,m11,Magic 2011,legal,2.49,2.16
+Rootbound Crag,m11,Magic 2011,legal,3.11,2.19
+Serra Ascendant,m11,Magic 2011,legal,6.11,5.58
+Steel Overseer,m11,Magic 2011,legal,17.05,12.32
+Sun Titan,m11,Magic 2011,legal,3.49,2.29
+All Is Dust,roe,Rise of the Eldrazi,legal,20.49,16.57
+Ancient Stirrings,roe,Rise of the Eldrazi,legal,2.25,2.09
+Awakening Zone,roe,Rise of the Eldrazi,legal,2.99,2.07
+Bear Umbra,roe,Rise of the Eldrazi,legal,5.99,2.15
+Eldrazi Conscription,roe,Rise of the Eldrazi,legal,14.77,7.64
+Eldrazi Temple,roe,Rise of the Eldrazi,legal,9.05,8.88
+"Emrakul, the Aeons Torn",roe,Rise of the Eldrazi,legal,38.78,28.46
+Gideon Jura,roe,Rise of the Eldrazi,legal,4.49,4.29
+Guul Draz Assassin,roe,Rise of the Eldrazi,legal,4.30,3.33
+Inquisition of Kozilek,roe,Rise of the Eldrazi,legal,5.00,4.25
+It That Betrays,roe,Rise of the Eldrazi,legal,6.66,3.15
+Kargan Dragonlord,roe,Rise of the Eldrazi,legal,4.70,3.51
+Khalni Hydra,roe,Rise of the Eldrazi,legal,10.39,7.01
+Kor Spiritdancer,roe,Rise of the Eldrazi,legal,2.99,3.89
+"Kozilek, Butcher of Truth",roe,Rise of the Eldrazi,legal,39.47,21.19
+Lighthouse Chronologist,roe,Rise of the Eldrazi,legal,11.56,6.50
+"Linvala, Keeper of Silence",roe,Rise of the Eldrazi,legal,15.55,11.31
+Momentous Fall,roe,Rise of the Eldrazi,legal,1.99,2.07
+Nirkana Revenant,roe,Rise of the Eldrazi,legal,8.49,6.10
+Realms Uncharted,roe,Rise of the Eldrazi,legal,4.94,3.03
+Sarkhan the Mad,roe,Rise of the Eldrazi,legal,6.95,4.48
+Splinter Twin,roe,Rise of the Eldrazi,banned,5.49,4.02
+Student of Warfare,roe,Rise of the Eldrazi,legal,4.95,2.96
+Training Grounds,roe,Rise of the Eldrazi,legal,13.06,9.93
+Transcendent Master,roe,Rise of the Eldrazi,legal,4.29,2.87
+"Ulamog, the Infinite Gyre",roe,Rise of the Eldrazi,legal,26.66,14.77
+Unified Will,roe,Rise of the Eldrazi,legal,1.49,2.24
+Vengevine,roe,Rise of the Eldrazi,legal,44.99,24.77
+Coalition Relic,dde,Duel Decks: Phyrexia vs. the Coalition,legal,4.74,3.68
+Lightning Greaves,dde,Duel Decks: Phyrexia vs. the Coalition,legal,3.99,2.15
+Phyrexian Arena,dde,Duel Decks: Phyrexia vs. the Coalition,legal,7.96,4.62
+Admonition Angel,wwk,Worldwake,legal,5.43,3.63
+Amulet of Vigor,wwk,Worldwake,legal,17.55,8.89
+Avenger of Zendikar,wwk,Worldwake,legal,4.99,3.71
+Basilisk Collar,wwk,Worldwake,legal,4.26,3.41
+Celestial Colonnade,wwk,Worldwake,legal,50.89,35.04
+Creeping Tar Pit,wwk,Worldwake,legal,15.59,13.51
+Death's Shadow,wwk,Worldwake,legal,8.61,9.01
+Dragonmaster Outcast,wwk,Worldwake,legal,2.99,2.18
+Eye of Ugin,wwk,Worldwake,banned,6.46,5.71
+"Jace, the Mind Sculptor",wwk,Worldwake,legal,87.62,78.28
+Joraga Warcaller,wwk,Worldwake,legal,4.02,2.43
+Kalastria Highborn,wwk,Worldwake,legal,4.99,3.31
+"Omnath, Locus of Mana",wwk,Worldwake,legal,14.85,7.09
+Raging Ravine,wwk,Worldwake,legal,12.08,10.37
+Stoneforge Mystic,wwk,Worldwake,banned,29.88,21.35
+Land Tax,g10,Judge Gift Cards 2010,not_legal,104.39,50.00
+Morphling,g10,Judge Gift Cards 2010,not_legal,31.29,24.83
+Natural Order,g10,Judge Gift Cards 2010,not_legal,73.92,34.49
+Phyrexian Dreadnought,g10,Judge Gift Cards 2010,not_legal,63.45,52.35
+Sinkhole,g10,Judge Gift Cards 2010,not_legal,22.03,14.99
+Thawing Glaciers,g10,Judge Gift Cards 2010,not_legal,70.92,63.95
+Wasteland,g10,Judge Gift Cards 2010,not_legal,85.73,75.29
+Wheel of Fortune,g10,Judge Gift Cards 2010,not_legal,334.62,300.00
+Ancient Ziggurat,h09,Premium Deck Series: Slivers,legal,11.63,9.18
+Coat of Arms,h09,Premium Deck Series: Slivers,legal,8.51,4.11
+Crystalline Sliver,h09,Premium Deck Series: Slivers,not_legal,4.36,4.26
+Distant Melody,h09,Premium Deck Series: Slivers,legal,2.22,2.15
+Necrotic Sliver,h09,Premium Deck Series: Slivers,legal,4.78,2.48
+Rootbound Crag,h09,Premium Deck Series: Slivers,legal,3.30,2.23
+Sliver Overlord,h09,Premium Deck Series: Slivers,not_legal,13.34,6.99
+Garruk Wildspeaker,ddd,Duel Decks: Garruk vs. Liliana,legal,7.83,4.95
+Liliana Vess,ddd,Duel Decks: Garruk vs. Liliana,legal,8.05,4.01
+Archive Trap,zen,Zendikar,legal,10.43,6.50
+Arid Mesa,zen,Zendikar,legal,40.14,25.97
+Bloodchief Ascension,zen,Zendikar,legal,8.69,5.08
+Bloodghast,zen,Zendikar,legal,12.94,10.82
+Chandra Ablaze,zen,Zendikar,legal,5.99,3.05
+Eldrazi Monument,zen,Zendikar,legal,6.71,3.20
+"Emeria, the Sky Ruin",zen,Zendikar,legal,5.99,4.34
+Goblin Guide,zen,Zendikar,legal,19.36,14.83
+Hedron Crab,zen,Zendikar,legal,3.99,2.20
+"Iona, Shield of Emeria",zen,Zendikar,legal,12.01,6.42
+"Kalitas, Bloodchief of Ghet",zen,Zendikar,legal,7.46,4.62
+Lotus Cobra,zen,Zendikar,legal,6.44,4.52
+Luminarch Ascension,zen,Zendikar,legal,2.49,2.28
+Marsh Flats,zen,Zendikar,legal,40.01,26.24
+Mindbreak Trap,zen,Zendikar,legal,7.49,3.88
+Misty Rainforest,zen,Zendikar,legal,43.07,29.54
+Nissa Revane,zen,Zendikar,legal,7.67,4.84
+"Ob Nixilis, the Fallen",zen,Zendikar,legal,6.26,3.25
+Oracle of Mul Daya,zen,Zendikar,legal,31.93,15.73
+Scalding Tarn,zen,Zendikar,legal,73.74,50.73
+Sorin Markov,zen,Zendikar,legal,17.66,8.56
+"Valakut, the Molten Pinnacle",zen,Zendikar,legal,18.35,9.30
+Verdant Catacombs,zen,Zendikar,legal,46.70,35.57
+Warren Instigator,zen,Zendikar,legal,4.49,4.05
+Balance,v09,From the Vault: Exiled,not_legal,4.44,3.74
+Berserk,v09,From the Vault: Exiled,not_legal,14.87,14.55
+Channel,v09,From the Vault: Exiled,not_legal,3.49,2.52
+Gifts Ungiven,v09,From the Vault: Exiled,legal,7.49,5.79
+Goblin Lackey,v09,From the Vault: Exiled,not_legal,22.84,19.70
+Lotus Petal,v09,From the Vault: Exiled,not_legal,39.43,30.52
+Mystical Tutor,v09,From the Vault: Exiled,not_legal,13.99,7.17
+Necropotence,v09,From the Vault: Exiled,not_legal,8.99,5.47
+Sensei's Divining Top,v09,From the Vault: Exiled,banned,29.99,15.51
+Skullclamp,v09,From the Vault: Exiled,banned,12.99,5.77
+Strip Mine,v09,From the Vault: Exiled,not_legal,40.20,26.55
+Tinker,v09,From the Vault: Exiled,not_legal,7.98,5.10
+Trinisphere,v09,From the Vault: Exiled,legal,31.99,18.48
+Ajani Goldmane,m10,Magic 2010,legal,6.99,4.23
+Baneslayer Angel,m10,Magic 2010,legal,10.03,5.58
+Birds of Paradise,m10,Magic 2010,legal,7.53,4.47
+Burning Inquiry,m10,Magic 2010,legal,2.99,2.19
+Coat of Arms,m10,Magic 2010,legal,6.98,3.42
+Darksteel Colossus,m10,Magic 2010,legal,6.85,3.47
+Dragonskull Summit,m10,Magic 2010,legal,3.61,2.30
+Drowned Catacomb,m10,Magic 2010,legal,4.89,2.88
+Elvish Archdruid,m10,Magic 2010,legal,2.81,2.11
+Elvish Piper,m10,Magic 2010,legal,3.99,2.53
+Garruk Wildspeaker,m10,Magic 2010,legal,8.57,5.16
+Glacial Fortress,m10,Magic 2010,legal,4.40,2.93
+Goblin Chieftain,m10,Magic 2010,legal,2.90,2.45
+Jace Beleren,m10,Magic 2010,legal,5.49,3.35
+Lightning Bolt,m10,Magic 2010,legal,2.86,2.29
+Liliana Vess,m10,Magic 2010,legal,7.98,4.14
+Master of the Wild Hunt,m10,Magic 2010,legal,4.99,4.35
+Pithing Needle,m10,Magic 2010,legal,2.53,2.31
+Platinum Angel,m10,Magic 2010,legal,4.35,2.33
+Rootbound Crag,m10,Magic 2010,legal,3.49,2.10
+Sphinx Ambassador,m10,Magic 2010,legal,5.71,2.97
+Sunpetal Grove,m10,Magic 2010,legal,3.37,2.01
+Time Warp,m10,Magic 2010,legal,12.09,10.73
+Vampire Nocturnus,m10,Magic 2010,legal,8.04,6.79
+Bloodbraid Elf,arb,Alara Reborn,legal,3.31,3.67
+Dragon Broodmother,arb,Alara Reborn,legal,15.30,6.82
+"Jenara, Asura of War",arb,Alara Reborn,legal,2.72,2.01
+"Karrthus, Tyrant of Jund",arb,Alara Reborn,legal,25.15,11.46
+Lich Lord of Unx,arb,Alara Reborn,legal,10.54,5.85
+Lord of Extinction,arb,Alara Reborn,legal,14.21,7.80
+Maelstrom Nexus,arb,Alara Reborn,legal,19.23,8.68
+Maelstrom Pulse,arb,Alara Reborn,legal,21.94,14.43
+Mayael's Aria,arb,Alara Reborn,legal,6.49,2.77
+Meddling Mage,arb,Alara Reborn,legal,25.20,12.94
+Mind Funeral,arb,Alara Reborn,legal,3.99,2.66
+Nemesis of Reason,arb,Alara Reborn,legal,6.14,2.46
+Sen Triplets,arb,Alara Reborn,legal,23.79,11.17
+Time Sieve,arb,Alara Reborn,legal,7.99,4.39
+"Uril, the Miststalker",arb,Alara Reborn,legal,7.99,2.83
+Wargate,arb,Alara Reborn,legal,7.18,2.55
+"Akroma, Angel of Wrath",ddc,Duel Decks: Divine vs. Demonic,legal,4.99,2.44
+Demonic Tutor,ddc,Duel Decks: Divine vs. Demonic,not_legal,49.75,29.58
+Ancient Ziggurat,con,Conflux,legal,11.15,9.00
+Countersquall,con,Conflux,legal,2.49,2.02
+Font of Mythos,con,Conflux,legal,8.83,3.53
+Knight of the Reliquary,con,Conflux,legal,4.49,3.88
+Maelstrom Archangel,con,Conflux,legal,14.99,6.77
+Master Transmuter,con,Conflux,legal,12.80,7.85
+"Nicol Bolas, Planeswalker",con,Conflux,legal,6.49,4.52
+Noble Hierarch,con,Conflux,legal,76.36,52.40
+Path to Exile,con,Conflux,legal,7.12,5.51
+Progenitus,con,Conflux,legal,7.65,4.91
+Bloodstained Mire,g09,Judge Gift Cards 2009,legal,139.43,76.99
+Burning Wish,g09,Judge Gift Cards 2009,not_legal,24.96,13.95
+Dark Ritual,g09,Judge Gift Cards 2009,not_legal,38.86,28.57
+Flooded Strand,g09,Judge Gift Cards 2009,legal,133.48,98.65
+Maze of Ith,g09,Judge Gift Cards 2009,not_legal,90.96,59.36
+Polluted Delta,g09,Judge Gift Cards 2009,legal,147.19,96.41
+Stifle,g09,Judge Gift Cards 2009,not_legal,21.25,15.13
+Survival of the Fittest,g09,Judge Gift Cards 2009,not_legal,466.22,379.47
+Windswept Heath,g09,Judge Gift Cards 2009,legal,99.71,56.72
+Wooded Foothills,g09,Judge Gift Cards 2009,legal,103.40,65.51
+Ancestral Vision,dd2,Duel Decks: Jace vs. Chandra,legal,11.51,11.52
+Gush,dd2,Duel Decks: Jace vs. Chandra,not_legal,7.03,4.38
+Jace Beleren,dd2,Duel Decks: Jace vs. Chandra,legal,5.49,2.82
+Ad Nauseam,ala,Shards of Alara,legal,8.40,4.01
+Ajani Vengeant,ala,Shards of Alara,legal,7.49,5.24
+Death Baron,ala,Shards of Alara,legal,5.99,5.32
+"Elspeth, Knight-Errant",ala,Shards of Alara,legal,14.99,7.58
+Ethersworn Canonist,ala,Shards of Alara,legal,8.49,6.25
+Godsire,ala,Shards of Alara,legal,4.99,2.76
+Hellkite Overlord,ala,Shards of Alara,legal,7.63,3.88
+Master of Etherium,ala,Shards of Alara,legal,4.95,2.49
+Rafiq of the Many,ala,Shards of Alara,legal,7.23,2.75
+Ranger of Eos,ala,Shards of Alara,legal,2.19,2.01
+Relic of Progenitus,ala,Shards of Alara,legal,3.99,3.24
+Sarkhan Vol,ala,Shards of Alara,legal,8.85,5.57
+Tezzeret the Seeker,ala,Shards of Alara,legal,12.98,5.86
+Draco,drb,From the Vault: Dragons,not_legal,5.99,3.69
+Dragonstorm,drb,From the Vault: Dragons,legal,3.58,2.37
+Form of the Dragon,drb,From the Vault: Dragons,legal,6.18,2.72
+Hellkite Overlord,drb,From the Vault: Dragons,legal,9.83,4.99
+"Kokusho, the Evening Star",drb,From the Vault: Dragons,legal,10.99,9.94
+Nicol Bolas,drb,From the Vault: Dragons,legal,39.99,31.24
+"Niv-Mizzet, the Firemind",drb,From the Vault: Dragons,legal,4.48,2.95
+"Rith, the Awakener",drb,From the Vault: Dragons,not_legal,10.99,6.03
+Shivan Dragon,drb,From the Vault: Dragons,legal,4.05,3.89
+Thunder Dragon,drb,From the Vault: Dragons,not_legal,3.47,2.88
+Two-Headed Dragon,drb,From the Vault: Dragons,legal,3.10,2.18
+"Ashling, the Extinguisher",eve,Eventide,legal,3.99,2.02
+Balefire Liege,eve,Eventide,legal,7.04,3.83
+Bloom Tender,eve,Eventide,legal,37.64,16.86
+Cascade Bluffs,eve,Eventide,legal,8.99,7.43
+Creakwood Liege,eve,Eventide,legal,3.73,2.69
+Crumbling Ashes,eve,Eventide,legal,4.82,4.32
+Deathbringer Liege,eve,Eventide,legal,9.18,6.66
+Endless Horizons,eve,Eventide,legal,7.49,3.09
+Fetid Heath,eve,Eventide,legal,9.99,8.91
+Flooded Grove,eve,Eventide,legal,9.99,6.12
+Glen Elendra Archmage,eve,Eventide,legal,22.99,12.11
+Helix Pinnacle,eve,Eventide,legal,12.99,5.45
+Necroskitter,eve,Eventide,legal,3.99,2.93
+Primalcrux,eve,Eventide,legal,5.54,4.10
+Rugged Prairie,eve,Eventide,legal,8.49,5.49
+Sapling of Colfenor,eve,Eventide,legal,5.49,3.85
+Scarecrone,eve,Eventide,legal,10.17,6.74
+Stigma Lasher,eve,Eventide,legal,7.33,2.60
+Stillmoon Cavalier,eve,Eventide,legal,4.59,2.15
+Twilight Mire,eve,Eventide,legal,9.99,9.04
+Ward of Bones,eve,Eventide,legal,7.07,2.68
+Waves of Aggression,eve,Eventide,legal,5.49,2.72
+Boon Reflection,shm,Shadowmoor,legal,9.39,3.58
+Devoted Druid,shm,Shadowmoor,legal,4.99,3.72
+Enchanted Evening,shm,Shadowmoor,legal,26.16,10.19
+Fire-Lit Thicket,shm,Shadowmoor,legal,16.81,5.72
+Fracturing Gust,shm,Shadowmoor,legal,10.86,4.79
+Fulminator Mage,shm,Shadowmoor,legal,24.99,18.63
+Graven Cairns,shm,Shadowmoor,legal,4.99,2.92
+Greater Auramancy,shm,Shadowmoor,legal,42.37,19.12
+Kitchen Finks,shm,Shadowmoor,legal,7.49,5.97
+Knollspine Dragon,shm,Shadowmoor,legal,7.58,2.75
+Manamorphose,shm,Shadowmoor,legal,9.24,6.51
+Mana Reflection,shm,Shadowmoor,legal,30.60,12.81
+Mistveil Plains,shm,Shadowmoor,legal,4.99,2.67
+Mystic Gate,shm,Shadowmoor,legal,23.26,10.19
+"Oona, Queen of the Fae",shm,Shadowmoor,legal,5.21,2.22
+Painter's Servant,shm,Shadowmoor,legal,8.79,5.13
+Polluted Bonds,shm,Shadowmoor,legal,13.54,6.46
+Prismatic Omen,shm,Shadowmoor,legal,27.77,12.80
+Reflecting Pool,shm,Shadowmoor,legal,13.77,6.76
+Rhys the Redeemed,shm,Shadowmoor,legal,27.59,9.97
+River Kelpie,shm,Shadowmoor,legal,6.82,2.89
+Runed Halo,shm,Shadowmoor,legal,42.95,20.17
+Savor the Moment,shm,Shadowmoor,legal,3.49,2.60
+Sunken Ruins,shm,Shadowmoor,legal,23.99,11.04
+"Sygg, River Cutthroat",shm,Shadowmoor,legal,4.65,2.54
+Umbral Mantle,shm,Shadowmoor,legal,5.49,2.98
+Vexing Shusher,shm,Shadowmoor,legal,6.99,3.02
+Wheel of Sun and Moon,shm,Shadowmoor,legal,6.34,2.81
+Wooded Bastion,shm,Shadowmoor,legal,17.58,7.12
+Woodfall Primus,shm,Shadowmoor,legal,8.99,5.47
+Wound Reflection,shm,Shadowmoor,legal,21.99,5.86
+Bitterblossom,mor,Morningtide,legal,42.00,24.07
+Door of Destinies,mor,Morningtide,legal,6.09,2.76
+Heritage Druid,mor,Morningtide,legal,6.84,3.64
+Idyllic Tutor,mor,Morningtide,legal,25.30,11.33
+Mutavault,mor,Morningtide,legal,13.99,9.06
+Scapeshift,mor,Morningtide,legal,13.99,12.45
+Shared Animosity,mor,Morningtide,legal,7.46,5.06
+Sigil Tracer,mor,Morningtide,legal,5.49,2.24
+Stonehewer Giant,mor,Morningtide,legal,6.99,3.19
+Vendilion Clique,mor,Morningtide,legal,23.96,18.38
+Demonic Tutor,g08,Judge Gift Cards 2008,not_legal,279.40,223.00
+Goblin Piledriver,g08,Judge Gift Cards 2008,legal,29.70,15.70
+Living Wish,g08,Judge Gift Cards 2008,not_legal,35.00,18.74
+Mind's Desire,g08,Judge Gift Cards 2008,not_legal,18.00,9.50
+Orim's Chant,g08,Judge Gift Cards 2008,not_legal,30.23,14.75
+Ajani Goldmane,lrw,Lorwyn,legal,7.99,3.71
+Austere Command,lrw,Lorwyn,legal,5.37,2.70
+Cryptic Command,lrw,Lorwyn,legal,29.99,20.38
+Dauntless Dourbark,lrw,Lorwyn,legal,4.35,2.48
+Dolmen Gate,lrw,Lorwyn,legal,7.99,3.06
+"Doran, the Siege Tower",lrw,Lorwyn,legal,6.99,3.34
+Forced Fruition,lrw,Lorwyn,legal,10.16,3.98
+Gaddock Teeg,lrw,Lorwyn,legal,40.92,18.03
+Garruk Wildspeaker,lrw,Lorwyn,legal,8.99,4.81
+Gilt-Leaf Palace,lrw,Lorwyn,legal,25.02,12.18
+Jace Beleren,lrw,Lorwyn,legal,5.49,3.13
+Liliana Vess,lrw,Lorwyn,legal,8.99,3.89
+Mistbind Clique,lrw,Lorwyn,legal,10.99,4.61
+Rings of Brighthearth,lrw,Lorwyn,legal,35.80,15.10
+Shelldock Isle,lrw,Lorwyn,legal,6.15,2.86
+Sower of Temptation,lrw,Lorwyn,legal,4.49,2.47
+Thorn of Amethyst,lrw,Lorwyn,legal,20.99,9.15
+Thoughtseize,lrw,Lorwyn,legal,26.59,16.20
+Thousand-Year Elixir,lrw,Lorwyn,legal,5.76,2.26
+Timber Protector,lrw,Lorwyn,legal,7.49,4.06
+Vigor,lrw,Lorwyn,legal,6.99,4.16
+Wanderwine Hub,lrw,Lorwyn,legal,3.49,2.17
+Wanderwine Prophets,lrw,Lorwyn,legal,7.49,3.01
+Adarkar Wastes,10e,Tenth Edition,legal,7.61,4.95
+Beacon of Immortality,10e,Tenth Edition,legal,4.99,2.35
+Birds of Paradise,10e,Tenth Edition,legal,7.65,4.32
+Brushland,10e,Tenth Edition,legal,9.99,5.84
+Chromatic Star,10e,Tenth Edition,legal,7.68,2.73
+Coat of Arms,10e,Tenth Edition,legal,7.52,3.99
+Crucible of Worlds,10e,Tenth Edition,legal,24.99,12.52
+Doubling Cube,10e,Tenth Edition,legal,14.66,5.11
+Elvish Champion,10e,Tenth Edition,legal,7.95,4.12
+Elvish Piper,10e,Tenth Edition,legal,5.06,3.27
+Field Marshal,10e,Tenth Edition,legal,5.29,3.34
+Goblin King,10e,Tenth Edition,legal,4.99,2.58
+Goblin Lore,10e,Tenth Edition,legal,24.99,18.09
+Grave Pact,10e,Tenth Edition,legal,16.43,6.82
+Hurkyl's Recall,10e,Tenth Edition,legal,3.98,2.82
+Karplusan Forest,10e,Tenth Edition,legal,4.99,2.61
+Lord of the Undead,10e,Tenth Edition,legal,13.81,8.09
+Pithing Needle,10e,Tenth Edition,legal,3.99,2.35
+Sculpting Steel,10e,Tenth Edition,legal,7.47,3.77
+Seedborn Muse,10e,Tenth Edition,legal,12.99,5.10
+Seismic Assault,10e,Tenth Edition,legal,4.49,2.53
+"Squee, Goblin Nabob",10e,Tenth Edition,legal,4.33,2.84
+Sulfurous Springs,10e,Tenth Edition,legal,7.76,5.06
+Time Stretch,10e,Tenth Edition,legal,14.03,6.14
+Underground River,10e,Tenth Edition,legal,4.94,2.68
+Wrath of God,10e,Tenth Edition,legal,8.91,4.70
+Akroma's Memorial,fut,Future Sight,legal,22.13,8.78
+Bitter Ordeal,fut,Future Sight,legal,8.49,2.96
+Bridge from Below,fut,Future Sight,legal,26.77,11.66
+Cloud Key,fut,Future Sight,legal,12.38,4.22
+Coalition Relic,fut,Future Sight,legal,5.49,3.88
+Daybreak Coronet,fut,Future Sight,legal,13.09,7.42
+Dryad Arbor,fut,Future Sight,legal,14.06,5.30
+Glittering Wish,fut,Future Sight,legal,4.99,2.70
+Graven Cairns,fut,Future Sight,legal,4.86,2.38
+Grove of the Burnwillows,fut,Future Sight,legal,28.99,14.79
+Horizon Canopy,fut,Future Sight,legal,76.95,50.38
+Magus of the Moat,fut,Future Sight,legal,7.36,2.34
+Magus of the Moon,fut,Future Sight,legal,9.99,6.24
+Pact of Negation,fut,Future Sight,legal,14.54,8.94
+Slaughter Pact,fut,Future Sight,legal,3.37,2.01
+Sliver Legion,fut,Future Sight,legal,50.53,20.77
+Street Wraith,fut,Future Sight,legal,5.00,4.00
+Summoner's Pact,fut,Future Sight,legal,6.99,6.23
+Sword of the Meek,fut,Future Sight,legal,6.49,3.75
+Tarmogoyf,fut,Future Sight,legal,94.99,57.02
+Tolaria West,fut,Future Sight,legal,8.99,3.17
+"Venser, Shaper Savant",fut,Future Sight,legal,5.53,3.63
+All Is Dust,pgpx,Grand Prix Promos,legal,25.51,18.83
+Batterskull,pgpx,Grand Prix Promos,legal,20.06,14.30
+Chrome Mox,pgpx,Grand Prix Promos,banned,41.92,25.54
+Griselbrand,pgpx,Grand Prix Promos,legal,11.22,8.01
+Maelstrom Pulse,pgpx,Grand Prix Promos,legal,33.79,19.19
+Mutavault,pgpx,Grand Prix Promos,legal,11.51,7.74
+Primeval Titan,pgpx,Grand Prix Promos,legal,20.24,13.30
+Stoneforge Mystic,pgpx,Grand Prix Promos,banned,29.55,23.62
+Umezawa's Jitte,pgpx,Grand Prix Promos,banned,30.35,16.87
+Ajani Goldmane,ppro,Pro Tour Promos,legal,11.87,7.05
+Avatar of Woe,ppro,Pro Tour Promos,legal,17.98,8.90
+Eternal Dragon,ppro,Pro Tour Promos,not_legal,9.08,3.99
+Mirari's Wake,ppro,Pro Tour Promos,not_legal,31.92,16.78
+"Treva, the Renewer",ppro,Pro Tour Promos,not_legal,28.46,26.99
+Damnation,plc,Planar Chaos,legal,29.92,16.05
+Extirpate,plc,Planar Chaos,legal,5.99,2.74
+Porphyry Nodes,plc,Planar Chaos,legal,4.99,2.55
+"Urborg, Tomb of Yawgmoth",plc,Planar Chaos,legal,26.46,13.62
+Knight Exemplar,pres,Resale Promos,legal,3.83,7.13
+Terastodon,pres,Resale Promos,legal,0.82,2.26
+Cunning Wish,g07,Judge Gift Cards 2007,not_legal,35.78,24.57
+Decree of Justice,g07,Judge Gift Cards 2007,not_legal,13.47,7.13
+Ravenous Baloth,g07,Judge Gift Cards 2007,not_legal,2.80,2.49
+Vindicate,g07,Judge Gift Cards 2007,not_legal,36.96,22.00
+Yawgmoth's Will,g07,Judge Gift Cards 2007,not_legal,200.87,184.95
+Academy Ruins,tsp,Time Spiral,legal,24.99,11.54
+Ancestral Vision,tsp,Time Spiral,legal,12.99,10.92
+Angel's Grace,tsp,Time Spiral,legal,5.99,3.32
+Chromatic Star,tsp,Time Spiral,legal,6.32,2.87
+Flagstones of Trokair,tsp,Time Spiral,legal,18.99,9.35
+Gauntlet of Power,tsp,Time Spiral,legal,20.99,7.03
+Gemstone Caverns,tsp,Time Spiral,legal,23.05,10.14
+Greater Gargadon,tsp,Time Spiral,legal,3.88,2.50
+Living End,tsp,Time Spiral,legal,14.99,10.21
+Lotus Bloom,tsp,Time Spiral,legal,7.76,4.50
+Nether Traitor,tsp,Time Spiral,legal,4.99,2.23
+Reiterate,tsp,Time Spiral,legal,7.99,2.62
+Restore Balance,tsp,Time Spiral,legal,2.99,2.26
+Saffi Eriksdotter,tsp,Time Spiral,legal,5.49,2.40
+Sedge Sliver,tsp,Time Spiral,legal,8.49,3.54
+Swarmyard,tsp,Time Spiral,legal,9.96,4.87
+Vesuva,tsp,Time Spiral,legal,15.99,6.83
+Arcum Dagsson,csp,Coldsnap,legal,13.71,6.85
+Braid of Fire,csp,Coldsnap,legal,17.67,5.97
+Commandeer,csp,Coldsnap,legal,8.31,3.10
+Counterbalance,csp,Coldsnap,legal,9.99,4.49
+Dark Depths,csp,Coldsnap,banned,54.37,30.77
+Field Marshal,csp,Coldsnap,legal,5.10,3.08
+"Haakon, Stromgald Scourge",csp,Coldsnap,legal,6.96,2.07
+Mishra's Bauble,csp,Coldsnap,legal,5.53,4.39
+Scrying Sheets,csp,Coldsnap,legal,11.83,5.66
+Snow-Covered Island,csp,Coldsnap,legal,2.08,2.15
+Snow-Covered Mountain,csp,Coldsnap,legal,2.67,2.10
+Thrumming Stone,csp,Coldsnap,legal,21.58,11.47
+Wall of Shards,csp,Coldsnap,legal,5.99,4.08
+Blood Crypt,dis,Dissension,legal,22.99,11.73
+Breeding Pool,dis,Dissension,legal,19.99,12.24
+Grand Arbiter Augustin IV,dis,Dissension,legal,9.99,4.64
+Hallowed Fountain,dis,Dissension,legal,16.99,7.97
+Infernal Tutor,dis,Dissension,legal,16.99,11.87
+Pillar of the Paruns,dis,Dissension,legal,4.13,2.49
+Pride of the Clouds,dis,Dissension,legal,4.99,3.29
+Proclamation of Rebirth,dis,Dissension,legal,7.21,2.99
+Tidespout Tyrant,dis,Dissension,legal,3.49,2.91
+Voidslime,dis,Dissension,legal,7.99,3.08
+Debtors' Knell,gpt,Guildpact,legal,9.01,3.50
+Ghostway,gpt,Guildpact,legal,7.13,2.92
+Godless Shrine,gpt,Guildpact,legal,16.49,9.53
+Leyline of the Void,gpt,Guildpact,legal,40.14,25.65
+Orzhov Pontiff,gpt,Guildpact,legal,5.91,3.33
+Shattering Spree,gpt,Guildpact,legal,11.92,4.96
+Steam Vents,gpt,Guildpact,legal,22.99,10.22
+Stitch in Time,gpt,Guildpact,legal,6.99,2.17
+Stomping Ground,gpt,Guildpact,legal,24.99,12.73
+Exalted Angel,g06,Judge Gift Cards 2006,not_legal,28.45,16.25
+Grim Lavamancer,g06,Judge Gift Cards 2006,legal,33.34,17.85
+Meddling Mage,g06,Judge Gift Cards 2006,legal,57.88,35.33
+Pernicious Deed,g06,Judge Gift Cards 2006,not_legal,45.08,20.74
+Birds of Paradise,rav,Ravnica: City of Guilds,legal,8.59,4.34
+Chord of Calling,rav,Ravnica: City of Guilds,legal,12.87,8.56
+Cloudstone Curio,rav,Ravnica: City of Guilds,legal,15.97,4.66
+Copy Enchantment,rav,Ravnica: City of Guilds,legal,14.99,4.71
+Dark Confidant,rav,Ravnica: City of Guilds,legal,64.18,34.92
+Doubling Season,rav,Ravnica: City of Guilds,legal,47.99,24.87
+Glimpse the Unthinkable,rav,Ravnica: City of Guilds,legal,7.80,6.68
+Golgari Thug,rav,Ravnica: City of Guilds,legal,3.49,2.18
+Life from the Loam,rav,Ravnica: City of Guilds,legal,18.92,11.43
+Overgrown Tomb,rav,Ravnica: City of Guilds,legal,15.51,7.83
+Privileged Position,rav,Ravnica: City of Guilds,legal,23.08,8.95
+Remand,rav,Ravnica: City of Guilds,legal,6.91,3.87
+Sacred Foundry,rav,Ravnica: City of Guilds,legal,19.99,11.61
+Temple Garden,rav,Ravnica: City of Guilds,legal,16.76,8.61
+Watery Grave,rav,Ravnica: City of Guilds,legal,19.99,12.26
+Adarkar Wastes,9ed,Ninth Edition,legal,5.99,3.13
+Blood Moon,9ed,Ninth Edition,legal,20.38,17.67
+Brushland,9ed,Ninth Edition,legal,5.49,4.53
+Coat of Arms,9ed,Ninth Edition,legal,6.95,3.79
+Defense Grid,9ed,Ninth Edition,legal,7.62,3.84
+Elvish Champion,9ed,Ninth Edition,legal,6.84,3.49
+Elvish Piper,9ed,Ninth Edition,legal,4.49,2.06
+Grave Pact,9ed,Ninth Edition,legal,13.24,5.88
+Greater Good,9ed,Ninth Edition,legal,9.49,4.40
+Hell's Caretaker,9ed,Ninth Edition,legal,3.89,2.14
+Karplusan Forest,9ed,Ninth Edition,legal,4.27,2.04
+Lord of the Undead,9ed,Ninth Edition,legal,12.22,5.18
+Mindslicer,9ed,Ninth Edition,legal,5.19,2.54
+Phyrexian Arena,9ed,Ninth Edition,legal,7.83,4.38
+Seedborn Muse,9ed,Ninth Edition,legal,14.99,5.37
+Sulfurous Springs,9ed,Ninth Edition,legal,5.83,2.89
+Teferi's Puzzle Box,9ed,Ninth Edition,legal,6.99,2.71
+Urza's Power Plant,9ed,Ninth Edition,legal,4.99,2.01
+Weathered Wayfarer,9ed,Ninth Edition,legal,13.99,5.83
+Worship,9ed,Ninth Edition,legal,6.95,4.35
+Wrath of God,9ed,Ninth Edition,legal,6.27,3.82
+Enduring Ideal,sok,Saviors of Kamigawa,legal,5.99,2.08
+"Erayo, Soratami Ascendant // Erayo's Essence",sok,Saviors of Kamigawa,legal,8.72,3.66
+"Kataki, War's Wage",sok,Saviors of Kamigawa,legal,5.59,2.52
+"Meishin, the Mind Cage",sok,Saviors of Kamigawa,legal,6.57,2.21
+"Michiko Konda, Truth Seeker",sok,Saviors of Kamigawa,legal,9.99,4.72
+"Mikokoro, Center of the Sea",sok,Saviors of Kamigawa,legal,5.49,3.44
+"Miren, the Moaning Well",sok,Saviors of Kamigawa,legal,10.19,5.00
+"Oboro, Palace in the Clouds",sok,Saviors of Kamigawa,legal,18.99,10.89
+Pithing Needle,sok,Saviors of Kamigawa,legal,5.49,2.88
+"Reki, the History of Kamigawa",sok,Saviors of Kamigawa,legal,5.49,3.28
+Sakashima the Impostor,sok,Saviors of Kamigawa,legal,20.73,5.71
+Disrupting Shoal,bok,Betrayers of Kamigawa,legal,13.99,6.00
+Goryo's Vengeance,bok,Betrayers of Kamigawa,legal,44.56,24.16
+"Hokori, Dust Drinker",bok,Betrayers of Kamigawa,legal,6.49,2.25
+"Ink-Eyes, Servant of Oni",bok,Betrayers of Kamigawa,legal,4.79,2.27
+"Kira, Great Glass-Spinner",bok,Betrayers of Kamigawa,legal,15.99,9.97
+Mirror Gallery,bok,Betrayers of Kamigawa,legal,11.99,4.03
+Nourishing Shoal,bok,Betrayers of Kamigawa,legal,6.49,3.84
+Umezawa's Jitte,bok,Betrayers of Kamigawa,banned,19.99,9.38
+Gemstone Mine,g05,Judge Gift Cards 2005,legal,60.98,32.07
+Mishra's Factory,g05,Judge Gift Cards 2005,not_legal,47.56,30.99
+Regrowth,g05,Judge Gift Cards 2005,not_legal,33.99,20.75
+Sol Ring,g05,Judge Gift Cards 2005,not_legal,173.10,136.66
+City of Ass,unh,Unhinged,not_legal,6.49,2.93
+Forest,unh,Unhinged,legal,8.99,4.34
+Island,unh,Unhinged,legal,10.99,5.29
+"Johnny, Combo Player",unh,Unhinged,not_legal,7.06,4.40
+Mountain,unh,Unhinged,legal,6.99,3.60
+Mox Lotus,unh,Unhinged,not_legal,7.44,4.57
+Plains,unh,Unhinged,legal,6.20,3.61
+"Richard Garfield, Ph.D.",unh,Unhinged,not_legal,5.49,2.87
+Super Secret Tech,unh,Unhinged,not_legal,32.99,36.47
+Swamp,unh,Unhinged,legal,8.38,4.38
+"Azusa, Lost but Seeking",chk,Champions of Kamigawa,legal,26.88,12.64
+"Boseiju, Who Shelters All",chk,Champions of Kamigawa,legal,18.22,7.02
+Eiganjo Castle,chk,Champions of Kamigawa,legal,9.49,4.13
+Forbidden Orchard,chk,Champions of Kamigawa,legal,7.57,2.46
+Gifts Ungiven,chk,Champions of Kamigawa,legal,6.99,4.26
+Glimpse of Nature,chk,Champions of Kamigawa,banned,18.45,8.78
+Hall of the Bandit Lord,chk,Champions of Kamigawa,legal,17.99,9.88
+Heartbeat of Spring,chk,Champions of Kamigawa,legal,6.49,2.08
+"Isamaru, Hound of Konda",chk,Champions of Kamigawa,legal,7.99,2.45
+"Kiki-Jiki, Mirror Breaker",chk,Champions of Kamigawa,legal,12.99,6.69
+"Kokusho, the Evening Star",chk,Champions of Kamigawa,legal,6.99,3.80
+Konda's Banner,chk,Champions of Kamigawa,legal,7.99,2.95
+Lava Spike,chk,Champions of Kamigawa,legal,5.52,2.29
+Marrow-Gnawer,chk,Champions of Kamigawa,legal,21.83,6.33
+"Minamo, School at Water's Edge",chk,Champions of Kamigawa,legal,24.99,10.33
+Myojin of Life's Web,chk,Champions of Kamigawa,legal,8.49,2.63
+Nature's Will,chk,Champions of Kamigawa,legal,17.99,2.88
+Sensei's Divining Top,chk,Champions of Kamigawa,banned,21.99,7.34
+Seshiro the Anointed,chk,Champions of Kamigawa,legal,6.49,3.02
+"Shizo, Death's Storehouse",chk,Champions of Kamigawa,legal,12.04,3.93
+Through the Breach,chk,Champions of Kamigawa,legal,39.99,24.97
+Auriok Champion,5dn,Fifth Dawn,legal,9.35,5.23
+Crucible of Worlds,5dn,Fifth Dawn,legal,24.99,14.49
+Doubling Cube,5dn,Fifth Dawn,legal,16.44,4.43
+Engineered Explosives,5dn,Fifth Dawn,legal,84.99,50.39
+Eternal Witness,5dn,Fifth Dawn,legal,7.05,3.12
+Krark-Clan Ironworks,5dn,Fifth Dawn,legal,17.99,8.10
+Mycosynth Golem,5dn,Fifth Dawn,legal,14.59,6.34
+Staff of Domination,5dn,Fifth Dawn,legal,29.98,12.07
+Vedalken Orrery,5dn,Fifth Dawn,legal,23.21,10.15
+Vedalken Shackles,5dn,Fifth Dawn,legal,8.99,4.21
+Aether Vial,dst,Darksteel,legal,36.10,22.05
+Arcbound Ravager,dst,Darksteel,legal,46.21,25.09
+Blinkmoth Nexus,dst,Darksteel,legal,7.99,4.02
+Darksteel Colossus,dst,Darksteel,legal,6.86,2.90
+Darksteel Forge,dst,Darksteel,legal,13.10,6.14
+Mycosynth Lattice,dst,Darksteel,legal,11.99,4.63
+Retract,dst,Darksteel,legal,6.99,2.20
+Savage Beating,dst,Darksteel,legal,4.99,2.56
+Sword of Fire and Ice,dst,Darksteel,legal,53.97,23.84
+Sword of Light and Shadow,dst,Darksteel,legal,27.99,12.11
+Trinisphere,dst,Darksteel,legal,27.99,13.19
+Armageddon,g04,Judge Gift Cards 2004,not_legal,33.49,20.08
+Balance,g04,Judge Gift Cards 2004,not_legal,16.66,10.66
+Deranged Hermit,g04,Judge Gift Cards 2004,not_legal,40.02,27.49
+Hermit Druid,g04,Judge Gift Cards 2004,not_legal,32.89,18.81
+Phyrexian Negator,g04,Judge Gift Cards 2004,not_legal,6.21,4.59
+Time Warp,g04,Judge Gift Cards 2004,legal,74.60,48.56
+Chalice of the Void,mrd,Mirrodin,legal,44.99,33.82
+Chrome Mox,mrd,Mirrodin,banned,34.59,15.18
+Extraplanar Lens,mrd,Mirrodin,legal,21.38,8.44
+Gilded Lotus,mrd,Mirrodin,legal,4.49,2.36
+Glimmervoid,mrd,Mirrodin,legal,12.89,7.12
+Mesmeric Orb,mrd,Mirrodin,legal,24.95,10.63
+Mind's Eye,mrd,Mirrodin,legal,6.49,2.87
+Oblivion Stone,mrd,Mirrodin,legal,8.99,4.01
+Sculpting Steel,mrd,Mirrodin,legal,7.78,3.02
+Solemn Simulacrum,mrd,Mirrodin,legal,6.63,2.31
+Sword of Kaldra,mrd,Mirrodin,legal,7.09,2.01
+Tooth and Nail,mrd,Mirrodin,legal,19.09,7.29
+Vedalken Archmage,mrd,Mirrodin,legal,7.99,2.02
+Birds of Paradise,8ed,Eighth Edition,legal,8.92,4.39
+Blood Moon,8ed,Eighth Edition,legal,22.85,18.50
+Bribery,8ed,Eighth Edition,legal,18.52,9.94
+City of Brass,8ed,Eighth Edition,legal,6.88,3.59
+Coat of Arms,8ed,Eighth Edition,legal,6.81,4.20
+Defense Grid,8ed,Eighth Edition,legal,8.19,3.37
+Elvish Champion,8ed,Eighth Edition,legal,6.58,3.29
+Elvish Piper,8ed,Eighth Edition,legal,3.99,2.28
+Ensnaring Bridge,8ed,Eighth Edition,legal,39.79,29.46
+Grave Pact,8ed,Eighth Edition,legal,17.99,6.53
+Intruder Alarm,8ed,Eighth Edition,legal,7.99,4.72
+Lord of the Undead,8ed,Eighth Edition,legal,11.64,6.16
+Phyrexian Arena,8ed,Eighth Edition,legal,8.59,4.52
+Teferi's Puzzle Box,8ed,Eighth Edition,legal,6.99,3.30
+Worship,8ed,Eighth Edition,legal,7.53,4.26
+Wrath of God,8ed,Eighth Edition,legal,6.77,3.78
+Sliver Overlord,scg,Scourge,not_legal,13.15,4.85
+Stifle,scg,Scourge,not_legal,6.49,4.11
+Undead Warchief,scg,Scourge,legal,5.43,2.52
+"Akroma, Angel of Wrath",lgn,Legions,legal,2.99,2.15
+Magma Sliver,lgn,Legions,not_legal,3.96,2.05
+Seedborn Muse,lgn,Legions,legal,11.99,5.30
+Synapse Sliver,lgn,Legions,not_legal,4.49,2.07
+Argothian Enchantress,g03,Judge Gift Cards 2003,not_legal,31.11,24.96
+Intuition,g03,Judge Gift Cards 2003,not_legal,210.69,231.66
+Living Death,g03,Judge Gift Cards 2003,not_legal,29.08,20.56
+Aggravated Assault,ons,Onslaught,not_legal,8.99,4.53
+Bloodstained Mire,ons,Onslaught,legal,39.99,20.62
+Cover of Darkness,ons,Onslaught,not_legal,10.31,3.60
+Cryptic Gateway,ons,Onslaught,not_legal,4.99,2.34
+Enchantress's Presence,ons,Onslaught,not_legal,5.99,4.57
+Flooded Strand,ons,Onslaught,legal,32.99,18.58
+Goblin Piledriver,ons,Onslaught,legal,6.97,3.96
+Goblin Sharpshooter,ons,Onslaught,not_legal,4.24,2.55
+Insurrection,ons,Onslaught,not_legal,7.76,2.90
+"Kamahl, Fist of Krosa",ons,Onslaught,not_legal,5.99,2.50
+Mana Echoes,ons,Onslaught,not_legal,19.99,9.85
+Oversold Cemetery,ons,Onslaught,not_legal,7.03,3.28
+Patriarch's Bidding,ons,Onslaught,not_legal,18.85,10.13
+Polluted Delta,ons,Onslaught,legal,37.99,21.59
+Riptide Laboratory,ons,Onslaught,not_legal,11.99,6.25
+Steely Resolve,ons,Onslaught,not_legal,7.99,4.25
+Unholy Grotto,ons,Onslaught,not_legal,6.21,3.18
+Weathered Wayfarer,ons,Onslaught,legal,13.25,5.59
+Windswept Heath,ons,Onslaught,legal,22.41,13.62
+Wooded Foothills,ons,Onslaught,legal,29.99,18.65
+Battle Screech,jud,Judgment,not_legal,5.49,3.99
+Burning Wish,jud,Judgment,not_legal,2.79,2.21
+Cunning Wish,jud,Judgment,not_legal,5.99,3.40
+Genesis,jud,Judgment,not_legal,4.49,3.31
+Mirari's Wake,jud,Judgment,not_legal,11.48,4.90
+Solitary Confinement,jud,Judgment,not_legal,10.40,4.43
+Sylvan Safekeeper,jud,Judgment,not_legal,6.97,4.30
+Test of Endurance,jud,Judgment,not_legal,8.58,3.30
+Cabal Coffers,tor,Torment,not_legal,28.31,14.52
+Chainer's Edict,tor,Torment,not_legal,8.52,5.12
+Circular Logic,tor,Torment,not_legal,4.92,3.42
+Grim Lavamancer,tor,Torment,legal,17.54,8.47
+Insidious Dreams,tor,Torment,not_legal,9.81,5.16
+Hammer of Bogardan,g02,Judge Gift Cards 2002,legal,6.02,3.73
+Tradewind Rider,g02,Judge Gift Cards 2002,not_legal,9.71,8.18
+Chance Encounter,ody,Odyssey,not_legal,7.99,6.52
+Crystal Quarry,ody,Odyssey,not_legal,5.49,3.25
+Darkwater Catacombs,ody,Odyssey,not_legal,2.49,2.08
+Deserted Temple,ody,Odyssey,not_legal,13.16,6.15
+Entomb,ody,Odyssey,not_legal,20.76,13.60
+Karmic Justice,ody,Odyssey,not_legal,6.88,3.36
+Mindslicer,ody,Odyssey,legal,5.49,2.46
+Moment's Peace,ody,Odyssey,not_legal,1.49,2.14
+Mossfire Valley,ody,Odyssey,not_legal,3.99,2.17
+Patron Wizard,ody,Odyssey,not_legal,15.12,9.01
+Petrified Field,ody,Odyssey,not_legal,6.99,5.07
+Predict,ody,Odyssey,not_legal,1.79,2.10
+Price of Glory,ody,Odyssey,not_legal,5.99,2.07
+Seize the Day,ody,Odyssey,not_legal,5.49,2.36
+Skycloud Expanse,ody,Odyssey,not_legal,4.99,2.78
+Squirrel Mob,ody,Odyssey,not_legal,7.99,4.36
+Standstill,ody,Odyssey,not_legal,2.49,2.08
+Tainted Pact,ody,Odyssey,not_legal,4.95,3.27
+Time Stretch,ody,Odyssey,legal,12.50,6.07
+Pernicious Deed,apc,Apocalypse,not_legal,4.99,3.08
+Phyrexian Arena,apc,Apocalypse,legal,9.14,4.42
+Shivan Reef,apc,Apocalypse,legal,4.66,2.66
+Standard Bearer,apc,Apocalypse,not_legal,1.95,2.33
+Vindicate,apc,Apocalypse,not_legal,5.99,4.03
+Yavimaya Coast,apc,Apocalypse,legal,2.99,2.08
+Adarkar Wastes,7ed,Seventh Edition,legal,4.99,3.30
+Birds of Paradise,7ed,Seventh Edition,legal,9.22,5.07
+Brushland,7ed,Seventh Edition,legal,4.49,3.89
+City of Brass,7ed,Seventh Edition,legal,7.36,4.30
+Coat of Arms,7ed,Seventh Edition,legal,8.10,3.98
+Elvish Champion,7ed,Seventh Edition,legal,6.53,3.43
+Elvish Piper,7ed,Seventh Edition,legal,3.49,2.85
+Ensnaring Bridge,7ed,Seventh Edition,legal,37.78,30.30
+Karplusan Forest,7ed,Seventh Edition,legal,2.99,2.41
+Lord of Atlantis,7ed,Seventh Edition,legal,7.99,4.37
+Meekstone,7ed,Seventh Edition,not_legal,6.35,4.00
+Opposition,7ed,Seventh Edition,not_legal,3.49,2.64
+Oppression,7ed,Seventh Edition,not_legal,4.49,2.38
+Sleight of Hand,7ed,Seventh Edition,legal,3.73,2.19
+Static Orb,7ed,Seventh Edition,not_legal,6.99,3.83
+Sulfurous Springs,7ed,Seventh Edition,legal,4.99,2.23
+Teferi's Puzzle Box,7ed,Seventh Edition,legal,6.43,3.24
+Underground River,7ed,Seventh Edition,legal,3.75,2.16
+Worship,7ed,Seventh Edition,legal,7.30,4.90
+Wrath of God,7ed,Seventh Edition,legal,6.65,4.37
+Diabolic Intent,pls,Planeshift,not_legal,9.99,7.76
+Eladamri's Call,pls,Planeshift,not_legal,4.49,3.03
+"Ertai, the Corrupted",pls,Planeshift,not_legal,1.49,60.20
+Lord of the Undead,pls,Planeshift,legal,12.44,4.42
+Meddling Mage,pls,Planeshift,legal,28.90,12.32
+"Nemata, Grove Guardian",pls,Planeshift,not_legal,7.99,4.98
+Orim's Chant,pls,Planeshift,not_legal,3.99,3.18
+"Tahngarth, Talruum Hero",pls,Planeshift,not_legal,0.99,60.86
+Ball Lightning,g01,Judge Gift Cards 2001,legal,11.45,5.75
+Oath of Druids,g01,Judge Gift Cards 2001,not_legal,38.02,26.99
+Aura Shards,inv,Invasion,not_legal,13.99,7.86
+Captain Sisay,inv,Invasion,not_legal,16.99,10.82
+Collective Restraint,inv,Invasion,not_legal,6.99,4.11
+Elvish Champion,inv,Invasion,legal,7.58,3.67
+Empress Galina,inv,Invasion,not_legal,12.99,6.88
+Phyrexian Altar,inv,Invasion,not_legal,53.68,34.12
+Saproling Symbiosis,inv,Invasion,not_legal,11.99,3.87
+Sterling Grove,inv,Invasion,not_legal,18.85,6.18
+Tangle,inv,Invasion,not_legal,4.45,3.17
+Lightning Bolt,btd,Beatdown Box Set,legal,4.99,3.27
+Overburden,pcy,Prophecy,not_legal,4.63,3.33
+Rhystic Study,pcy,Prophecy,not_legal,14.44,8.60
+Spore Frog,pcy,Prophecy,not_legal,2.99,2.40
+Belbe's Portal,nem,Nemesis,not_legal,3.49,2.47
+Kor Haven,nem,Nemesis,not_legal,5.99,5.22
+Moggcatcher,nem,Nemesis,not_legal,5.58,3.07
+Parallax Wave,nem,Nemesis,not_legal,4.99,4.04
+Stronghold Gambit,nem,Nemesis,not_legal,2.29,2.60
+Tangle Wire,nem,Nemesis,not_legal,4.99,2.62
+Counterspell,g00,Judge Gift Cards 2000,not_legal,30.99,24.28
+Vampiric Tutor,g00,Judge Gift Cards 2000,not_legal,91.00,62.40
+Giant Growth,fnm,Friday Night Magic 2000,legal,2.29,2.48
+Llanowar Elves,fnm,Friday Night Magic 2000,legal,34.99,23.00
+Prodigal Sorcerer,fnm,Friday Night Magic 2000,legal,4.62,3.55
+Stone Rain,fnm,Friday Night Magic 2000,legal,15.00,24.36
+Catastrophe,brb,Battle Royale Box Set,not_legal,5.80,2.67
+Counterspell,brb,Battle Royale Box Set,not_legal,1.99,2.78
+Exhume,brb,Battle Royale Box Set,not_legal,2.49,2.19
+Land Tax,brb,Battle Royale Box Set,not_legal,24.99,14.43
+Llanowar Elves,brb,Battle Royale Box Set,legal,1.29,2.37
+Reanimate,brb,Battle Royale Box Set,not_legal,20.77,16.63
+Spike Weaver,brb,Battle Royale Box Set,not_legal,7.99,7.40
+Wrath of God,brb,Battle Royale Box Set,legal,7.99,6.82
+Black Market,mmq,Mercadian Masques,not_legal,3.99,2.39
+Bribery,mmq,Mercadian Masques,legal,20.15,10.65
+Charisma,mmq,Mercadian Masques,not_legal,1.79,2.21
+Conspiracy,mmq,Mercadian Masques,legal,7.10,2.93
+Crackdown,mmq,Mercadian Masques,not_legal,4.49,3.92
+Dust Bowl,mmq,Mercadian Masques,not_legal,11.99,6.94
+Food Chain,mmq,Mercadian Masques,not_legal,44.99,23.47
+Gush,mmq,Mercadian Masques,not_legal,3.84,3.68
+Magistrate's Scepter,mmq,Mercadian Masques,legal,2.79,2.01
+Misdirection,mmq,Mercadian Masques,not_legal,2.29,2.41
+Rishadan Brigand,mmq,Mercadian Masques,not_legal,3.99,3.29
+Rishadan Port,mmq,Mercadian Masques,not_legal,59.99,45.67
+Soothsaying,mmq,Mercadian Masques,not_legal,5.99,3.07
+Spidersilk Armor,mmq,Mercadian Masques,not_legal,1.99,2.28
+"Squee, Goblin Nabob",mmq,Mercadian Masques,legal,5.33,3.12
+Statecraft,mmq,Mercadian Masques,not_legal,2.49,2.03
+Unmask,mmq,Mercadian Masques,not_legal,11.52,8.33
+Alluring Scent,s99,Starter 1999,not_legal,0.85,2.09
+Ancient Craving,s99,Starter 1999,not_legal,0.77,2.03
+Angel of Light,s99,Starter 1999,not_legal,3.99,5.02
+Armageddon,s99,Starter 1999,not_legal,3.67,3.82
+Blinding Light,s99,Starter 1999,not_legal,0.74,2.03
+Champion Lancer,s99,Starter 1999,not_legal,2.10,3.09
+Cinder Storm,s99,Starter 1999,not_legal,1.49,2.24
+Counterspell,s99,Starter 1999,not_legal,1.99,2.08
+Dakmor Ghoul,s99,Starter 1999,not_legal,2.99,4.00
+Dakmor Sorceress,s99,Starter 1999,not_legal,4.49,3.81
+Denizen of the Deep,s99,Starter 1999,legal,1.49,3.51
+Devastation,s99,Starter 1999,not_legal,20.18,19.49
+Dread Reaper,s99,Starter 1999,not_legal,0.69,2.19
+Goblin Commando,s99,Starter 1999,not_legal,1.79,2.49
+Goblin General,s99,Starter 1999,not_legal,4.99,4.48
+Goblin Lore,s99,Starter 1999,legal,25.65,20.59
+Goblin Settler,s99,Starter 1999,not_legal,45.01,50.48
+Grim Tutor,s99,Starter 1999,not_legal,225.99,164.38
+Last Chance,s99,Starter 1999,not_legal,4.23,4.67
+Loyal Sentry,s99,Starter 1999,legal,1.36,3.37
+Piracy,s99,Starter 1999,not_legal,13.03,10.85
+Righteous Fury,s99,Starter 1999,not_legal,3.49,5.49
+Sleight of Hand,s99,Starter 1999,legal,5.99,4.25
+Stream of Acid,s99,Starter 1999,not_legal,2.49,3.07
+Summer Bloom,s99,Starter 1999,banned,2.97,4.42
+Thunder Dragon,s99,Starter 1999,not_legal,6.49,13.13
+Time Warp,s99,Starter 1999,legal,14.85,10.25
+Wood Elves,s99,Starter 1999,legal,2.75,2.99
+Academy Rector,uds,Urza's Destiny,not_legal,69.99,45.78
+Attrition,uds,Urza's Destiny,not_legal,5.99,4.16
+Aura Thief,uds,Urza's Destiny,not_legal,9.99,6.61
+Carnival of Souls,uds,Urza's Destiny,not_legal,3.99,3.78
+Donate,uds,Urza's Destiny,not_legal,7.99,6.70
+Elvish Piper,uds,Urza's Destiny,legal,3.99,3.10
+Masticore,uds,Urza's Destiny,not_legal,4.59,2.57
+Metalworker,uds,Urza's Destiny,not_legal,49.99,36.74
+Opalescence,uds,Urza's Destiny,not_legal,24.99,15.89
+Opposition,uds,Urza's Destiny,not_legal,3.99,3.18
+Pattern of Rebirth,uds,Urza's Destiny,not_legal,4.49,3.07
+Powder Keg,uds,Urza's Destiny,not_legal,4.27,4.03
+Repercussion,uds,Urza's Destiny,not_legal,9.49,3.67
+Replenish,uds,Urza's Destiny,not_legal,54.99,40.02
+"Rofellos, Llanowar Emissary",uds,Urza's Destiny,not_legal,17.99,16.37
+Thran Dynamo,uds,Urza's Destiny,not_legal,4.99,2.80
+Treachery,uds,Urza's Destiny,not_legal,28.99,24.49
+Urza's Incubator,uds,Urza's Destiny,not_legal,9.99,6.94
+Yavimaya Hollow,uds,Urza's Destiny,not_legal,34.99,30.36
+Yawgmoth's Bargain,uds,Urza's Destiny,not_legal,7.99,5.10
+Ambition's Cost,ptk,Portal Three Kingdoms,legal,5.49,2.29
+Balance of Power,ptk,Portal Three Kingdoms,legal,7.34,5.26
+Borrowing the East Wind,ptk,Portal Three Kingdoms,not_legal,20.99,8.92
+Burning of Xinye,ptk,Portal Three Kingdoms,not_legal,41.01,18.00
+"Cao Cao, Lord of Wei",ptk,Portal Three Kingdoms,not_legal,9.49,5.35
+"Cao Ren, Wei Commander",ptk,Portal Three Kingdoms,not_legal,13.24,11.46
+Capture of Jingzhou,ptk,Portal Three Kingdoms,not_legal,291.75,164.00
+Control of the Court,ptk,Portal Three Kingdoms,not_legal,41.98,22.61
+Corrupt Court Official,ptk,Portal Three Kingdoms,not_legal,6.99,4.21
+"Diaochan, Artful Beauty",ptk,Portal Three Kingdoms,not_legal,34.99,15.99
+"Dong Zhou, the Tyrant",ptk,Portal Three Kingdoms,not_legal,65.51,24.30
+Eightfold Maze,ptk,Portal Three Kingdoms,not_legal,6.74,5.78
+Empty City Ruse,ptk,Portal Three Kingdoms,not_legal,7.01,4.89
+Exhaustion,ptk,Portal Three Kingdoms,legal,8.60,4.95
+False Defeat,ptk,Portal Three Kingdoms,not_legal,6.49,4.08
+Fire Ambush,ptk,Portal Three Kingdoms,not_legal,5.99,3.76
+Forest,ptk,Portal Three Kingdoms,legal,2.49,2.02
+"Guan Yu's 1,000-Li March",ptk,Portal Three Kingdoms,not_legal,18.56,9.32
+"Guan Yu, Sainted Warrior",ptk,Portal Three Kingdoms,not_legal,17.48,4.25
+Heavy Fog,ptk,Portal Three Kingdoms,not_legal,8.48,3.31
+"Huang Zhong, Shu General",ptk,Portal Three Kingdoms,not_legal,13.99,11.50
+"Hua Tuo, Honored Physician",ptk,Portal Three Kingdoms,not_legal,16.36,9.87
+Hunting Cheetah,ptk,Portal Three Kingdoms,not_legal,21.99,10.05
+Imperial Recruiter,ptk,Portal Three Kingdoms,not_legal,179.99,53.69
+Imperial Seal,ptk,Portal Three Kingdoms,not_legal,499.99,252.28
+Kongming's Contraptions,ptk,Portal Three Kingdoms,not_legal,6.31,4.16
+"Kongming, ""Sleeping Dragon""",ptk,Portal Three Kingdoms,not_legal,6.07,3.84
+Lady Sun,ptk,Portal Three Kingdoms,not_legal,31.00,11.62
+"Lady Zhurong, Warrior Queen",ptk,Portal Three Kingdoms,not_legal,30.81,11.13
+"Liu Bei, Lord of Shu",ptk,Portal Three Kingdoms,not_legal,7.99,3.00
+Lone Wolf,ptk,Portal Three Kingdoms,legal,3.99,2.12
+Loyal Retainers,ptk,Portal Three Kingdoms,not_legal,39.99,30.00
+"Lu Bu, Master-at-Arms",ptk,Portal Three Kingdoms,not_legal,20.99,8.85
+"Lu Meng, Wu General",ptk,Portal Three Kingdoms,not_legal,18.06,9.90
+"Lu Su, Wu Advisor",ptk,Portal Three Kingdoms,not_legal,18.99,6.43
+"Lu Xun, Scholar General",ptk,Portal Three Kingdoms,not_legal,6.99,3.24
+"Ma Chao, Western Warrior",ptk,Portal Three Kingdoms,not_legal,30.00,10.39
+Marshaling the Troops,ptk,Portal Three Kingdoms,not_legal,20.29,9.32
+"Meng Huo, Barbarian King",ptk,Portal Three Kingdoms,not_legal,32.49,16.82
+Mountain,ptk,Portal Three Kingdoms,legal,3.49,2.67
+Overwhelming Forces,ptk,Portal Three Kingdoms,not_legal,46.87,19.74
+"Pang Tong, ""Young Phoenix""",ptk,Portal Three Kingdoms,not_legal,25.99,6.50
+Ravages of War,ptk,Portal Three Kingdoms,not_legal,199.99,78.18
+Ravaging Horde,ptk,Portal Three Kingdoms,not_legal,11.99,9.99
+Relentless Assault,ptk,Portal Three Kingdoms,legal,49.99,11.07
+Riding the Dilu Horse,ptk,Portal Three Kingdoms,not_legal,93.92,40.04
+Rolling Earthquake,ptk,Portal Three Kingdoms,not_legal,64.33,27.52
+Shu Soldier-Farmers,ptk,Portal Three Kingdoms,not_legal,1.99,2.01
+"Sima Yi, Wei Field Marshal",ptk,Portal Three Kingdoms,not_legal,9.99,3.96
+Slashing Tiger,ptk,Portal Three Kingdoms,not_legal,13.97,5.12
+Spoils of Victory,ptk,Portal Three Kingdoms,not_legal,4.49,4.47
+Stolen Grain,ptk,Portal Three Kingdoms,not_legal,23.99,5.95
+Stone Catapult,ptk,Portal Three Kingdoms,not_legal,7.51,3.00
+Strategic Planning,ptk,Portal Three Kingdoms,legal,11.97,5.92
+"Sun Ce, Young Conquerer",ptk,Portal Three Kingdoms,not_legal,31.06,14.20
+"Sun Quan, Lord of Wu",ptk,Portal Three Kingdoms,not_legal,18.99,6.41
+Taoist Hermit,ptk,Portal Three Kingdoms,not_legal,4.19,4.07
+Taoist Mystic,ptk,Portal Three Kingdoms,not_legal,4.53,6.36
+Taunting Challenge,ptk,Portal Three Kingdoms,not_legal,6.99,6.94
+Three Visits,ptk,Portal Three Kingdoms,not_legal,79.99,37.98
+Warrior's Oath,ptk,Portal Three Kingdoms,not_legal,51.59,26.12
+Wei Night Raiders,ptk,Portal Three Kingdoms,not_legal,8.99,4.66
+Wolf Pack,ptk,Portal Three Kingdoms,not_legal,44.99,23.52
+Wu Spy,ptk,Portal Three Kingdoms,not_legal,5.79,3.87
+"Xiahou Dun, the One-Eyed",ptk,Portal Three Kingdoms,not_legal,99.99,49.34
+"Xun Yu, Wei Advisor",ptk,Portal Three Kingdoms,not_legal,11.97,7.73
+Yellow Scarves General,ptk,Portal Three Kingdoms,not_legal,6.49,5.47
+"Yuan Shao, the Indecisive",ptk,Portal Three Kingdoms,not_legal,34.99,16.02
+"Zhang Fei, Fierce Warrior",ptk,Portal Three Kingdoms,not_legal,48.23,18.50
+"Zhang He, Wei General",ptk,Portal Three Kingdoms,not_legal,29.97,14.58
+"Zhang Liao, Hero of Hefei",ptk,Portal Three Kingdoms,not_legal,13.79,9.46
+"Zhao Zilong, Tiger General",ptk,Portal Three Kingdoms,not_legal,18.76,11.50
+"Zhou Yu, Chief Commander",ptk,Portal Three Kingdoms,not_legal,11.15,8.95
+"Zhuge Jin, Wu Strategist",ptk,Portal Three Kingdoms,not_legal,25.13,14.98
+Zodiac Dragon,ptk,Portal Three Kingdoms,not_legal,277.66,78.81
+Zodiac Horse,ptk,Portal Three Kingdoms,not_legal,5.25,7.56
+Zodiac Pig,ptk,Portal Three Kingdoms,not_legal,8.49,2.01
+Zodiac Rat,ptk,Portal Three Kingdoms,not_legal,9.49,5.13
+Zodiac Tiger,ptk,Portal Three Kingdoms,not_legal,6.75,3.00
+"Zuo Ci, the Mocking Sage",ptk,Portal Three Kingdoms,not_legal,29.99,10.02
+Adarkar Wastes,6ed,Classic Sixth Edition,legal,4.99,3.67
+Armageddon,6ed,Classic Sixth Edition,not_legal,3.90,3.05
+Ashnod's Altar,6ed,Classic Sixth Edition,not_legal,3.60,2.88
+Birds of Paradise,6ed,Classic Sixth Edition,legal,8.09,4.14
+Brushland,6ed,Classic Sixth Edition,legal,4.99,3.70
+City of Brass,6ed,Classic Sixth Edition,legal,7.06,3.55
+Enlightened Tutor,6ed,Classic Sixth Edition,not_legal,15.71,7.17
+Karplusan Forest,6ed,Classic Sixth Edition,legal,3.49,3.09
+Lord of Atlantis,6ed,Classic Sixth Edition,legal,6.72,5.14
+Mystical Tutor,6ed,Classic Sixth Edition,not_legal,6.99,3.14
+Sulfurous Springs,6ed,Classic Sixth Edition,legal,5.11,2.84
+Underground River,6ed,Classic Sixth Edition,legal,3.49,2.15
+Vampiric Tutor,6ed,Classic Sixth Edition,not_legal,42.13,20.75
+Worldly Tutor,6ed,Classic Sixth Edition,not_legal,14.23,8.06
+Wrath of God,6ed,Classic Sixth Edition,legal,6.20,3.62
+Zombie Master,6ed,Classic Sixth Edition,not_legal,3.49,2.95
+Crawlspace,ulg,Urza's Legacy,not_legal,6.17,4.01
+Crop Rotation,ulg,Urza's Legacy,not_legal,1.99,2.15
+Defense Grid,ulg,Urza's Legacy,legal,10.99,4.76
+Defense of the Heart,ulg,Urza's Legacy,not_legal,15.99,7.44
+Deranged Hermit,ulg,Urza's Legacy,not_legal,8.99,7.09
+Goblin Welder,ulg,Urza's Legacy,not_legal,2.99,2.28
+Grim Monolith,ulg,Urza's Legacy,not_legal,109.99,78.96
+Karmic Guide,ulg,Urza's Legacy,not_legal,2.94,2.07
+Memory Jar,ulg,Urza's Legacy,not_legal,24.99,17.89
+No Mercy,ulg,Urza's Legacy,not_legal,19.18,12.52
+Palinchron,ulg,Urza's Legacy,not_legal,34.99,21.04
+Quicksilver Amulet,ulg,Urza's Legacy,legal,5.99,3.86
+"Radiant, Archangel",ulg,Urza's Legacy,not_legal,3.49,2.09
+Second Chance,ulg,Urza's Legacy,not_legal,5.99,4.00
+Memory Lapse,g99,Judge Gift Cards 1999,not_legal,5.60,5.19
+Armageddon,ath,Anthologies,not_legal,3.49,2.24
+Brushland,ath,Anthologies,legal,3.49,4.59
+Lightning Bolt,ath,Anthologies,legal,4.09,2.79
+Pendelhaven,ath,Anthologies,legal,3.99,4.80
+Strip Mine,ath,Anthologies,not_legal,18.37,11.47
+Angelic Chorus,usg,Urza's Saga,legal,2.79,2.22
+Argothian Enchantress,usg,Urza's Saga,not_legal,16.49,6.42
+Back to Basics,usg,Urza's Saga,not_legal,87.00,45.60
+"Barrin, Master Wizard",usg,Urza's Saga,not_legal,3.49,3.56
+Carpet of Flowers,usg,Urza's Saga,not_legal,9.82,4.49
+Catastrophe,usg,Urza's Saga,not_legal,4.94,2.95
+Contamination,usg,Urza's Saga,not_legal,17.99,10.16
+Energy Field,usg,Urza's Saga,not_legal,8.16,4.40
+Exploration,usg,Urza's Saga,not_legal,29.99,18.85
+Fluctuator,usg,Urza's Saga,not_legal,5.49,6.08
+Gaea's Cradle,usg,Urza's Saga,not_legal,386.36,227.87
+Gamble,usg,Urza's Saga,not_legal,10.99,7.35
+Gilded Drake,usg,Urza's Saga,not_legal,54.99,35.96
+Goblin Lackey,usg,Urza's Saga,not_legal,15.77,8.13
+Greater Good,usg,Urza's Saga,legal,7.99,5.98
+Great Whale,usg,Urza's Saga,not_legal,8.49,3.62
+"Karn, Silver Golem",usg,Urza's Saga,not_legal,13.99,8.69
+Lifeline,usg,Urza's Saga,not_legal,13.99,10.15
+Morphling,usg,Urza's Saga,not_legal,8.99,7.58
+Oppression,usg,Urza's Saga,not_legal,7.49,4.14
+Phyrexian Tower,usg,Urza's Saga,not_legal,49.99,37.07
+Serra's Sanctum,usg,Urza's Saga,not_legal,129.99,96.08
+Show and Tell,usg,Urza's Saga,not_legal,19.62,15.15
+Smokestack,usg,Urza's Saga,not_legal,5.99,3.14
+Sneak Attack,usg,Urza's Saga,not_legal,26.99,20.53
+Temporal Aperture,usg,Urza's Saga,not_legal,9.99,4.14
+Time Spiral,usg,Urza's Saga,not_legal,67.99,58.66
+Tolarian Academy,usg,Urza's Saga,not_legal,59.99,43.33
+Worship,usg,Urza's Saga,legal,8.64,5.66
+Yawgmoth's Will,usg,Urza's Saga,not_legal,79.99,44.22
+Ashnod's Coupon,ugl,Unglued,not_legal,6.54,2.71
+B.F.M. (Big Furry Monster),ugl,Unglued,not_legal,3.49,2.87
+B.F.M. (Big Furry Monster),ugl,Unglued,not_legal,3.99,2.87
+Blacker Lotus,ugl,Unglued,not_legal,5.59,5.41
+Forest,ugl,Unglued,legal,6.94,3.65
+Island,ugl,Unglued,legal,7.99,4.00
+Jack-in-the-Mox,ugl,Unglued,not_legal,3.99,4.59
+Mountain,ugl,Unglued,legal,5.47,3.11
+Plains,ugl,Unglued,legal,4.99,2.80
+"Strategy, Schmategy",ugl,Unglued,not_legal,6.73,4.47
+Swamp,ugl,Unglued,legal,5.80,2.79
+Cataclysm,exo,Exodus,not_legal,4.49,4.23
+City of Traitors,exo,Exodus,not_legal,266.64,171.74
+Coat of Arms,exo,Exodus,legal,8.61,4.18
+"Ertai, Wizard Adept",exo,Exodus,not_legal,12.99,5.62
+Hatred,exo,Exodus,not_legal,17.99,13.60
+Manabond,exo,Exodus,not_legal,5.49,2.72
+Mind Over Matter,exo,Exodus,not_legal,25.99,19.65
+Oath of Druids,exo,Exodus,not_legal,1.99,2.17
+Oath of Ghouls,exo,Exodus,not_legal,4.99,2.46
+Reconnaissance,exo,Exodus,not_legal,7.99,3.67
+Recurring Nightmare,exo,Exodus,not_legal,21.99,19.12
+Seismic Assault,exo,Exodus,legal,3.99,2.06
+Sphere of Resistance,exo,Exodus,not_legal,22.21,13.41
+Spike Weaver,exo,Exodus,not_legal,7.99,6.82
+Survival of the Fittest,exo,Exodus,not_legal,99.99,62.08
+Burgeoning,sth,Stronghold,not_legal,7.78,3.79
+Constant Mists,sth,Stronghold,not_legal,7.99,3.73
+Crystalline Sliver,sth,Stronghold,not_legal,3.19,2.72
+Dream Halls,sth,Stronghold,not_legal,20.99,12.16
+Ensnaring Bridge,sth,Stronghold,legal,44.01,32.78
+Grave Pact,sth,Stronghold,legal,11.99,7.76
+Intruder Alarm,sth,Stronghold,legal,7.77,5.19
+Mogg Infestation,sth,Stronghold,not_legal,7.02,3.05
+Mox Diamond,sth,Stronghold,not_legal,219.99,129.25
+Ruination,sth,Stronghold,not_legal,3.99,2.59
+Sliver Queen,sth,Stronghold,not_legal,63.84,38.60
+Thalakos Deceiver,sth,Stronghold,not_legal,3.49,3.18
+Volrath's Shapeshifter,sth,Stronghold,not_legal,3.99,2.35
+Volrath's Stronghold,sth,Stronghold,not_legal,54.65,39.69
+Gaea's Cradle,jgp,Judge Gift Cards 1998,not_legal,1050.00,620.00
+Lightning Bolt,jgp,Judge Gift Cards 1998,legal,253.72,390.00
+Stroke of Genius,jgp,Judge Gift Cards 1998,not_legal,21.59,8.91
+Altar of Dementia,tmp,Tempest,not_legal,4.98,2.69
+Aluren,tmp,Tempest,not_legal,24.99,22.75
+Ancient Tomb,tmp,Tempest,not_legal,41.99,27.00
+Apocalypse,tmp,Tempest,not_legal,4.99,2.95
+Choke,tmp,Tempest,legal,2.99,2.80
+Coffin Queen,tmp,Tempest,not_legal,6.36,3.63
+Corpse Dance,tmp,Tempest,not_legal,9.99,7.08
+Cursed Scroll,tmp,Tempest,not_legal,10.99,9.54
+Earthcraft,tmp,Tempest,not_legal,59.70,39.72
+"Eladamri, Lord of Leaves",tmp,Tempest,not_legal,21.99,15.00
+Grindstone,tmp,Tempest,not_legal,9.02,6.82
+Helm of Possession,tmp,Tempest,not_legal,3.49,2.22
+Humility,tmp,Tempest,not_legal,39.99,26.51
+Intuition,tmp,Tempest,not_legal,59.99,41.63
+Jet Medallion,tmp,Tempest,not_legal,8.62,4.17
+Living Death,tmp,Tempest,not_legal,3.49,2.94
+Lotus Petal,tmp,Tempest,not_legal,8.21,4.79
+Meditate,tmp,Tempest,not_legal,7.49,5.66
+Mirri's Guile,tmp,Tempest,not_legal,24.99,17.27
+Pearl Medallion,tmp,Tempest,not_legal,4.63,2.50
+Propaganda,tmp,Tempest,not_legal,6.99,3.28
+Reanimate,tmp,Tempest,not_legal,24.00,18.58
+Recycle,tmp,Tempest,not_legal,3.49,2.80
+Reflecting Pool,tmp,Tempest,legal,14.47,8.85
+Ruby Medallion,tmp,Tempest,not_legal,7.99,5.45
+Sapphire Medallion,tmp,Tempest,not_legal,8.48,5.12
+Sarcomancy,tmp,Tempest,not_legal,2.36,2.41
+Scroll Rack,tmp,Tempest,not_legal,51.38,20.99
+Static Orb,tmp,Tempest,not_legal,6.99,3.53
+Time Warp,tmp,Tempest,legal,13.99,10.48
+Wasteland,tmp,Tempest,not_legal,36.51,23.65
+Abeyance,wth,Weatherlight,not_legal,6.98,2.62
+Ancestral Knowledge,wth,Weatherlight,not_legal,6.81,4.63
+Bone Dancer,wth,Weatherlight,not_legal,3.83,2.91
+Bubble Matrix,wth,Weatherlight,not_legal,5.99,3.64
+Debt of Loyalty,wth,Weatherlight,not_legal,4.49,4.20
+Doomsday,wth,Weatherlight,not_legal,1.99,2.21
+Firestorm,wth,Weatherlight,not_legal,14.99,13.16
+Gemstone Mine,wth,Weatherlight,legal,7.86,4.20
+Goblin Bomb,wth,Weatherlight,not_legal,8.49,4.37
+Lotus Vale,wth,Weatherlight,not_legal,19.99,13.61
+Mana Web,wth,Weatherlight,not_legal,11.99,8.88
+Null Rod,wth,Weatherlight,not_legal,39.99,23.16
+Peacekeeper,wth,Weatherlight,not_legal,16.99,10.62
+Pendrell Mists,wth,Weatherlight,not_legal,14.99,8.97
+Scorched Ruins,wth,Weatherlight,not_legal,15.99,11.02
+Well of Knowledge,wth,Weatherlight,not_legal,3.49,2.03
+Winding Canyons,wth,Weatherlight,not_legal,14.99,16.68
+Alabaster Dragon,por,Portal,not_legal,1.99,2.20
+Armageddon,por,Portal,not_legal,6.99,3.95
+Cloud Dragon,por,Portal,not_legal,2.19,4.67
+Cruel Bargain,por,Portal,not_legal,6.72,4.79
+Cruel Tutor,por,Portal,not_legal,39.06,17.99
+Devastation,por,Portal,not_legal,20.14,15.06
+Ebon Dragon,por,Portal,not_legal,2.87,3.59
+Fire Dragon,por,Portal,not_legal,4.13,5.13
+Gift of Estates,por,Portal,legal,3.25,2.35
+Last Chance,por,Portal,not_legal,4.78,4.33
+Mercenary Knight,por,Portal,not_legal,2.49,2.60
+Natural Order,por,Portal,not_legal,14.53,12.80
+Personal Tutor,por,Portal,not_legal,17.99,10.87
+Pyroclasm,por,Portal,legal,3.99,2.26
+Summer Bloom,por,Portal,banned,1.99,2.40
+Sylvan Tutor,por,Portal,not_legal,49.99,28.06
+Winds of Change,por,Portal,not_legal,12.13,7.19
+Wood Elves,por,Portal,legal,5.37,3.48
+Wrath of God,por,Portal,legal,9.56,6.79
+Adarkar Wastes,5ed,Fifth Edition,legal,4.99,3.02
+Armageddon,5ed,Fifth Edition,not_legal,3.42,2.13
+Ashnod's Altar,5ed,Fifth Edition,not_legal,4.22,2.43
+Birds of Paradise,5ed,Fifth Edition,legal,7.54,4.94
+Brushland,5ed,Fifth Edition,legal,5.99,4.26
+City of Brass,5ed,Fifth Edition,legal,6.99,3.24
+Hurkyl's Recall,5ed,Fifth Edition,legal,2.92,2.80
+Karplusan Forest,5ed,Fifth Edition,legal,3.49,2.49
+Lord of Atlantis,5ed,Fifth Edition,legal,7.33,5.12
+Mana Vault,5ed,Fifth Edition,not_legal,26.99,16.22
+Meekstone,5ed,Fifth Edition,not_legal,5.05,2.58
+Necropotence,5ed,Fifth Edition,not_legal,6.54,3.28
+Stasis,5ed,Fifth Edition,not_legal,4.59,2.75
+Sulfurous Springs,5ed,Fifth Edition,legal,4.61,2.63
+Sylvan Library,5ed,Fifth Edition,not_legal,22.59,11.45
+Winds of Change,5ed,Fifth Edition,not_legal,5.49,2.40
+Winter Orb,5ed,Fifth Edition,not_legal,4.08,3.31
+Wrath of God,5ed,Fifth Edition,legal,5.87,3.71
+Zombie Master,5ed,Fifth Edition,not_legal,3.92,2.74
+Anvil of Bogardan,vis,Visions,not_legal,17.99,9.26
+Breathstealer's Crypt,vis,Visions,not_legal,3.99,2.22
+City of Solitude,vis,Visions,not_legal,16.99,11.19
+Desertion,vis,Visions,not_legal,2.44,2.06
+Femeref Enchantress,vis,Visions,not_legal,12.99,10.37
+Natural Order,vis,Visions,not_legal,14.69,13.35
+Necromancy,vis,Visions,not_legal,7.99,3.37
+Quirion Ranger,vis,Visions,not_legal,3.94,3.76
+Retribution of the Meek,vis,Visions,not_legal,11.99,10.29
+Righteous War,vis,Visions,not_legal,1.99,3.59
+Sands of Time,vis,Visions,not_legal,2.99,2.01
+Squandered Resources,vis,Visions,not_legal,20.99,13.33
+Teferi's Puzzle Box,vis,Visions,legal,6.79,2.49
+Teferi's Realm,vis,Visions,not_legal,2.99,2.28
+Tithe,vis,Visions,not_legal,11.99,10.42
+Undiscovered Paradise,vis,Visions,not_legal,10.99,7.08
+Vampiric Tutor,vis,Visions,not_legal,45.63,21.67
+Cadaverous Bloom,mir,Mirage,not_legal,4.99,4.44
+Chaosphere,mir,Mirage,not_legal,3.49,2.54
+Circle of Despair,mir,Mirage,not_legal,4.49,2.05
+Enlightened Tutor,mir,Mirage,not_legal,15.97,7.59
+Frenetic Efreet,mir,Mirage,not_legal,4.49,2.57
+Grim Feast,mir,Mirage,not_legal,2.99,2.35
+Hall of Gemstone,mir,Mirage,not_legal,8.99,8.38
+Lion's Eye Diamond,mir,Mirage,not_legal,209.99,155.08
+Lure of Prey,mir,Mirage,not_legal,3.99,2.84
+Mystical Tutor,mir,Mirage,not_legal,5.92,3.10
+Natural Balance,mir,Mirage,not_legal,2.49,2.76
+Null Chamber,mir,Mirage,not_legal,2.79,2.93
+Phyrexian Dreadnought,mir,Mirage,not_legal,29.79,21.24
+Reparations,mir,Mirage,not_legal,3.99,3.11
+Seeds of Innocence,mir,Mirage,not_legal,3.99,3.05
+Shallow Grave,mir,Mirage,not_legal,19.75,16.64
+"Shauku, Endbringer",mir,Mirage,not_legal,2.99,3.05
+Teferi's Isle,mir,Mirage,not_legal,4.99,2.18
+Wellspring,mir,Mirage,not_legal,2.49,2.18
+Worldly Tutor,mir,Mirage,not_legal,15.02,7.36
+Zirilan of the Claw,mir,Mirage,not_legal,4.99,5.19
+Elvish Spirit Guide,all,Alliances,not_legal,4.99,3.74
+Force of Will,all,Alliances,not_legal,76.62,46.91
+Helm of Obedience,all,Alliances,not_legal,29.99,23.31
+Kaysa,all,Alliances,not_legal,5.99,2.45
+Kjeldoran Outpost,all,Alliances,not_legal,8.49,8.43
+Lake of the Dead,all,Alliances,not_legal,39.99,28.09
+Phelddagrif,all,Alliances,not_legal,7.99,3.96
+Phyrexian Devourer,all,Alliances,not_legal,5.99,5.28
+Shield Sphere,all,Alliances,not_legal,5.49,3.94
+Soldevi Excavations,all,Alliances,not_legal,9.43,11.40
+Thawing Glaciers,all,Alliances,not_legal,24.99,17.50
+Thought Lash,all,Alliances,not_legal,2.49,2.62
+Varchild's War-Riders,all,Alliances,not_legal,5.99,4.28
+Didgeridoo,hml,Homelands,not_legal,4.99,3.23
+Koskun Falls,hml,Homelands,not_legal,5.99,5.02
+Wall of Kelp,hml,Homelands,not_legal,9.99,6.43
+Ashnod's Altar,chr,Chronicles,not_legal,2.58,2.24
+Blood Moon,chr,Chronicles,legal,19.72,18.11
+City of Brass,chr,Chronicles,legal,9.49,9.10
+Concordant Crossroads,chr,Chronicles,not_legal,15.56,10.71
+Adarkar Wastes,ice,Ice Age,legal,6.43,4.67
+Altar of Bone,ice,Ice Age,not_legal,9.60,6.33
+Brushland,ice,Ice Age,legal,4.49,3.97
+Illusions of Grandeur,ice,Ice Age,not_legal,10.88,11.05
+Karplusan Forest,ice,Ice Age,legal,3.99,2.75
+Mudslide,ice,Ice Age,not_legal,2.54,2.95
+Mystic Remora,ice,Ice Age,not_legal,2.47,2.34
+Necropotence,ice,Ice Age,not_legal,7.99,4.85
+Snow-Covered Island,ice,Ice Age,legal,3.42,2.49
+Sulfurous Springs,ice,Ice Age,legal,5.98,3.55
+Underground River,ice,Ice Age,legal,4.59,3.06
+Birds of Paradise,4ed,Fourth Edition,legal,9.36,4.65
+Hurkyl's Recall,4ed,Fourth Edition,legal,2.50,2.64
+Land Tax,4ed,Fourth Edition,not_legal,21.99,12.01
+Lightning Bolt,4ed,Fourth Edition,legal,2.90,2.39
+Lord of Atlantis,4ed,Fourth Edition,legal,7.42,4.81
+Mana Vault,4ed,Fourth Edition,not_legal,25.90,15.58
+Meekstone,4ed,Fourth Edition,not_legal,7.25,2.91
+Mind Twist,4ed,Fourth Edition,not_legal,3.48,2.90
+Stasis,4ed,Fourth Edition,not_legal,4.33,2.17
+Strip Mine,4ed,Fourth Edition,not_legal,19.21,8.31
+Sylvan Library,4ed,Fourth Edition,not_legal,21.83,11.59
+Winds of Change,4ed,Fourth Edition,not_legal,5.23,3.44
+Winter Orb,4ed,Fourth Edition,not_legal,4.08,3.04
+Wrath of God,4ed,Fourth Edition,legal,6.48,3.47
+Zombie Master,4ed,Fourth Edition,not_legal,3.53,2.54
+Aeolipile,fem,Fallen Empires,not_legal,1.99,2.53
+Elvish Farmer,fem,Fallen Empires,not_legal,3.99,4.81
+Rainbow Vale,fem,Fallen Empires,not_legal,3.99,4.32
+Amnesia,drk,The Dark,not_legal,1.49,2.33
+Apprentice Wizard,drk,The Dark,not_legal,2.29,3.12
+Ball Lightning,drk,The Dark,legal,23.65,27.32
+Blood Moon,drk,The Dark,legal,69.70,80.62
+City of Shadows,drk,The Dark,not_legal,25.99,23.68
+Cleansing,drk,The Dark,not_legal,7.99,8.26
+Dance of Many,drk,The Dark,not_legal,2.73,3.87
+Eater of the Dead,drk,The Dark,not_legal,7.88,8.61
+Elves of Deep Shadow,drk,The Dark,legal,5.99,5.98
+Eternal Flame,drk,The Dark,not_legal,6.35,6.16
+Exorcist,drk,The Dark,not_legal,10.99,17.44
+Fellwar Stone,drk,The Dark,legal,12.99,11.61
+Frankenstein's Monster,drk,The Dark,not_legal,7.49,6.82
+Goblin Wizard,drk,The Dark,not_legal,27.46,23.53
+Grave Robbers,drk,The Dark,not_legal,5.21,10.24
+Hidden Path,drk,The Dark,not_legal,4.99,6.19
+Inferno,drk,The Dark,legal,1.58,3.56
+Knights of Thorn,drk,The Dark,not_legal,4.99,4.52
+Leviathan,drk,The Dark,legal,1.90,2.75
+Lurker,drk,The Dark,not_legal,3.99,4.01
+Mana Vortex,drk,The Dark,not_legal,25.99,16.65
+Martyr's Cry,drk,The Dark,not_legal,6.49,5.06
+Maze of Ith,drk,The Dark,not_legal,25.99,17.68
+Mind Bomb,drk,The Dark,not_legal,2.63,2.92
+Nameless Race,drk,The Dark,not_legal,4.66,4.88
+Niall Silvain,drk,The Dark,not_legal,4.99,7.01
+Preacher,drk,The Dark,not_legal,37.50,35.15
+Psychic Allergy,drk,The Dark,not_legal,3.49,4.55
+Safe Haven,drk,The Dark,legal,2.48,2.87
+Scarwood Bandits,drk,The Dark,not_legal,5.49,6.66
+Season of the Witch,drk,The Dark,not_legal,9.92,10.84
+Sorrow's Path,drk,The Dark,not_legal,5.95,7.77
+Stone Calendar,drk,The Dark,not_legal,14.99,11.88
+Tormod's Crypt,drk,The Dark,legal,3.67,2.58
+Tracker,drk,The Dark,not_legal,6.09,7.06
+Witch Hunter,drk,The Dark,legal,1.76,2.13
+Worms of the Earth,drk,The Dark,not_legal,4.49,5.13
+Wormwood Treefolk,drk,The Dark,not_legal,4.64,4.96
+Acid Rain,leg,Legends,not_legal,54.99,33.25
+Adun Oakenshield,leg,Legends,not_legal,69.99,61.59
+Akron Legionnaire,leg,Legends,not_legal,11.99,12.80
+Al-abara's Carpet,leg,Legends,not_legal,29.99,16.83
+Alchor's Tomb,leg,Legends,not_legal,16.99,16.19
+All Hallow's Eve,leg,Legends,not_legal,222.98,232.67
+Angelic Voices,leg,Legends,not_legal,13.39,12.25
+Angus Mackenzie,leg,Legends,not_legal,194.73,110.45
+Arboria,leg,Legends,not_legal,9.49,9.56
+Arcades Sabboth,leg,Legends,not_legal,25.06,44.75
+Arena of the Ancients,leg,Legends,not_legal,28.50,20.92
+Avoid Fate,leg,Legends,legal,3.99,5.06
+Axelrod Gunnarson,leg,Legends,not_legal,12.99,14.97
+Ayesha Tanaka,leg,Legends,not_legal,11.99,14.91
+Bartel Runeaxe,leg,Legends,not_legal,25.99,19.84
+Blight,leg,Legends,not_legal,5.47,6.15
+Blood Lust,leg,Legends,not_legal,10.17,10.10
+Boris Devilboon,leg,Legends,not_legal,19.99,19.49
+Bronze Horse,leg,Legends,not_legal,21.99,15.37
+Carrion Ants,leg,Legends,not_legal,13.99,15.91
+Cathedral of Serra,leg,Legends,not_legal,3.79,4.08
+Caverns of Despair,leg,Legends,not_legal,36.07,31.18
+Chain Lightning,leg,Legends,not_legal,9.84,8.22
+Chains of Mephistopheles,leg,Legends,not_legal,500.00,590.00
+Chromium,leg,Legends,not_legal,39.99,25.88
+Cleanse,leg,Legends,not_legal,34.67,23.25
+Concordant Crossroads,leg,Legends,not_legal,101.78,78.50
+Cosmic Horror,leg,Legends,not_legal,22.38,17.33
+Crimson Manticore,leg,Legends,not_legal,13.11,10.25
+Dakkon Blackblade,leg,Legends,not_legal,54.99,27.97
+Darkness,leg,Legends,legal,5.99,6.65
+Demonic Torment,leg,Legends,not_legal,2.29,2.43
+Disharmony,leg,Legends,not_legal,27.49,22.64
+Divine Intervention,leg,Legends,not_legal,64.66,60.00
+Divine Transformation,leg,Legends,not_legal,15.85,24.72
+Elder Land Wurm,leg,Legends,not_legal,17.02,13.23
+Elder Spawn,leg,Legends,not_legal,11.02,19.77
+Elven Riders,leg,Legends,legal,12.35,23.31
+Eureka,leg,Legends,not_legal,402.82,392.82
+Evil Eye of Orms-by-Gore,leg,Legends,legal,3.31,9.61
+Fallen Angel,leg,Legends,legal,6.27,10.11
+Falling Star,leg,Legends,not_legal,44.99,33.94
+Field of Dreams,leg,Legends,not_legal,73.83,100.00
+Firestorm Phoenix,leg,Legends,not_legal,21.26,23.43
+Forethought Amulet,leg,Legends,not_legal,17.43,20.04
+Gabriel Angelfire,leg,Legends,not_legal,10.44,11.72
+Gauntlets of Chaos,leg,Legends,not_legal,17.99,17.26
+Gosta Dirk,leg,Legends,not_legal,18.99,17.19
+Gravity Sphere,leg,Legends,not_legal,44.99,41.98
+Greater Realm of Preservation,leg,Legends,not_legal,3.74,4.90
+Greed,leg,Legends,not_legal,40.15,66.63
+Gwendlyn Di Corci,leg,Legends,not_legal,119.99,89.97
+Halfdane,leg,Legends,not_legal,28.93,29.15
+Hammerheim,leg,Legends,not_legal,7.99,11.03
+Hazezon Tamar,leg,Legends,not_legal,161.19,128.27
+Hellfire,leg,Legends,not_legal,60.31,35.15
+Hell's Caretaker,leg,Legends,legal,27.81,27.25
+Horn of Deafening,leg,Legends,not_legal,16.99,18.90
+Ichneumon Druid,leg,Legends,not_legal,1.66,2.06
+Imprison,leg,Legends,not_legal,18.71,28.59
+Infernal Medusa,leg,Legends,not_legal,1.99,2.84
+Infinite Authority,leg,Legends,not_legal,14.99,16.87
+In the Eye of Chaos,leg,Legends,not_legal,122.50,122.20
+Invoke Prejudice,leg,Legends,not_legal,350.96,284.98
+Jacques le Vert,leg,Legends,not_legal,21.99,21.02
+Johan,leg,Legends,not_legal,10.33,16.14
+Jovial Evil,leg,Legends,not_legal,26.60,22.90
+Juxtapose,leg,Legends,not_legal,8.63,12.86
+Karakas,leg,Legends,not_legal,78.44,62.50
+Kei Takahashi,leg,Legends,not_legal,11.76,21.65
+Killer Bees,leg,Legends,not_legal,34.99,24.91
+Kismet,leg,Legends,not_legal,9.99,10.64
+Knowledge Vault,leg,Legends,not_legal,26.99,26.58
+Kobold Drill Sergeant,leg,Legends,not_legal,3.36,3.77
+Kobold Overlord,leg,Legends,not_legal,33.10,23.56
+Kobold Taskmaster,leg,Legends,legal,2.09,3.55
+Lady Caleria,leg,Legends,not_legal,20.57,16.98
+Lady Evangela,leg,Legends,not_legal,34.82,25.37
+Land Equilibrium,leg,Legends,not_legal,98.13,114.50
+Land's Edge,leg,Legends,not_legal,23.42,58.11
+Land Tax,leg,Legends,not_legal,62.89,68.28
+Lifeblood,leg,Legends,not_legal,18.99,17.57
+Life Matrix,leg,Legends,not_legal,18.99,27.14
+Living Plane,leg,Legends,not_legal,241.65,149.96
+Livonya Silone,leg,Legends,not_legal,23.18,19.50
+Mana Drain,leg,Legends,not_legal,170.48,115.51
+Mana Matrix,leg,Legends,not_legal,42.99,45.22
+Master of the Hunt,leg,Legends,not_legal,52.23,56.32
+Mirror Universe,leg,Legends,not_legal,278.32,292.32
+Moat,leg,Legends,not_legal,774.99,547.00
+Mold Demon,leg,Legends,not_legal,14.97,32.87
+Mountain Yeti,leg,Legends,not_legal,0.92,2.24
+Nebuchadnezzar,leg,Legends,not_legal,19.36,30.27
+Nether Void,leg,Legends,not_legal,447.00,475.86
+Nicol Bolas,leg,Legends,legal,88.05,77.52
+North Star,leg,Legends,not_legal,17.99,16.91
+Nova Pentacle,leg,Legends,not_legal,18.96,18.46
+Palladia-Mors,leg,Legends,not_legal,22.42,35.36
+Pendelhaven,leg,Legends,legal,11.99,15.22
+Petra Sphinx,leg,Legends,not_legal,13.99,16.22
+Pixie Queen,leg,Legends,not_legal,24.97,22.14
+Planar Gate,leg,Legends,not_legal,51.88,35.13
+Presence of the Master,leg,Legends,not_legal,7.41,7.73
+Psionic Entity,leg,Legends,not_legal,12.36,8.67
+Quarum Trench Gnomes,leg,Legends,not_legal,27.53,20.00
+Rabid Wombat,leg,Legends,not_legal,2.49,2.07
+Ragnar,leg,Legends,not_legal,26.84,23.65
+Ramirez DePietro,leg,Legends,not_legal,4.99,6.15
+Ramses Overdark,leg,Legends,not_legal,23.99,30.20
+Rapid Fire,leg,Legends,not_legal,10.14,11.05
+Rasputin Dreamweaver,leg,Legends,not_legal,108.87,81.25
+Rebirth,leg,Legends,not_legal,10.57,9.94
+Recall,leg,Legends,not_legal,65.89,71.84
+Reincarnation,leg,Legends,not_legal,2.36,4.44
+Relic Barrier,leg,Legends,legal,6.36,9.67
+Reset,leg,Legends,not_legal,27.23,20.08
+Revelation,leg,Legends,not_legal,17.97,32.98
+Reverberation,leg,Legends,not_legal,11.99,11.95
+Ring of Immortals,leg,Legends,not_legal,24.99,23.24
+Rohgahh of Kher Keep,leg,Legends,not_legal,30.19,31.80
+Rubinia Soulsinger,leg,Legends,not_legal,15.97,17.92
+Sentinel,leg,Legends,not_legal,15.99,10.75
+Serpent Generator,leg,Legends,not_legal,12.99,8.76
+Sol'kanar the Swamp King,leg,Legends,legal,32.26,38.19
+Spectral Cloak,leg,Legends,not_legal,2.79,3.25
+Spinal Villain,leg,Legends,not_legal,29.99,28.84
+Spirit Link,leg,Legends,legal,14.93,14.97
+Spiritual Sanctuary,leg,Legends,not_legal,15.91,15.71
+Stangg,leg,Legends,not_legal,16.28,12.46
+Storm Seeker,leg,Legends,not_legal,7.49,8.16
+Storm World,leg,Legends,not_legal,36.36,29.57
+Sunastian Falconer,leg,Legends,not_legal,2.49,2.55
+Sword of the Ages,leg,Legends,not_legal,54.99,49.99
+Sylvan Library,leg,Legends,not_legal,109.99,108.85
+Sylvan Paradise,leg,Legends,not_legal,1.74,4.43
+Telekinesis,leg,Legends,not_legal,48.45,34.53
+Teleport,leg,Legends,not_legal,12.81,16.25
+Tempest Efreet,leg,Legends,not_legal,21.71,14.80
+Tetsuo Umezawa,leg,Legends,not_legal,70.97,39.99
+The Abyss,leg,Legends,not_legal,949.99,675.20
+The Lady of the Mountain,leg,Legends,not_legal,1.99,2.34
+The Tabernacle at Pendrell Vale,leg,Legends,not_legal,1663.88,1865.00
+The Wretched,leg,Legends,not_legal,15.99,14.68
+Thunder Spirit,leg,Legends,not_legal,123.33,119.83
+Time Elemental,leg,Legends,not_legal,29.99,44.24
+Tolaria,leg,Legends,not_legal,3.49,3.77
+Touch of Darkness,leg,Legends,not_legal,3.61,5.62
+Triassic Egg,leg,Legends,not_legal,15.08,17.36
+Tuknir Deathlock,leg,Legends,not_legal,16.99,15.96
+Typhoon,leg,Legends,not_legal,18.26,19.62
+Underworld Dreams,leg,Legends,legal,79.99,83.26
+Untamed Wilds,leg,Legends,not_legal,0.97,4.17
+Urborg,leg,Legends,not_legal,10.60,17.01
+Ur-Drago,leg,Legends,not_legal,17.99,20.68
+Vaevictis Asmadi,leg,Legends,not_legal,23.52,40.22
+Voodoo Doll,leg,Legends,not_legal,9.32,8.86
+Wall of Light,leg,Legends,not_legal,3.40,6.00
+Wall of Opposition,leg,Legends,not_legal,11.49,8.35
+Whirling Dervish,leg,Legends,legal,8.99,9.52
+Willow Satyr,leg,Legends,not_legal,54.34,48.07
+Winds of Change,leg,Legends,not_legal,20.25,19.82
+Winter Blast,leg,Legends,not_legal,15.49,16.70
+Wood Elemental,leg,Legends,not_legal,16.99,15.34
+Xira Arien,leg,Legends,not_legal,20.99,27.58
+Ankh of Mishra,3ed,Revised Edition,not_legal,2.27,2.17
+Armageddon,3ed,Revised Edition,not_legal,4.80,4.64
+Badlands,3ed,Revised Edition,not_legal,266.36,182.33
+Bad Moon,3ed,Revised Edition,legal,2.54,3.29
+Balance,3ed,Revised Edition,not_legal,2.49,2.67
+Bayou,3ed,Revised Edition,not_legal,309.99,188.75
+Birds of Paradise,3ed,Revised Edition,legal,13.99,9.21
+Braingeyser,3ed,Revised Edition,not_legal,12.99,10.88
+Contract from Below,3ed,Revised Edition,not_legal,2.79,2.86
+Copy Artifact,3ed,Revised Edition,not_legal,29.99,21.87
+Counterspell,3ed,Revised Edition,not_legal,2.60,2.96
+Crusade,3ed,Revised Edition,not_legal,2.84,5.21
+Demonic Hordes,3ed,Revised Edition,not_legal,4.99,3.36
+Demonic Tutor,3ed,Revised Edition,not_legal,41.39,23.29
+Earthquake,3ed,Revised Edition,legal,1.32,3.35
+Elvish Archers,3ed,Revised Edition,not_legal,1.05,3.47
+Fastbond,3ed,Revised Edition,not_legal,10.99,10.35
+Fork,3ed,Revised Edition,not_legal,21.53,16.53
+Gaea's Liege,3ed,Revised Edition,legal,2.29,2.23
+Goblin King,3ed,Revised Edition,legal,1.92,2.08
+Granite Gargoyle,3ed,Revised Edition,not_legal,1.75,4.49
+Howling Mine,3ed,Revised Edition,legal,6.49,7.17
+Hurkyl's Recall,3ed,Revised Edition,legal,3.49,3.39
+Ivory Tower,3ed,Revised Edition,not_legal,2.47,2.79
+Jayemdae Tome,3ed,Revised Edition,legal,2.21,6.67
+Lightning Bolt,3ed,Revised Edition,legal,3.19,2.89
+Lord of Atlantis,3ed,Revised Edition,legal,7.94,5.41
+Mana Flare,3ed,Revised Edition,not_legal,3.49,2.55
+Mana Vault,3ed,Revised Edition,not_legal,26.87,21.04
+Meekstone,3ed,Revised Edition,not_legal,7.53,5.17
+Mind Twist,3ed,Revised Edition,not_legal,4.81,6.04
+Nether Shadow,3ed,Revised Edition,not_legal,1.49,2.41
+Nevinyrral's Disk,3ed,Revised Edition,not_legal,5.76,6.13
+Nightmare,3ed,Revised Edition,legal,3.49,3.81
+Plateau,3ed,Revised Edition,not_legal,139.99,97.58
+Rock Hydra,3ed,Revised Edition,not_legal,2.49,4.00
+Royal Assassin,3ed,Revised Edition,legal,5.79,6.88
+Savannah,3ed,Revised Edition,not_legal,174.99,122.09
+Savannah Lions,3ed,Revised Edition,legal,5.13,6.78
+Scrubland,3ed,Revised Edition,not_legal,194.99,128.62
+Sedge Troll,3ed,Revised Edition,not_legal,6.33,5.73
+Serendib Efreet,3ed,Revised Edition,not_legal,8.49,9.11
+Serra Angel,3ed,Revised Edition,legal,1.88,2.14
+Shivan Dragon,3ed,Revised Edition,legal,10.94,11.42
+Sol Ring,3ed,Revised Edition,not_legal,9.17,4.97
+Stasis,3ed,Revised Edition,not_legal,4.99,8.32
+Taiga,3ed,Revised Edition,not_legal,183.38,119.24
+The Rack,3ed,Revised Edition,legal,1.74,2.03
+Tropical Island,3ed,Revised Edition,not_legal,339.41,223.33
+Tundra,3ed,Revised Edition,not_legal,319.99,223.45
+Underground Sea,3ed,Revised Edition,not_legal,667.10,441.25
+Vesuvan Doppelganger,3ed,Revised Edition,not_legal,14.99,11.13
+Volcanic Island,3ed,Revised Edition,not_legal,518.08,333.15
+Wheel of Fortune,3ed,Revised Edition,not_legal,105.31,58.04
+Will-o'-the-Wisp,3ed,Revised Edition,legal,2.58,3.63
+Winter Orb,3ed,Revised Edition,not_legal,5.08,6.02
+Wrath of God,3ed,Revised Edition,legal,8.21,6.40
+Zombie Master,3ed,Revised Edition,not_legal,3.72,3.04
+Argivian Archaeologist,atq,Antiquities,not_legal,97.27,73.54
+Argothian Pixies,atq,Antiquities,not_legal,1.99,2.41
+Ashnod's Altar,atq,Antiquities,not_legal,13.99,10.28
+Atog,atq,Antiquities,legal,3.49,3.25
+Bronze Tablet,atq,Antiquities,not_legal,9.15,8.97
+Candelabra of Tawnos,atq,Antiquities,not_legal,399.99,716.00
+Citanul Druid,atq,Antiquities,not_legal,10.09,8.39
+Clockwork Avian,atq,Antiquities,not_legal,14.99,11.72
+Colossus of Sardia,atq,Antiquities,legal,21.99,18.22
+Coral Helm,atq,Antiquities,not_legal,7.34,8.73
+Damping Field,atq,Antiquities,not_legal,9.99,7.71
+Detonate,atq,Antiquities,legal,5.49,5.36
+Energy Flux,atq,Antiquities,not_legal,8.85,7.85
+Feldon's Cane,atq,Antiquities,legal,5.57,3.03
+Gaea's Avenger,atq,Antiquities,not_legal,34.99,24.35
+Gate to Phyrexia,atq,Antiquities,not_legal,37.99,24.05
+Golgothian Sylex,atq,Antiquities,not_legal,20.99,17.26
+Haunting Wind,atq,Antiquities,not_legal,6.99,7.17
+Hurkyl's Recall,atq,Antiquities,legal,52.76,81.66
+Ivory Tower,atq,Antiquities,not_legal,19.99,13.63
+Jalum Tome,atq,Antiquities,not_legal,8.99,12.09
+Martyrs of Korlis,atq,Antiquities,not_legal,4.49,3.64
+Mightstone,atq,Antiquities,not_legal,5.49,5.92
+Millstone,atq,Antiquities,legal,8.49,5.66
+Mishra's Factory,atq,Antiquities,not_legal,60.56,62.16
+Mishra's War Machine,atq,Antiquities,not_legal,9.99,7.36
+Mishra's Workshop,atq,Antiquities,not_legal,1500.00,1366.33
+Obelisk of Undoing,atq,Antiquities,not_legal,8.99,8.62
+Ornithopter,atq,Antiquities,legal,2.79,2.26
+Power Artifact,atq,Antiquities,not_legal,135.46,108.21
+Powerleech,atq,Antiquities,not_legal,5.99,6.92
+Shapeshifter,atq,Antiquities,not_legal,15.91,14.80
+Shatterstorm,atq,Antiquities,legal,21.07,21.76
+Strip Mine,atq,Antiquities,not_legal,59.42,62.06
+Su-Chi,atq,Antiquities,not_legal,58.69,70.55
+Tawnos's Coffin,atq,Antiquities,not_legal,94.99,89.00
+Tetravus,atq,Antiquities,not_legal,22.24,22.12
+The Rack,atq,Antiquities,legal,12.44,10.32
+Titania's Song,atq,Antiquities,not_legal,3.55,6.58
+Transmute Artifact,atq,Antiquities,not_legal,161.53,141.88
+Triskelion,atq,Antiquities,legal,43.36,42.79
+Urza's Avenger,atq,Antiquities,not_legal,9.49,14.06
+Urza's Mine,atq,Antiquities,legal,8.99,6.03
+Urza's Miter,atq,Antiquities,not_legal,19.99,16.05
+Urza's Power Plant,atq,Antiquities,legal,7.99,5.46
+Urza's Tower,atq,Antiquities,legal,13.99,11.84
+Weakstone,atq,Antiquities,not_legal,3.99,5.61
+Yawgmoth Demon,atq,Antiquities,legal,12.10,13.32
+Abu Ja'far,arn,Arabian Nights,not_legal,14.99,13.09
+Aladdin,arn,Arabian Nights,not_legal,45.00,31.77
+Aladdin's Lamp,arn,Arabian Nights,not_legal,23.33,21.53
+Aladdin's Ring,arn,Arabian Nights,legal,23.99,20.07
+Ali Baba,arn,Arabian Nights,not_legal,9.49,9.46
+Ali from Cairo,arn,Arabian Nights,not_legal,249.99,213.40
+Army of Allah,arn,Arabian Nights,not_legal,7.39,9.80
+Bazaar of Baghdad,arn,Arabian Nights,not_legal,1283.99,779.24
+Bird Maiden,arn,Arabian Nights,not_legal,2.73,2.43
+Bottle of Suleiman,arn,Arabian Nights,not_legal,21.99,16.99
+Brass Man,arn,Arabian Nights,not_legal,14.99,12.91
+City in a Bottle,arn,Arabian Nights,not_legal,225.00,271.66
+City of Brass,arn,Arabian Nights,legal,345.00,294.95
+Cuombajj Witches,arn,Arabian Nights,not_legal,7.66,7.81
+Cyclone,arn,Arabian Nights,not_legal,13.99,8.28
+Dancing Scimitar,arn,Arabian Nights,legal,22.99,24.65
+Desert Twister,arn,Arabian Nights,not_legal,23.78,12.79
+Diamond Valley,arn,Arabian Nights,not_legal,404.99,293.85
+Drop of Honey,arn,Arabian Nights,not_legal,499.99,586.99
+Ebony Horse,arn,Arabian Nights,not_legal,14.99,13.15
+Elephant Graveyard,arn,Arabian Nights,not_legal,139.99,132.21
+El-Hajjâj,arn,Arabian Nights,not_legal,18.21,13.76
+Erg Raiders,arn,Arabian Nights,not_legal,2.79,2.19
+Erhnam Djinn,arn,Arabian Nights,not_legal,230.66,229.96
+Eye for an Eye,arn,Arabian Nights,not_legal,13.09,7.49
+Fishliver Oil,arn,Arabian Nights,legal,1.79,2.27
+Flying Carpet,arn,Arabian Nights,legal,19.57,14.68
+Flying Men,arn,Arabian Nights,legal,11.49,14.91
+Ghazbán Ogre,arn,Arabian Nights,not_legal,2.28,2.05
+Giant Tortoise,arn,Arabian Nights,not_legal,1.34,2.65
+Guardian Beast,arn,Arabian Nights,not_legal,299.59,333.25
+Ifh-Bíff Efreet,arn,Arabian Nights,not_legal,112.74,85.89
+Island Fish Jasconius,arn,Arabian Nights,not_legal,18.78,11.49
+Island of Wak-Wak,arn,Arabian Nights,not_legal,149.99,53.00
+Jandor's Ring,arn,Arabian Nights,not_legal,20.30,14.63
+Jandor's Saddlebags,arn,Arabian Nights,not_legal,25.99,21.90
+Jeweled Bird,arn,Arabian Nights,not_legal,9.75,10.93
+Jihad,arn,Arabian Nights,not_legal,159.21,172.38
+Junún Efreet,arn,Arabian Nights,not_legal,49.99,34.75
+Juzám Djinn,arn,Arabian Nights,not_legal,1250.00,1073.17
+Khabál Ghoul,arn,Arabian Nights,not_legal,74.99,43.30
+King Suleiman,arn,Arabian Nights,not_legal,179.39,114.76
+Kird Ape,arn,Arabian Nights,legal,9.99,9.40
+Library of Alexandria,arn,Arabian Nights,not_legal,1050.01,939.57
+Magnetic Mountain,arn,Arabian Nights,not_legal,9.05,4.82
+Merchant Ship,arn,Arabian Nights,not_legal,21.99,18.45
+Mijae Djinn,arn,Arabian Nights,not_legal,42.49,28.96
+Moorish Cavalry,arn,Arabian Nights,legal,2.29,2.46
+Mountain,arn,Arabian Nights,legal,138.27,100.00
+Oasis,arn,Arabian Nights,not_legal,13.99,6.84
+Old Man of the Sea,arn,Arabian Nights,not_legal,195.61,149.75
+Oubliette,arn,Arabian Nights,not_legal,28.99,30.88
+Piety,arn,Arabian Nights,not_legal,1.49,2.20
+Pyramids,arn,Arabian Nights,not_legal,49.99,51.95
+Repentant Blacksmith,arn,Arabian Nights,not_legal,24.99,19.77
+Ring of Ma'rûf,arn,Arabian Nights,not_legal,104.99,49.65
+Rukh Egg,arn,Arabian Nights,legal,15.08,8.80
+Sandals of Abdallah,arn,Arabian Nights,not_legal,16.99,16.51
+Serendib Djinn,arn,Arabian Nights,not_legal,156.69,125.27
+Serendib Efreet,arn,Arabian Nights,not_legal,343.64,517.50
+Shahrazad,arn,Arabian Nights,not_legal,329.99,231.23
+Sindbad,arn,Arabian Nights,legal,26.48,19.46
+Singing Tree,arn,Arabian Nights,not_legal,91.63,70.81
+Sorceress Queen,arn,Arabian Nights,not_legal,39.99,24.58
+Stone-Throwing Devils,arn,Arabian Nights,not_legal,9.39,16.80
+Unstable Mutation,arn,Arabian Nights,legal,3.99,4.90
+War Elephant,arn,Arabian Nights,not_legal,2.27,2.74
+Wyluli Wolf,arn,Arabian Nights,not_legal,1.99,4.20
+Ydwen Efreet,arn,Arabian Nights,not_legal,67.04,60.47
+Ancestral Recall,2ed,Unlimited Edition,not_legal,2052.61,2295.03
+Animate Dead,2ed,Unlimited Edition,not_legal,8.54,11.94
+Animate Wall,2ed,Unlimited Edition,not_legal,8.30,5.00
+Ankh of Mishra,2ed,Unlimited Edition,not_legal,34.12,38.65
+Armageddon,2ed,Unlimited Edition,not_legal,75.70,78.03
+Aspect of Wolf,2ed,Unlimited Edition,not_legal,15.37,14.90
+Badlands,2ed,Unlimited Edition,not_legal,299.97,606.89
+Bad Moon,2ed,Unlimited Edition,legal,32.24,36.99
+Balance,2ed,Unlimited Edition,not_legal,45.10,36.74
+Basalt Monolith,2ed,Unlimited Edition,not_legal,8.40,7.06
+Bayou,2ed,Unlimited Edition,not_legal,400.00,528.00
+Berserk,2ed,Unlimited Edition,not_legal,65.31,55.29
+Birds of Paradise,2ed,Unlimited Edition,legal,121.00,237.68
+Black Knight,2ed,Unlimited Edition,legal,13.95,20.66
+Black Lotus,2ed,Unlimited Edition,not_legal,3999.00,5387.30
+Black Vise,2ed,Unlimited Edition,not_legal,14.73,10.50
+Blaze of Glory,2ed,Unlimited Edition,not_legal,50.37,52.25
+Blessing,2ed,Unlimited Edition,legal,10.86,6.67
+Braingeyser,2ed,Unlimited Edition,not_legal,66.29,86.78
+Channel,2ed,Unlimited Edition,not_legal,2.36,4.27
+Chaoslace,2ed,Unlimited Edition,not_legal,3.43,5.48
+Chaos Orb,2ed,Unlimited Edition,not_legal,624.50,862.80
+Clockwork Beast,2ed,Unlimited Edition,not_legal,8.34,4.76
+Clone,2ed,Unlimited Edition,legal,5.54,3.93
+Cockatrice,2ed,Unlimited Edition,legal,14.00,12.93
+Contract from Below,2ed,Unlimited Edition,not_legal,41.39,21.50
+Control Magic,2ed,Unlimited Edition,not_legal,8.81,16.08
+Copper Tablet,2ed,Unlimited Edition,not_legal,16.41,17.78
+Copy Artifact,2ed,Unlimited Edition,not_legal,84.23,127.99
+Counterspell,2ed,Unlimited Edition,not_legal,31.07,20.59
+Crusade,2ed,Unlimited Edition,not_legal,58.16,51.80
+Cyclopean Tomb,2ed,Unlimited Edition,not_legal,116.63,104.98
+Darkpact,2ed,Unlimited Edition,not_legal,18.66,12.40
+Dark Ritual,2ed,Unlimited Edition,not_legal,4.84,9.70
+Deathlace,2ed,Unlimited Edition,not_legal,5.81,5.23
+Demonic Attorney,2ed,Unlimited Edition,not_legal,19.00,23.22
+Demonic Hordes,2ed,Unlimited Edition,not_legal,59.50,20.83
+Demonic Tutor,2ed,Unlimited Edition,not_legal,72.40,46.17
+Dingus Egg,2ed,Unlimited Edition,legal,10.29,7.89
+Disenchant,2ed,Unlimited Edition,legal,4.73,4.41
+Disrupting Scepter,2ed,Unlimited Edition,legal,40.98,38.78
+Dragon Whelp,2ed,Unlimited Edition,legal,4.81,3.07
+Drain Power,2ed,Unlimited Edition,not_legal,19.95,7.28
+Earthquake,2ed,Unlimited Edition,legal,37.63,47.49
+Elvish Archers,2ed,Unlimited Edition,not_legal,27.93,29.52
+Evil Presence,2ed,Unlimited Edition,legal,1.25,2.08
+Farmstead,2ed,Unlimited Edition,not_legal,9.67,8.48
+Fastbond,2ed,Unlimited Edition,not_legal,63.20,69.01
+Fireball,2ed,Unlimited Edition,legal,2.35,3.21
+Fire Elemental,2ed,Unlimited Edition,legal,1.58,2.03
+Forcefield,2ed,Unlimited Edition,not_legal,414.75,313.00
+Force of Nature,2ed,Unlimited Edition,legal,89.99,78.04
+Fork,2ed,Unlimited Edition,not_legal,100.94,90.58
+Fungusaur,2ed,Unlimited Edition,legal,12.00,8.67
+Gaea's Liege,2ed,Unlimited Edition,legal,10.30,13.82
+Gauntlet of Might,2ed,Unlimited Edition,not_legal,298.86,410.09
+Giant Growth,2ed,Unlimited Edition,legal,1.61,2.05
+Gloom,2ed,Unlimited Edition,not_legal,11.39,7.25
+Goblin Balloon Brigade,2ed,Unlimited Edition,legal,10.41,10.59
+Goblin King,2ed,Unlimited Edition,legal,52.49,69.65
+Granite Gargoyle,2ed,Unlimited Edition,not_legal,20.38,45.00
+Helm of Chatzuk,2ed,Unlimited Edition,not_legal,6.81,4.11
+Howling Mine,2ed,Unlimited Edition,legal,42.00,120.99
+Hurricane,2ed,Unlimited Edition,legal,2.00,5.19
+Hypnotic Specter,2ed,Unlimited Edition,legal,16.15,15.76
+Ice Storm,2ed,Unlimited Edition,not_legal,25.95,31.92
+Icy Manipulator,2ed,Unlimited Edition,legal,69.05,62.17
+Illusionary Mask,2ed,Unlimited Edition,not_legal,145.00,122.77
+Island,2ed,Unlimited Edition,legal,2.19,2.28
+Island Sanctuary,2ed,Unlimited Edition,not_legal,16.17,14.00
+Jade Monolith,2ed,Unlimited Edition,not_legal,7.87,7.34
+Jade Statue,2ed,Unlimited Edition,legal,5.09,3.69
+Jayemdae Tome,2ed,Unlimited Edition,legal,64.72,87.00
+Juggernaut,2ed,Unlimited Edition,legal,7.24,12.27
+Kormus Bell,2ed,Unlimited Edition,not_legal,22.98,23.22
+Kudzu,2ed,Unlimited Edition,not_legal,16.99,13.80
+Library of Leng,2ed,Unlimited Edition,not_legal,6.94,6.82
+Lich,2ed,Unlimited Edition,not_legal,86.60,82.49
+Lifelace,2ed,Unlimited Edition,not_legal,5.72,3.83
+Lightning Bolt,2ed,Unlimited Edition,legal,17.11,12.62
+Living Artifact,2ed,Unlimited Edition,not_legal,5.18,5.53
+Living Lands,2ed,Unlimited Edition,not_legal,9.74,4.24
+Llanowar Elves,2ed,Unlimited Edition,legal,7.47,12.09
+Lord of Atlantis,2ed,Unlimited Edition,legal,38.37,37.32
+Lord of the Pit,2ed,Unlimited Edition,legal,29.99,26.57
+Magical Hack,2ed,Unlimited Edition,not_legal,19.95,6.57
+Mahamoti Djinn,2ed,Unlimited Edition,legal,58.16,34.33
+Manabarbs,2ed,Unlimited Edition,legal,13.69,26.65
+Mana Flare,2ed,Unlimited Edition,not_legal,34.49,38.62
+Mana Short,2ed,Unlimited Edition,not_legal,16.65,15.99
+Mana Vault,2ed,Unlimited Edition,not_legal,94.00,95.10
+Meekstone,2ed,Unlimited Edition,not_legal,67.50,25.71
+Mind Twist,2ed,Unlimited Edition,not_legal,59.19,60.15
+Mox Emerald,2ed,Unlimited Edition,not_legal,899.99,1316.70
+Mox Jet,2ed,Unlimited Edition,not_legal,3199.95,1753.77
+Mox Pearl,2ed,Unlimited Edition,not_legal,1249.01,1538.36
+Mox Ruby,2ed,Unlimited Edition,not_legal,2300.00,1343.03
+Mox Sapphire,2ed,Unlimited Edition,not_legal,1199.99,1933.37
+Natural Selection,2ed,Unlimited Edition,not_legal,115.00,51.06
+Nether Shadow,2ed,Unlimited Edition,not_legal,22.20,12.09
+Nevinyrral's Disk,2ed,Unlimited Edition,not_legal,65.47,154.38
+Nightmare,2ed,Unlimited Edition,legal,38.23,39.00
+Northern Paladin,2ed,Unlimited Edition,not_legal,14.98,12.72
+Paralyze,2ed,Unlimited Edition,not_legal,0.36,2.14
+Personal Incarnation,2ed,Unlimited Edition,not_legal,1.99,15.65
+Pirate Ship,2ed,Unlimited Edition,legal,10.67,7.24
+Plateau,2ed,Unlimited Edition,not_legal,500.00,285.00
+Power Sink,2ed,Unlimited Edition,not_legal,1.14,2.16
+Power Surge,2ed,Unlimited Edition,not_legal,13.50,8.38
+Psionic Blast,2ed,Unlimited Edition,legal,28.83,35.56
+Purelace,2ed,Unlimited Edition,not_legal,3.84,6.51
+Raging River,2ed,Unlimited Edition,not_legal,100.50,65.67
+Red Elemental Blast,2ed,Unlimited Edition,not_legal,2.67,3.44
+Regrowth,2ed,Unlimited Edition,not_legal,10.93,10.17
+Reverse Damage,2ed,Unlimited Edition,legal,14.97,10.41
+Righteousness,2ed,Unlimited Edition,legal,25.75,9.20
+Rock Hydra,2ed,Unlimited Edition,not_legal,42.99,29.52
+Roc of Kher Ridges,2ed,Unlimited Edition,not_legal,29.09,16.79
+Royal Assassin,2ed,Unlimited Edition,legal,26.32,72.48
+Savannah,2ed,Unlimited Edition,not_legal,500.00,275.00
+Savannah Lions,2ed,Unlimited Edition,legal,115.00,136.92
+Scrubland,2ed,Unlimited Edition,not_legal,250.00,405.37
+Scryb Sprites,2ed,Unlimited Edition,not_legal,0.38,2.62
+Sedge Troll,2ed,Unlimited Edition,not_legal,31.99,109.52
+Sengir Vampire,2ed,Unlimited Edition,legal,24.17,14.87
+Serra Angel,2ed,Unlimited Edition,legal,36.58,25.21
+Shivan Dragon,2ed,Unlimited Edition,legal,105.50,80.99
+Sinkhole,2ed,Unlimited Edition,not_legal,13.56,11.69
+Sleight of Mind,2ed,Unlimited Edition,not_legal,10.69,9.01
+Smoke,2ed,Unlimited Edition,not_legal,33.98,13.20
+Sol Ring,2ed,Unlimited Edition,not_legal,47.49,43.25
+Stasis,2ed,Unlimited Edition,not_legal,57.02,54.26
+Sunglasses of Urza,2ed,Unlimited Edition,not_legal,11.99,5.30
+Swamp,2ed,Unlimited Edition,legal,1.46,2.43
+Swords to Plowshares,2ed,Unlimited Edition,not_legal,18.99,25.93
+Taiga,2ed,Unlimited Edition,not_legal,375.00,285.20
+Terror,2ed,Unlimited Edition,legal,1.39,2.20
+The Hive,2ed,Unlimited Edition,legal,29.70,24.25
+Thoughtlace,2ed,Unlimited Edition,not_legal,5.01,5.87
+Timber Wolves,2ed,Unlimited Edition,not_legal,9.33,13.70
+Timetwister,2ed,Unlimited Edition,not_legal,2499.99,1843.53
+Time Vault,2ed,Unlimited Edition,not_legal,599.00,700.00
+Time Walk,2ed,Unlimited Edition,not_legal,1725.00,1875.85
+Tropical Island,2ed,Unlimited Edition,not_legal,474.98,549.66
+Tundra,2ed,Unlimited Edition,not_legal,500.00,634.75
+Two-Headed Giant of Foriys,2ed,Unlimited Edition,not_legal,73.31,34.21
+Underground Sea,2ed,Unlimited Edition,not_legal,502.48,916.60
+Uthden Troll,2ed,Unlimited Edition,legal,2.21,2.91
+Verduran Enchantress,2ed,Unlimited Edition,legal,31.99,29.99
+Vesuvan Doppelganger,2ed,Unlimited Edition,not_legal,99.99,36.39
+Veteran Bodyguard,2ed,Unlimited Edition,not_legal,27.48,8.54
+Volcanic Eruption,2ed,Unlimited Edition,not_legal,6.84,4.97
+Volcanic Island,2ed,Unlimited Edition,not_legal,577.50,370.00
+Wall of Bone,2ed,Unlimited Edition,legal,0.69,2.44
+Warp Artifact,2ed,Unlimited Edition,not_legal,11.58,19.43
+Web,2ed,Unlimited Edition,legal,5.72,4.56
+Wheel of Fortune,2ed,Unlimited Edition,not_legal,200.00,197.22
+White Knight,2ed,Unlimited Edition,legal,7.97,10.14
+Will-o'-the-Wisp,2ed,Unlimited Edition,legal,20.54,59.72
+Winter Orb,2ed,Unlimited Edition,not_legal,63.17,68.16
+Word of Command,2ed,Unlimited Edition,not_legal,100.00,82.00
+Wrath of God,2ed,Unlimited Edition,legal,50.95,43.06
+Zombie Master,2ed,Unlimited Edition,not_legal,31.66,19.03
+Air Elemental,leb,Limited Edition Beta,legal,19.99,10.93
+Ancestral Recall,leb,Limited Edition Beta,not_legal,2595.00,2463.06
+Animate Artifact,leb,Limited Edition Beta,not_legal,7.50,13.82
+Animate Dead,leb,Limited Edition Beta,not_legal,119.99,179.99
+Animate Wall,leb,Limited Edition Beta,not_legal,99.99,29.99
+Ankh of Mishra,leb,Limited Edition Beta,not_legal,94.99,257.36
+Armageddon,leb,Limited Edition Beta,not_legal,450.54,372.49
+Aspect of Wolf,leb,Limited Edition Beta,not_legal,24.92,54.54
+Badlands,leb,Limited Edition Beta,not_legal,854.99,994.99
+Bad Moon,leb,Limited Edition Beta,legal,137.09,161.11
+Balance,leb,Limited Edition Beta,not_legal,349.95,387.40
+Basalt Monolith,leb,Limited Edition Beta,not_legal,146.66,39.99
+Bayou,leb,Limited Edition Beta,not_legal,2559.27,1475.16
+Benalish Hero,leb,Limited Edition Beta,not_legal,5.87,4.12
+Berserk,leb,Limited Edition Beta,not_legal,247.49,170.00
+Birds of Paradise,leb,Limited Edition Beta,legal,597.79,726.83
+Black Knight,leb,Limited Edition Beta,legal,61.00,116.25
+Black Lotus,leb,Limited Edition Beta,not_legal,4650.00,13771.31
+Black Vise,leb,Limited Edition Beta,not_legal,48.96,80.97
+Black Ward,leb,Limited Edition Beta,not_legal,3.98,6.61
+Blaze of Glory,leb,Limited Edition Beta,not_legal,37.39,115.18
+Blessing,leb,Limited Edition Beta,legal,25.00,54.01
+Blue Elemental Blast,leb,Limited Edition Beta,not_legal,20.96,14.66
+Blue Ward,leb,Limited Edition Beta,not_legal,9.99,3.20
+Bog Wraith,leb,Limited Edition Beta,legal,5.00,12.40
+Braingeyser,leb,Limited Edition Beta,not_legal,220.00,295.23
+Burrowing,leb,Limited Edition Beta,not_legal,9.99,4.85
+Camouflage,leb,Limited Edition Beta,not_legal,46.49,12.98
+Castle,leb,Limited Edition Beta,not_legal,16.64,10.15
+Celestial Prism,leb,Limited Edition Beta,not_legal,18.33,6.80
+Channel,leb,Limited Edition Beta,not_legal,41.00,34.96
+Chaoslace,leb,Limited Edition Beta,not_legal,39.99,38.95
+Chaos Orb,leb,Limited Edition Beta,not_legal,500.00,909.56
+Circle of Protection: Black,leb,Limited Edition Beta,legal,6.33,6.75
+Circle of Protection: Blue,leb,Limited Edition Beta,legal,5.37,2.02
+Circle of Protection: Green,leb,Limited Edition Beta,legal,5.97,5.15
+Circle of Protection: Red,leb,Limited Edition Beta,legal,13.60,11.16
+Circle of Protection: White,leb,Limited Edition Beta,legal,4.11,5.47
+Clockwork Beast,leb,Limited Edition Beta,not_legal,84.95,29.98
+Clone,leb,Limited Edition Beta,legal,19.95,37.99
+Cockatrice,leb,Limited Edition Beta,legal,39.64,60.74
+Consecrate Land,leb,Limited Edition Beta,legal,13.50,9.01
+Conservator,leb,Limited Edition Beta,not_legal,5.95,9.55
+Contract from Below,leb,Limited Edition Beta,not_legal,179.97,75.50
+Control Magic,leb,Limited Edition Beta,not_legal,150.00,87.50
+Conversion,leb,Limited Edition Beta,not_legal,8.17,12.67
+Copper Tablet,leb,Limited Edition Beta,not_legal,7.56,69.58
+Copy Artifact,leb,Limited Edition Beta,not_legal,270.00,423.87
+Counterspell,leb,Limited Edition Beta,not_legal,157.76,299.95
+Craw Wurm,leb,Limited Edition Beta,legal,15.49,7.50
+Creature Bond,leb,Limited Edition Beta,not_legal,3.99,3.44
+Crusade,leb,Limited Edition Beta,not_legal,181.42,184.82
+Crystal Rod,leb,Limited Edition Beta,legal,5.99,6.29
+Cursed Land,leb,Limited Edition Beta,not_legal,5.12,14.92
+Cyclopean Tomb,leb,Limited Edition Beta,not_legal,117.34,169.16
+Darkpact,leb,Limited Edition Beta,not_legal,44.88,43.28
+Dark Ritual,leb,Limited Edition Beta,not_legal,94.97,94.34
+Deathgrip,leb,Limited Edition Beta,not_legal,26.50,13.64
+Deathlace,leb,Limited Edition Beta,not_legal,21.86,39.47
+Death Ward,leb,Limited Edition Beta,not_legal,2.38,4.54
+Demonic Attorney,leb,Limited Edition Beta,not_legal,36.27,68.96
+Demonic Hordes,leb,Limited Edition Beta,not_legal,131.12,160.89
+Demonic Tutor,leb,Limited Edition Beta,not_legal,399.95,316.66
+Dingus Egg,leb,Limited Edition Beta,legal,20.31,59.56
+Disenchant,leb,Limited Edition Beta,legal,73.73,44.89
+Disintegrate,leb,Limited Edition Beta,legal,10.51,7.00
+Disrupting Scepter,leb,Limited Edition Beta,legal,194.56,202.51
+Dragon Whelp,leb,Limited Edition Beta,legal,22.50,56.15
+Drain Life,leb,Limited Edition Beta,not_legal,15.75,12.40
+Drain Power,leb,Limited Edition Beta,not_legal,59.95,56.17
+Drudge Skeletons,leb,Limited Edition Beta,legal,7.28,5.22
+Dwarven Demolition Team,leb,Limited Edition Beta,legal,6.50,14.70
+Dwarven Warriors,leb,Limited Edition Beta,not_legal,4.38,3.01
+Earthbind,leb,Limited Edition Beta,not_legal,14.54,9.50
+Earth Elemental,leb,Limited Edition Beta,legal,14.33,13.42
+Earthquake,leb,Limited Edition Beta,legal,151.50,333.24
+Elvish Archers,leb,Limited Edition Beta,not_legal,74.10,192.86
+Evil Presence,leb,Limited Edition Beta,legal,17.46,14.72
+False Orders,leb,Limited Edition Beta,not_legal,5.69,5.49
+Farmstead,leb,Limited Edition Beta,not_legal,48.60,42.31
+Fastbond,leb,Limited Edition Beta,not_legal,319.00,191.66
+Fear,leb,Limited Edition Beta,legal,4.25,3.32
+Feedback,leb,Limited Edition Beta,not_legal,10.49,7.25
+Fireball,leb,Limited Edition Beta,legal,30.31,21.72
+Firebreathing,leb,Limited Edition Beta,legal,3.98,2.60
+Fire Elemental,leb,Limited Edition Beta,legal,13.95,12.00
+Flashfires,leb,Limited Edition Beta,legal,15.00,14.99
+Fog,leb,Limited Edition Beta,legal,14.10,11.44
+Forcefield,leb,Limited Edition Beta,not_legal,299.44,374.99
+Force of Nature,leb,Limited Edition Beta,legal,199.99,211.89
+Forest,leb,Limited Edition Beta,legal,16.56,10.60
+Fork,leb,Limited Edition Beta,not_legal,201.92,199.00
+Frozen Shade,leb,Limited Edition Beta,not_legal,5.58,6.11
+Fungusaur,leb,Limited Edition Beta,legal,39.95,78.71
+Gaea's Liege,leb,Limited Edition Beta,legal,129.99,49.45
+Gauntlet of Might,leb,Limited Edition Beta,not_legal,330.97,451.74
+Giant Growth,leb,Limited Edition Beta,legal,33.98,24.72
+Giant Spider,leb,Limited Edition Beta,legal,6.28,5.50
+Glasses of Urza,leb,Limited Edition Beta,not_legal,17.25,16.99
+Gloom,leb,Limited Edition Beta,not_legal,35.00,81.64
+Goblin Balloon Brigade,leb,Limited Edition Beta,legal,48.92,61.24
+Goblin King,leb,Limited Edition Beta,legal,140.00,164.74
+Granite Gargoyle,leb,Limited Edition Beta,not_legal,44.80,102.79
+Gray Ogre,leb,Limited Edition Beta,not_legal,3.40,2.89
+Green Ward,leb,Limited Edition Beta,not_legal,7.99,8.82
+Grizzly Bears,leb,Limited Edition Beta,legal,9.94,8.18
+Guardian Angel,leb,Limited Edition Beta,not_legal,3.99,5.49
+Healing Salve,leb,Limited Edition Beta,legal,3.25,3.32
+Helm of Chatzuk,leb,Limited Edition Beta,not_legal,39.87,21.78
+Hill Giant,leb,Limited Edition Beta,legal,3.54,3.74
+Holy Armor,leb,Limited Edition Beta,not_legal,3.43,4.55
+Holy Strength,leb,Limited Edition Beta,legal,3.56,3.84
+Howl from Beyond,leb,Limited Edition Beta,not_legal,6.13,3.66
+Howling Mine,leb,Limited Edition Beta,legal,166.22,299.99
+Hurloon Minotaur,leb,Limited Edition Beta,not_legal,3.62,5.83
+Hurricane,leb,Limited Edition Beta,legal,16.04,26.87
+Hypnotic Specter,leb,Limited Edition Beta,legal,290.00,207.49
+Ice Storm,leb,Limited Edition Beta,not_legal,103.97,84.50
+Icy Manipulator,leb,Limited Edition Beta,legal,102.48,210.00
+Illusionary Mask,leb,Limited Edition Beta,not_legal,275.04,184.07
+Instill Energy,leb,Limited Edition Beta,not_legal,24.99,12.00
+Invisibility,leb,Limited Edition Beta,legal,4.51,2.49
+Ironclaw Orcs,leb,Limited Edition Beta,not_legal,4.22,5.48
+Ironroot Treefolk,leb,Limited Edition Beta,not_legal,3.99,3.08
+Iron Star,leb,Limited Edition Beta,legal,4.99,6.64
+Island,leb,Limited Edition Beta,legal,26.80,26.11
+Island Sanctuary,leb,Limited Edition Beta,not_legal,70.00,58.92
+Ivory Cup,leb,Limited Edition Beta,legal,7.20,5.42
+Jade Monolith,leb,Limited Edition Beta,not_legal,39.99,38.10
+Jade Statue,leb,Limited Edition Beta,legal,27.95,25.74
+Jayemdae Tome,leb,Limited Edition Beta,legal,100.85,420.63
+Juggernaut,leb,Limited Edition Beta,legal,91.85,77.45
+Jump,leb,Limited Edition Beta,legal,2.55,2.98
+Karma,leb,Limited Edition Beta,legal,20.59,18.00
+Keldon Warlord,leb,Limited Edition Beta,not_legal,4.07,29.25
+Kormus Bell,leb,Limited Edition Beta,not_legal,99.49,67.09
+Kudzu,leb,Limited Edition Beta,not_legal,33.25,90.36
+Lance,leb,Limited Edition Beta,not_legal,7.50,8.43
+Ley Druid,leb,Limited Edition Beta,legal,6.41,13.97
+Library of Leng,leb,Limited Edition Beta,not_legal,32.09,23.88
+Lich,leb,Limited Edition Beta,not_legal,159.99,177.77
+Lifeforce,leb,Limited Edition Beta,not_legal,32.95,15.40
+Lifelace,leb,Limited Edition Beta,not_legal,35.69,29.51
+Lifetap,leb,Limited Edition Beta,not_legal,9.99,8.68
+Lightning Bolt,leb,Limited Edition Beta,legal,116.69,190.61
+Living Artifact,leb,Limited Edition Beta,not_legal,52.47,47.98
+Living Lands,leb,Limited Edition Beta,not_legal,44.31,49.45
+Living Wall,leb,Limited Edition Beta,not_legal,27.49,11.28
+Llanowar Elves,leb,Limited Edition Beta,legal,98.65,70.91
+Lord of Atlantis,leb,Limited Edition Beta,legal,299.98,252.49
+Lord of the Pit,leb,Limited Edition Beta,legal,106.01,204.39
+Lure,leb,Limited Edition Beta,legal,14.50,11.29
+Magical Hack,leb,Limited Edition Beta,not_legal,84.50,50.64
+Mahamoti Djinn,leb,Limited Edition Beta,legal,107.11,236.72
+Manabarbs,leb,Limited Edition Beta,legal,59.00,60.00
+Mana Flare,leb,Limited Edition Beta,not_legal,230.00,159.04
+Mana Short,leb,Limited Edition Beta,not_legal,195.00,107.38
+Mana Vault,leb,Limited Edition Beta,not_legal,499.99,601.80
+Meekstone,leb,Limited Edition Beta,not_legal,199.95,206.66
+Merfolk of the Pearl Trident,leb,Limited Edition Beta,legal,5.02,6.00
+Mesa Pegasus,leb,Limited Edition Beta,not_legal,4.99,4.98
+Mind Twist,leb,Limited Edition Beta,not_legal,359.99,577.13
+Mons's Goblin Raiders,leb,Limited Edition Beta,not_legal,5.48,3.27
+Mountain,leb,Limited Edition Beta,legal,18.79,11.55
+Mox Emerald,leb,Limited Edition Beta,not_legal,1599.99,1912.53
+Mox Jet,leb,Limited Edition Beta,not_legal,3199.99,2668.46
+Mox Pearl,leb,Limited Edition Beta,not_legal,1599.99,2086.14
+Mox Ruby,leb,Limited Edition Beta,not_legal,2199.99,1986.88
+Mox Sapphire,leb,Limited Edition Beta,not_legal,2199.99,2948.56
+Natural Selection,leb,Limited Edition Beta,not_legal,106.99,161.53
+Nether Shadow,leb,Limited Edition Beta,not_legal,169.99,123.48
+Nettling Imp,leb,Limited Edition Beta,not_legal,28.31,22.28
+Nevinyrral's Disk,leb,Limited Edition Beta,not_legal,519.99,463.09
+Nightmare,leb,Limited Edition Beta,legal,249.00,155.80
+Northern Paladin,leb,Limited Edition Beta,not_legal,53.80,51.02
+Air Elemental,lea,Limited Edition Alpha,legal,30.59,36.88
+Ancestral Recall,lea,Limited Edition Alpha,not_legal,6499.00,2337.11
+Animate Artifact,lea,Limited Edition Alpha,not_legal,13.64,34.63
+Animate Dead,lea,Limited Edition Alpha,not_legal,295.00,210.41
+Animate Wall,lea,Limited Edition Alpha,not_legal,199.99,141.54
+Ankh of Mishra,lea,Limited Edition Alpha,not_legal,596.09,344.36
+Armageddon,lea,Limited Edition Alpha,not_legal,509.99,438.40
+Aspect of Wolf,lea,Limited Edition Alpha,not_legal,154.00,142.94
+Badlands,lea,Limited Edition Alpha,not_legal,1094.98,934.27
+Bad Moon,lea,Limited Edition Alpha,legal,269.99,185.91
+Basalt Monolith,lea,Limited Edition Alpha,not_legal,150.00,157.98
+Bayou,lea,Limited Edition Alpha,not_legal,1799.99,1363.32
+Benalish Hero,lea,Limited Edition Alpha,not_legal,27.97,18.58
+Berserk,lea,Limited Edition Alpha,not_legal,363.55,282.48
+Birds of Paradise,lea,Limited Edition Alpha,legal,1368.49,913.05
+Black Knight,lea,Limited Edition Alpha,legal,117.99,280.63
+Black Vise,lea,Limited Edition Alpha,not_legal,220.00,167.13
+Black Ward,lea,Limited Edition Alpha,not_legal,6.79,16.12
+Blaze of Glory,lea,Limited Edition Alpha,not_legal,135.76,154.05
+Blessing,lea,Limited Edition Alpha,legal,105.00,125.52
+Blue Elemental Blast,lea,Limited Edition Alpha,not_legal,52.47,19.82
+Blue Ward,lea,Limited Edition Alpha,not_legal,15.89,12.99
+Bog Wraith,lea,Limited Edition Alpha,legal,9.99,34.95
+Braingeyser,lea,Limited Edition Alpha,not_legal,348.00,214.85
+Burrowing,lea,Limited Edition Alpha,not_legal,5.96,33.96
+Camouflage,lea,Limited Edition Alpha,not_legal,29.19,34.98
+Castle,lea,Limited Edition Alpha,not_legal,16.99,51.85
+Celestial Prism,lea,Limited Edition Alpha,not_legal,18.00,23.49
+Channel,lea,Limited Edition Alpha,not_legal,200.00,110.59
+Chaoslace,lea,Limited Edition Alpha,not_legal,101.73,164.63
+Chaos Orb,lea,Limited Edition Alpha,not_legal,842.39,752.02
+Circle of Protection: Blue,lea,Limited Edition Alpha,legal,24.50,11.60
+Circle of Protection: Green,lea,Limited Edition Alpha,legal,49.99,7.00
+Circle of Protection: Red,lea,Limited Edition Alpha,legal,19.99,27.29
+Circle of Protection: White,lea,Limited Edition Alpha,legal,25.00,10.98
+Clockwork Beast,lea,Limited Edition Alpha,not_legal,135.88,163.70
+Clone,lea,Limited Edition Alpha,legal,46.74,84.92
+Cockatrice,lea,Limited Edition Alpha,legal,109.99,132.16
+Consecrate Land,lea,Limited Edition Alpha,legal,23.00,68.15
+Conservator,lea,Limited Edition Alpha,not_legal,69.95,33.24
+Contract from Below,lea,Limited Edition Alpha,not_legal,329.97,173.87
+Control Magic,lea,Limited Edition Alpha,not_legal,53.99,87.91
+Conversion,lea,Limited Edition Alpha,not_legal,30.00,25.71
+Copper Tablet,lea,Limited Edition Alpha,not_legal,39.83,63.73
+Copy Artifact,lea,Limited Edition Alpha,not_legal,376.72,425.02
+Counterspell,lea,Limited Edition Alpha,not_legal,245.00,369.37
+Craw Wurm,lea,Limited Edition Alpha,legal,49.19,20.31
+Creature Bond,lea,Limited Edition Alpha,not_legal,22.33,11.39
+Crusade,lea,Limited Edition Alpha,not_legal,327.38,175.84
+Crystal Rod,lea,Limited Edition Alpha,legal,39.99,29.97
+Cursed Land,lea,Limited Edition Alpha,not_legal,16.99,42.47
+Cyclopean Tomb,lea,Limited Edition Alpha,not_legal,500.00,220.07
+Darkpact,lea,Limited Edition Alpha,not_legal,400.00,161.55
+Dark Ritual,lea,Limited Edition Alpha,not_legal,101.65,195.63
+Deathgrip,lea,Limited Edition Alpha,not_legal,3.96,39.21
+Deathlace,lea,Limited Edition Alpha,not_legal,164.98,154.44
+Death Ward,lea,Limited Edition Alpha,not_legal,24.99,23.89
+Demonic Attorney,lea,Limited Edition Alpha,not_legal,99.99,187.48
+Demonic Hordes,lea,Limited Edition Alpha,not_legal,189.95,205.79
+Demonic Tutor,lea,Limited Edition Alpha,not_legal,899.99,338.54
+Dingus Egg,lea,Limited Edition Alpha,legal,134.95,152.99
+Disenchant,lea,Limited Edition Alpha,legal,72.47,105.95
+Disintegrate,lea,Limited Edition Alpha,legal,45.00,27.12
+Disrupting Scepter,lea,Limited Edition Alpha,legal,534.00,417.48
+Dragon Whelp,lea,Limited Edition Alpha,legal,89.98,171.89
+Drain Life,lea,Limited Edition Alpha,not_legal,14.95,40.16
+Drain Power,lea,Limited Edition Alpha,not_legal,128.25,140.28
+Drudge Skeletons,lea,Limited Edition Alpha,legal,28.31,20.99
+Dwarven Demolition Team,lea,Limited Edition Alpha,legal,69.99,54.99
+Dwarven Warriors,lea,Limited Edition Alpha,not_legal,18.38,18.39
+Earthbind,lea,Limited Edition Alpha,not_legal,29.99,29.33
+Earth Elemental,lea,Limited Edition Alpha,legal,6.35,25.82
+Earthquake,lea,Limited Edition Alpha,legal,218.49,258.41
+Elvish Archers,lea,Limited Edition Alpha,not_legal,247.46,287.76
+Evil Presence,lea,Limited Edition Alpha,legal,19.99,33.40
+False Orders,lea,Limited Edition Alpha,not_legal,29.99,12.77
+Farmstead,lea,Limited Edition Alpha,not_legal,134.96,150.87
+Fastbond,lea,Limited Edition Alpha,not_legal,395.00,361.71
+Fear,lea,Limited Edition Alpha,legal,1.96,12.98
+Feedback,lea,Limited Edition Alpha,not_legal,25.00,17.75
+Fireball,lea,Limited Edition Alpha,legal,25.00,54.77
+Firebreathing,lea,Limited Edition Alpha,legal,25.00,13.41
+Fire Elemental,lea,Limited Edition Alpha,legal,74.99,49.59
+Flashfires,lea,Limited Edition Alpha,legal,19.99,38.02
+Flight,lea,Limited Edition Alpha,legal,18.64,19.44
+Fog,lea,Limited Edition Alpha,legal,40.00,21.71
+Forcefield,lea,Limited Edition Alpha,not_legal,3000.00,692.35
+Force of Nature,lea,Limited Edition Alpha,legal,209.99,228.27
+Forest,lea,Limited Edition Alpha,legal,28.41,34.58
+Fork,lea,Limited Edition Alpha,not_legal,395.00,314.63
+Frozen Shade,lea,Limited Edition Alpha,not_legal,34.99,17.39
+Fungusaur,lea,Limited Edition Alpha,legal,188.24,144.02
+Gaea's Liege,lea,Limited Edition Alpha,legal,48.00,189.37
+Gauntlet of Might,lea,Limited Edition Alpha,not_legal,450.00,705.14
+Giant Growth,lea,Limited Edition Alpha,legal,29.99,40.66
+Giant Spider,lea,Limited Edition Alpha,legal,28.20,14.12
+Glasses of Urza,lea,Limited Edition Alpha,not_legal,29.99,23.00
+Gloom,lea,Limited Edition Alpha,not_legal,90.00,67.00
+Goblin Balloon Brigade,lea,Limited Edition Alpha,legal,22.00,100.19
+Goblin King,lea,Limited Edition Alpha,legal,439.52,297.94
+Granite Gargoyle,lea,Limited Edition Alpha,not_legal,360.00,202.41
+Gray Ogre,lea,Limited Edition Alpha,not_legal,22.16,9.49
+Green Ward,lea,Limited Edition Alpha,not_legal,32.99,28.98
+Grizzly Bears,lea,Limited Edition Alpha,legal,60.00,26.74
+Guardian Angel,lea,Limited Edition Alpha,not_legal,30.87,21.29
+Healing Salve,lea,Limited Edition Alpha,legal,9.99,9.00
+Helm of Chatzuk,lea,Limited Edition Alpha,not_legal,54.28,107.64
+Hill Giant,lea,Limited Edition Alpha,legal,21.39,6.40
+Holy Armor,lea,Limited Edition Alpha,not_legal,24.99,8.00
+Holy Strength,lea,Limited Edition Alpha,legal,19.00,29.50
+Howl from Beyond,lea,Limited Edition Alpha,not_legal,20.00,19.07
+Howling Mine,lea,Limited Edition Alpha,legal,200.00,325.92
+Hurloon Minotaur,lea,Limited Edition Alpha,not_legal,27.99,19.50
+Hurricane,lea,Limited Edition Alpha,legal,16.20,39.86
+Hypnotic Specter,lea,Limited Edition Alpha,legal,159.99,349.75
+Ice Storm,lea,Limited Edition Alpha,not_legal,79.99,97.43
+Icy Manipulator,lea,Limited Edition Alpha,legal,160.55,379.60
+Illusionary Mask,lea,Limited Edition Alpha,not_legal,249.99,264.38
+Instill Energy,lea,Limited Edition Alpha,not_legal,22.74,34.74
+Invisibility,lea,Limited Edition Alpha,legal,20.00,21.66
+Ironclaw Orcs,lea,Limited Edition Alpha,not_legal,32.49,8.99
+Ironroot Treefolk,lea,Limited Edition Alpha,not_legal,12.00,8.50
+Iron Star,lea,Limited Edition Alpha,legal,12.34,18.00
+Island,lea,Limited Edition Alpha,legal,69.59,40.99
+Island Sanctuary,lea,Limited Edition Alpha,not_legal,145.99,111.19
+Ivory Cup,lea,Limited Edition Alpha,legal,5.20,12.99
+Jade Monolith,lea,Limited Edition Alpha,not_legal,149.50,129.06
+Jade Statue,lea,Limited Edition Alpha,legal,35.00,40.20
+Jayemdae Tome,lea,Limited Edition Alpha,legal,950.00,425.11
+Juggernaut,lea,Limited Edition Alpha,legal,189.79,173.34
+Jump,lea,Limited Edition Alpha,legal,20.00,17.86
+Karma,lea,Limited Edition Alpha,legal,19.00,37.42
+Keldon Warlord,lea,Limited Edition Alpha,not_legal,109.47,58.54
+Kormus Bell,lea,Limited Edition Alpha,not_legal,86.00,140.93
+Kudzu,lea,Limited Edition Alpha,not_legal,130.18,224.40
+Lance,lea,Limited Edition Alpha,not_legal,7.49,23.26
+Ley Druid,lea,Limited Edition Alpha,legal,24.00,37.08
+Library of Leng,lea,Limited Edition Alpha,not_legal,69.00,72.80
+Lich,lea,Limited Edition Alpha,not_legal,375.00,170.25
+Lifeforce,lea,Limited Edition Alpha,not_legal,29.99,30.85
+Lifelace,lea,Limited Edition Alpha,not_legal,107.36,149.22
+Lifetap,lea,Limited Edition Alpha,not_legal,12.67,18.24
+Lightning Bolt,lea,Limited Edition Alpha,legal,289.99,356.45
+Living Artifact,lea,Limited Edition Alpha,not_legal,117.45,135.31
+Living Lands,lea,Limited Edition Alpha,not_legal,68.00,102.93
+Living Wall,lea,Limited Edition Alpha,not_legal,52.50,30.96
+Llanowar Elves,lea,Limited Edition Alpha,legal,32.95,137.50
+Lord of Atlantis,lea,Limited Edition Alpha,legal,229.49,499.99
+Lord of the Pit,lea,Limited Edition Alpha,legal,329.99,402.51
+Lure,lea,Limited Edition Alpha,legal,50.00,33.17
+Magical Hack,lea,Limited Edition Alpha,not_legal,99.99,124.50
+Mahamoti Djinn,lea,Limited Edition Alpha,legal,249.99,301.15
+Manabarbs,lea,Limited Edition Alpha,legal,142.49,109.31
+Mana Flare,lea,Limited Edition Alpha,not_legal,465.00,278.27
+Mana Short,lea,Limited Edition Alpha,not_legal,308.12,222.97
+Meekstone,lea,Limited Edition Alpha,not_legal,718.75,255.69
+Merfolk of the Pearl Trident,lea,Limited Edition Alpha,legal,27.66,19.31
+Mesa Pegasus,lea,Limited Edition Alpha,not_legal,3.98,20.20
+Mind Twist,lea,Limited Edition Alpha,not_legal,314.99,573.27
+Mons's Goblin Raiders,lea,Limited Edition Alpha,not_legal,40.00,10.00
+Mountain,lea,Limited Edition Alpha,legal,28.16,24.12
+Mox Emerald,lea,Limited Edition Alpha,not_legal,2699.96,1605.55
+Mox Jet,lea,Limited Edition Alpha,not_legal,1750.00,3598.62
+Mox Pearl,lea,Limited Edition Alpha,not_legal,3714.49,2234.43
+Mox Ruby,lea,Limited Edition Alpha,not_legal,2699.96,2035.93
+Natural Selection,lea,Limited Edition Alpha,not_legal,181.31,177.45
+Nether Shadow,lea,Limited Edition Alpha,not_legal,130.00,153.51
+Nettling Imp,lea,Limited Edition Alpha,not_legal,30.00,34.99
+Nightmare,lea,Limited Edition Alpha,legal,699.95,197.27
+Northern Paladin,lea,Limited Edition Alpha,not_legal,99.99,147.87
